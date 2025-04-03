@@ -1,49 +1,50 @@
-# Exandria Campaign MkDocs Configuration
-# This file configures the MkDocs static site generator for the Exandria campaign website.
-# For more information on MkDocs, visit: https://www.mkdocs.org/.
-
-# Project Information
 site_name: Exandria Campaign
 site_description: Campaign website for Scott's D&D Dweebs' Adventures in Exandria
 site_author: NorthernScott
 copyright: © 2025 NorthernScott. The 'Exandria' campaign setting is the property of Critical Role, LLC.
 
-# Repository Information
 site_url: https://exu.northernscott.ca
 repo_url: https://github.com/NorthernScott/exu-website
 edit_uri: blob/main/docs/
 dev_addr: 127.0.0.1:8000
 remote_branch: gh-pages
 
-# Documentation Configuration
 use_directory_urls: true
 markdown_extensions:
-  - smarty
   - toc:
       permalink: true
   - sane_lists
   - admonition
   - pymdownx.snippets:
-      base_path: !relative  # Relative to the current Markdown file
+      base_path: !relative
 
-# Theme Configuration
 theme:
-  name: mkdocs
-  color_mode: auto
-  user_color_mode_toggle: true
-  nav_style: primary
-  highlightjs: true
-  hljs_style: github
-  hljs_dark_style: github_dark
-  hljs_languages:
-    - python
-    - javascript
-    - html
-    - css
-    - bash
-    - json
-    - yaml
-    - xml
-    - rust
-  navigation_depth: 3
-  locale: en
+  name: material
+
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+      primary: teal
+      accent: deep orange
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+      primary: teal
+      accent: deep orange
+
+  font:
+    text: IBM Plex Serif
+    code: IBM Plex Mono
+
+  language: en
+
+  logo: assets/ampersand-logo.png
+  favicon: assets/ampersand-logo.png
