@@ -1,0 +1,25 @@
+site_name: Exandria Campaign
+site_url: https://exu.northernscott.ca
+repo_url: https://github.com/NorthernScott/exu-website
+dev_addr: 127.0.0.1:8000
+
+theme:
+  name: mkdocs
+  color_mode: auto
+  user_color_mode_toggle: true
+  nav_style: primary
+  highlightjs: true
+  hljs_style: github
+  hljs_style: github_dark
+  hljs_languages:
+    - python
+    - javascript
+    - html
+    - css
+    - bash
+    - json
+    - yaml
+    - xml
+    - rust
+  navigation_depth: 3
+  locale: en
