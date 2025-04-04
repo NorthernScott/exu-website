@@ -1,0 +1,286 @@
+{
+  "workspaces": {
+    "Campaign Prep": {
+      "main": {
+        "id": "b5b1c52ec6df967e",
+        "type": "split",
+        "children": [
+          {
+            "id": "ae5cc029e6885f2b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c2258aa1b18b825c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ground Rules.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Ground Rules"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "01f911772932156e",
+        "type": "split",
+        "children": [
+          {
+            "id": "7a322518a0f2c430",
+            "type": "tabs",
+            "dimension": 58.82352941176471,
+            "children": [
+              {
+                "id": "517c6468f65e4a73",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": true
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "30299301c737cee3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "9068582648b40672",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          },
+          {
+            "id": "2db0567dc744242a",
+            "type": "tabs",
+            "dimension": 41.17647058823529,
+            "children": [
+              {
+                "id": "3d6c367cebba4b67",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Ground Rules.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Ground Rules"
+                }
+              },
+              {
+                "id": "447ebb0bfd37693b",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Ground Rules.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Ground Rules"
+                }
+              },
+              {
+                "id": "b5d99f05eee41e6e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "2520415aaeef81cd",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Ground Rules.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Ground Rules"
+                }
+              },
+              {
+                "id": "d31d3b619dc8c490",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "f13de474ac26bd19",
+        "type": "split",
+        "children": [
+          {
+            "id": "a5e4bee8245af70d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "db44d01243d843da",
+                "type": "leaf",
+                "state": {
+                  "type": "CALENDARIUM",
+                  "state": {
+                    "calendar": "ID_d80bfb99bbd8",
+                    "ephemeral": {
+                      "viewing": {
+                        "day": 24,
+                        "month": 5,
+                        "year": 836
+                      },
+                      "viewState": 1,
+                      "displaying": {
+                        "year": 836,
+                        "month": 5,
+                        "day": 24
+                      },
+                      "displayDayNumber": false,
+                      "displayMoons": true
+                    },
+                    "id": "ID_189b4b89cb88",
+                    "child": "ID_884a8ad8997b"
+                  },
+                  "icon": "CALENDARIUM",
+                  "title": "Calendarium"
+                }
+              },
+              {
+                "id": "0b7d867802881834",
+                "type": "leaf",
+                "state": {
+                  "type": "CALENDARIUM_AGENDA",
+                  "state": {
+                    "calendar": "ID_d80bfb99bbd8",
+                    "id": "ID_884a8ad8997b",
+                    "parent": "ID_189b4b89cb88"
+                  },
+                  "icon": "CALENDARIUM_AGENDA",
+                  "title": "Agenda"
+                }
+              }
+            ]
+          },
+          {
+            "id": "a4b1abab1ed37c7f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "afee92e630e67a44",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {},
+                  "icon": "dices",
+                  "title": "Dice Tray"
+                }
+              },
+              {
+                "id": "73504ac213eec6a8",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-view",
+                  "state": {},
+                  "icon": "initiative-tracker",
+                  "title": "Initiative Tracker"
+                }
+              },
+              {
+                "id": "3f6f1e6e1b384be9",
+                "type": "leaf",
+                "state": {
+                  "type": "fantasy-statblocks-creature-pane",
+                  "state": {},
+                  "icon": "skull",
+                  "title": "Combatant"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 373.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-5e-statblocks:Open Creature pane": false,
+          "fantasy-content-generator:Fantasy Generators": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "obsidian-git:Open Git source control": false,
+          "initiative-tracker:Initiative Tracker Encounter Builder": false,
+          "calendarium:Open Calendarium": false,
+          "obsidian42-brat:BRAT": false,
+          "obsidian-kanban:Create new board": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "c2258aa1b18b825c",
+      "mtime": "2025-03-23T18:00:02-06:00"
+    }
+  },
+  "active": "Campaign Prep"
+}

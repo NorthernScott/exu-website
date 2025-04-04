@@ -18,6 +18,20 @@ markdown_extensions:
   - pymdownx.snippets:
       base_path: !relative
 
+plugins:
+  - search:
+      lang: en
+      separator: '[\s\-]+'
+      min_search_length: 3
+      max_search_results: 10
+  - mkdocs-git-revision-date-localized-plugin:
+      enabled: true
+      include_date: true
+      include_time: false
+      date_format: "MMMM Do YYYY"
+      time_format: "h:mm A"
+  - privacy
+
 theme:
   name: material
 

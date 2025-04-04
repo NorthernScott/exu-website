@@ -1,0 +1,165 @@
+{
+  "github": {
+    "user": "NorthernScott",
+    "repo": "exu-campaign",
+    "branch": "main",
+    "automaticallyMergePR": true,
+    "dryRun": {
+      "enable": false,
+      "folderName": "github-publisher"
+    },
+    "tokenPath": "%configDir%/plugins/%pluginID%/env",
+    "api": {
+      "tiersForApi": "Github Free/Pro/Team (default)",
+      "hostname": ""
+    },
+    "workflow": {
+      "commitMessage": "PUBLISHER",
+      "name": ""
+    },
+    "otherRepo": [],
+    "verifiedRepo": true,
+    "rateLimit": 4984
+  },
+  "upload": {
+    "behavior": "yaml",
+    "defaultName": "docs",
+    "rootFolder": "",
+    "yamlFolderKey": "category",
+    "frontmatterTitle": {
+      "enable": false,
+      "key": "name"
+    },
+    "replaceTitle": [],
+    "replacePath": [],
+    "autoclean": {
+      "includeAttachments": true,
+      "enable": true,
+      "excluded": [
+        "_assets/meta",
+        ".github",
+        "/_assets\\/icons\\/(.*)svg/gi"
+      ]
+    },
+    "folderNote": {
+      "enable": true,
+      "rename": "index.md",
+      "addTitle": {
+        "enable": true,
+        "key": "title"
+      }
+    },
+    "metadataExtractorPath": "",
+    "subFolder": ""
+  },
+  "conversion": {
+    "hardbreak": false,
+    "dataview": true,
+    "censorText": [
+      {
+        "entry": "/image: \"\\[{2}(.*)\\/(.*)\\|(.*)\\]{2}\"/",
+        "replace": "image: $2",
+        "flags": "",
+        "after": false,
+        "inCodeBlocks": false
+      },
+      {
+        "entry": "/image: \"\\[{2}(.*)(\\|(.*))?\\]{2}\"/",
+        "replace": "image: $1",
+        "flags": "",
+        "after": false,
+        "inCodeBlocks": false
+      },
+      {
+        "entry": "/> \\[!(.*)\\|(.*)\\]/gi",
+        "replace": "> [!$1]",
+        "flags": "",
+        "after": false
+      },
+      {
+        "entry": "/icon_file: \"(.*)\"/gi",
+        "replace": "",
+        "flags": "",
+        "after": false
+      }
+    ],
+    "tags": {
+      "inline": true,
+      "exclude": [],
+      "fields": []
+    },
+    "links": {
+      "internal": true,
+      "unshared": false,
+      "wiki": true,
+      "slugify": false,
+      "unlink": false,
+      "relativePath": true,
+      "textPrefix": "/"
+    }
+  },
+  "embed": {
+    "attachments": true,
+    "overrideAttachments": [
+      {
+        "path": "/(_assets\\/_PLUGINS\\/icons)\\/(.*)\\/(.*)\\.(svg)$$/",
+        "destination": "_assets/icons/$2/{{name}}",
+        "forcePush": false
+      }
+    ],
+    "keySendFile": [
+      "image",
+      "icon_file"
+    ],
+    "notes": true,
+    "folder": "_assets/img",
+    "convertEmbedToLinks": "keep",
+    "charConvert": "->",
+    "unHandledObsidianExt": [],
+    "sendSimpleLinks": true,
+    "forcePush": true,
+    "forcePushAttachments": [],
+    "useObsidianFolder": false
+  },
+  "plugin": {
+    "shareKey": "share",
+    "fileMenu": false,
+    "editorMenu": false,
+    "excludedFolder": [
+      "Resources"
+    ],
+    "copyLink": {
+      "enable": true,
+      "links": "",
+      "removePart": [
+        "content",
+        "index.md"
+      ],
+      "addCmd": false,
+      "transform": {
+        "toUri": false,
+        "slugify": "disable",
+        "applyRegex": [
+          {
+            "regex": ".md/",
+            "replacement": ""
+          },
+          {
+            "regex": " ",
+            "replacement": "-"
+          }
+        ]
+      }
+    },
+    "noticeError": false,
+    "displayModalRepoEditing": false,
+    "setFrontmatterKey": "Set",
+    "externalShare": false,
+    "shareAll": {
+      "enable": false,
+      "excludedFileName": "DRAFT"
+    },
+    "migrated": true
+  },
+  "tabsId": "upload-configuration"
+}
