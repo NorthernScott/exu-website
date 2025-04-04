@@ -4,8 +4,7 @@ date created: Sunday, March 16th 2025, 5:00:55 pm
 date modified: Wednesday, April 2nd 2025, 6:14:08 pm
 aliases: []
 category: Meta
-tags:
-  - rules
+tags: [rules]
 references: 
 share: true
 ---

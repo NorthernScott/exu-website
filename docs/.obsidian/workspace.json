@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0121fcda8c4846ac",
+        "id": "a7bd06c59a8b68d2",
         "type": "tabs",
         "children": [
           {
-            "id": "54564a5546b16aef",
+            "id": "5312a80c31f668da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Catatheosis.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Catatheosis"
+              "title": "New tab"
             }
           }
         ]
@@ -88,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Catatheosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +93,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Catatheosis"
+              "title": "Backlinks"
             }
           },
           {
@@ -250,12 +245,32 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "02199362acf8f857",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "fa7ae7685fda84f8",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
           },
           {
-            "id": "02199362acf8f857",
+            "id": "3ddc2e3dc8a0cff4",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -326,11 +341,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "54564a5546b16aef",
+  "active": "517c6468f65e4a73",
   "lastOpenFiles": [
+    "Untitled",
+    "Catatheosis.md",
     "Characters.md",
     "Ruidians.md",
-    "Catatheosis.md",
     "Plot Hook Ideas.canvas",
     "Session Notes/Session Notes.md",
     "Session Notes/Session 0 - April 13, 2025.md",
