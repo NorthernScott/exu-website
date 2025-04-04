@@ -11,10 +11,14 @@
             "id": "5312a80c31f668da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "templates/session-notes.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "session-notes"
             }
           }
         ]
@@ -84,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/session-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for session-notes"
             }
           },
           {
@@ -163,11 +168,7 @@
               "state": {
                 "calendar": "ID_d80bfb99bbd8",
                 "ephemeral": {
-                  "viewing": {
-                    "day": 24,
-                    "month": 5,
-                    "year": 853
-                  },
+                  "viewing": null,
                   "viewState": 1,
                   "displaying": {
                     "day": 24,
@@ -179,104 +180,25 @@
                   "displayAbsoluteYear": false,
                   "displayMoons": true
                 },
-                "id": "ID_189b4b89cb88"
+                "id": "ID_189b4b89cb88",
+                "child": "ID_884a8ad8997b"
               },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
-            "id": "0b7d867802881834",
+            "id": "5fb6f85aa01e40f9",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM_AGENDA",
+              "type": "all-properties",
               "state": {
-                "calendar": "ID_d80bfb99bbd8",
-                "id": "ID_884a8ad8997b",
-                "parent": "ID_189b4b89cb88"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "1152a7647e970151",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "622bc5f4b5e9d317",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "c3c2c6b109c8c9ef",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "5939a3e8bc2af38f",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "b124170ac93a55d3",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "02199362acf8f857",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "fa7ae7685fda84f8",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "3ddc2e3dc8a0cff4",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -292,36 +214,25 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "dices",
+              "title": "Dice Tray"
             }
           },
           {
-            "id": "73504ac213eec6a8",
+            "id": "622bc5f4b5e9d317",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "3f6f1e6e1b384be9",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -338,18 +249,24 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "517c6468f65e4a73",
+  "active": "afee92e630e67a44",
   "lastOpenFiles": [
+    "Site Pages/Session Notes.md",
+    "Session Notes/Session 0 - April 13, 2025.md",
+    "Session Notes/Session Notes.md",
+    "templates/session-notes.md",
+    "templates/Plot Hook Ideas.canvas",
+    "Plot Hook Ideas.canvas",
+    "templates/Catatheosis.md",
     "Untitled",
     "Catatheosis.md",
     "Characters.md",
     "Ruidians.md",
-    "Plot Hook Ideas.canvas",
-    "Session Notes/Session Notes.md",
-    "Session Notes/Session 0 - April 13, 2025.md",
     "Session Notes",
     "House Rules & Clarifications.md",
     "Templates/Session Notes.md",
@@ -372,7 +289,6 @@
     "Attachments/designs/Magic Circle.afdesign",
     "Attachments/designs",
     "Attachments/desig s",
-    "Attachments/Untitled Folder",
     "Attachments/maps/Exandria - Speculative 2024 (low res).jpg",
     "Attachments/maps/Exandria - Speculative 2024 (high res).png",
     "Attachments/maps/Exandria - Speculative 2024.png"

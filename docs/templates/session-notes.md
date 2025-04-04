@@ -1,7 +1,7 @@
 ---
-title: Session 0 - April 13, 2025
+title: Session Notes
 date created: Sunday, March 16th 2025, 4:58:50 pm
-date modified: Wednesday, April 2nd 2025, 6:21:50 pm
+date modified: Thursday, April 3rd 2025, 9:47:43 pm
 aliases: []
 category: "Session Notes"
 tags: []

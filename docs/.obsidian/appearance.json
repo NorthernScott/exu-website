@@ -2,5 +2,8 @@
   "interfaceFontFamily": "IBM Plex Sans",
   "textFontFamily": "IBM Plex Serif",
   "monospaceFontFamily": "IBM Plex Mono",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "cssTheme": "Minimal",
+  "accentColor": "#be33ff",
+  "theme": "system"
 }

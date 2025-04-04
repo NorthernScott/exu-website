@@ -1,7 +1,7 @@
 # Project-specific exclusions
 .cache
-.obsidian
-.space
+# .obsidian
+# .space
 Resources
 
 # Byte-compiled / optimized / DLL files
