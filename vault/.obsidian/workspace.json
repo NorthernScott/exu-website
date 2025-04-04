@@ -11,17 +11,14 @@
             "id": "54564a5546b16aef",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Plot Hook Ideas.canvas",
-                "viewState": {
-                  "x": -741.8750660851279,
-                  "y": 164.08429092146326,
-                  "zoom": -0.13930554099424286
-                }
+                "file": "Catatheosis.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Plot Hook Ideas"
+              "icon": "lucide-file",
+              "title": "Catatheosis"
             }
           }
         ]
@@ -91,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plot Hook Ideas.canvas",
+                "file": "Catatheosis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Plot Hook Ideas"
+              "title": "Backlinks for Catatheosis"
             }
           },
           {
@@ -233,12 +230,32 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "5939a3e8bc2af38f",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b124170ac93a55d3",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
               "icon": "dices",
               "title": "Dice Tray"
             }
           },
           {
-            "id": "5939a3e8bc2af38f",
+            "id": "02199362acf8f857",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -302,27 +319,28 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
+      "calendarium:Open Calendarium": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian42-brat:BRAT": false,
-      "calendarium:Open Calendarium": false
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "54564a5546b16aef",
   "lastOpenFiles": [
+    "Characters.md",
+    "Ruidians.md",
+    "Catatheosis.md",
+    "Plot Hook Ideas.canvas",
     "Session Notes/Session Notes.md",
     "Session Notes/Session 0 - April 13, 2025.md",
     "Session Notes",
     "House Rules & Clarifications.md",
     "Templates/Session Notes.md",
-    "Plot Hook Ideas.canvas",
-    "Catatheosis.md",
     "Feast of New Dawn.md",
     "Map of the World.md",
     "Ground Rules.md",
     "Dunamancy.md",
-    "Characters.md",
     "Research/Folklore References.md",
     "Welcome.md",
     "6.md",

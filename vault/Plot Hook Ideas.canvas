@@ -22,7 +22,9 @@
 		{"id":"4026418b51861c30","type":"text","text":"Actually, I think that it might strengthen the Dwendalian monarchy.\n\nThe events of C3 would likely bring the Cerberus Assembly into massive disrepute. Ludinus is missing?? but probably not just back in his old post. Trent Ikithon is dead. I think that the Cobalt Soul and the king would use this as pretext to dissolve / seize power from the Cerberus Assembly.\n\nWith the removal of the gods, it might also provide the monarchy a pretext to further lessen the power of the churches.\n\nThere would still be rising Xorhasian influence.","x":608,"y":600,"width":411,"height":436},
 		{"id":"690eb721f81ab4d6","type":"text","text":"How would society change? I think that there might be various bold experiments in societal organization, sort of like during the reformation. Budding democracies? Fragmentation of larger empires and kingdoms.","x":-980,"y":10,"width":326,"height":213},
 		{"id":"1a13c798d13bbf3a","type":"text","text":"I think that there would be an upsurge of interest in the Age of Arcanum. I could see people moving more in that direction. Maybe even some early attempts at flying cities again? Or some sort of thauma-technical society?","x":-942,"y":321,"width":250,"height":316},
-		{"id":"cee4502f91bdb866","x":-1300,"y":278,"width":250,"height":87,"type":"text","text":"Definitely an upsurge of interest in immortality, necromancy."}
+		{"id":"cee4502f91bdb866","type":"text","text":"Definitely an upsurge of interest in immortality, necromancy.","x":-1300,"y":278,"width":250,"height":87},
+		{"id":"92570841527aacfe","x":-840,"y":-279,"width":250,"height":58,"type":"text","text":"What's up with Ruidus these days?"},
+		{"id":"d6b97aebe0362583","x":-740,"y":-453,"width":250,"height":87,"color":"1","type":"text","text":"OH MY GOD WHAT ABOUT THE RUIDIANS???"}
 	],
 	"edges":[
 		{"id":"24dd97991b2dddc6","fromNode":"ef4d488cdad647bd","fromSide":"top","toNode":"0aba4bd3592b70fd","toSide":"bottom"},
@@ -46,6 +48,8 @@
 		{"id":"1373ccd677e7e750","fromNode":"013172689d5a8755","fromSide":"bottom","toNode":"4026418b51861c30","toSide":"left"},
 		{"id":"f41a968e9454287b","fromNode":"ef4d488cdad647bd","fromSide":"left","toNode":"690eb721f81ab4d6","toSide":"right"},
 		{"id":"c1c1b10ebcdf3c83","fromNode":"690eb721f81ab4d6","fromSide":"bottom","toNode":"1a13c798d13bbf3a","toSide":"top"},
-		{"id":"935990f1750abbac","fromNode":"1a13c798d13bbf3a","fromSide":"left","toNode":"cee4502f91bdb866","toSide":"right"}
+		{"id":"935990f1750abbac","fromNode":"1a13c798d13bbf3a","fromSide":"left","toNode":"cee4502f91bdb866","toSide":"right"},
+		{"id":"0559d1e7fdbb4923","fromNode":"ef4d488cdad647bd","fromSide":"left","toNode":"92570841527aacfe","toSide":"bottom"},
+		{"id":"6b50a1176b7822c2","fromNode":"92570841527aacfe","fromSide":"top","toNode":"d6b97aebe0362583","toSide":"bottom"}
 	]
 }
