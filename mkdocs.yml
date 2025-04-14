@@ -62,10 +62,8 @@ markdown_extensions:
 
 plugins:
   - search:
+      enabled: true
       lang: en
-      separator: '[\s\-]+'
-      min_search_length: 3
-      max_search_results: 10
   - tags
   - privacy
   - blog
