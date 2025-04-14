@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "exandria-world",
-      "lastAccessed": 1742792939579,
+      "lastAccessed": 1744574838754,
       "markers": [
         {
           "id": "ID_6a7b898ac84a",
@@ -87,9 +87,58 @@
         }
       ],
       "overlays": [],
-      "shapes": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": 2175.7675657110067,
+              "lng": 3509.017401638242,
+              "id": "ID_eb497b3a497b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2251.5,
+              "lng": 3578.5,
+              "id": "ID_cab96a592a8b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2251.5,
+              "lng": 3578.5,
+              "id": "ID_4bcb39db4918",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2251.5,
+              "lng": 3578.5,
+              "id": "ID_bb0ba938dbfa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": 2251.5,
+              "lng": 3578.5,
+              "id": "ID_db4b7bf9a98b",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": false,
+          "reversed": false
+        }
+      ],
       "files": [
-        "World Atlas/Map of the World.md"
+        "Map of the World.md"
       ]
     }
   ],

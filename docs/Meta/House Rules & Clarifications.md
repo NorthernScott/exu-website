@@ -1,11 +1,10 @@
 ---
 title: House Rules & Clarifications
 date created: Sunday, March 16th 2025, 5:00:55 pm
-date modified: Wednesday, April 2nd 2025, 6:14:08 pm
+date modified: Sunday, April 13th 2025, 9:36:27 am
 aliases: []
 category: Meta
-tags:
-  - rules
+tags: [rules]
 references: 
 share: true
 ---
@@ -74,7 +73,7 @@ I like downtime. Let’s do more of that.
 
 ## Languages
 
-The campaign setting has numerous distinct cultures that have their own languages. For the purposes of roleplaying, it is assumed that these cultural and regional languages are dialects of “Common.” Some dialects may be more or less mutually intelligible with your own. Therefor, the GM may rule that one or more characters are unable to speak with a given NPC.
+The campaign setting has numerous distinct cultures that have their own languages. For the purposes of roleplaying, it is assumed that these cultural and regional languages are dialects of “Common.” Some dialects may be more or less mutually intelligible with your own. Therefore, the GM may rule that one or more characters are unable to speak with a given NPC.
 
 ## Unencumbered by Encumbrance
 

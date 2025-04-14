@@ -1,7 +1,7 @@
 ---
 title: Ground Rules
 date created: Sunday, March 16th 2025, 2:06:05 pm
-date modified: Wednesday, April 2nd 2025, 6:03:00 pm
+date modified: Sunday, April 13th 2025, 9:30:07 am
 aliases: []
 category: 
 tags: [rules]
@@ -19,14 +19,14 @@ share: true
 6. We play at a mutually agreed location. We do our best to accommodate our different transportation needs.
 7. We have food as a part of our games, either individually or as a group.
 8. We do our best to attend all our games, to show up on time every time, and to stay for the entire session.
-9. If we’re going to be late or can’t make it, we do our best to give at least a week’s notice, or as much as we can, knowing that sometimes, “life happens
-10. We want to have fun socialising, but we also want to prioritise making progress on the campaign.
+9. If we’re going to be late or can’t make it, we do our best to give at least a week’s notice, or as much as we can, knowing that sometimes “life happens.”
+10. We want to have fun socializing, but we also want to prioritize making progress on the campaign.
 
 # We’ll Encourage
 
 - Fun and silliness when the stakes are low
 - Seriousness and gravitas when the situation demands
-- “True-to-life” roleplaying#
+- “True-to-life” roleplaying
 
 # We’re Fine With
 
