@@ -1,27 +1,20 @@
 ---
-# hide:
-#   - navigation
-#   - toc
-#   - path
-publish: true
+title: index
+date created: Sunday, April 13th 2025, 10:19:29 pm
+date modified: Sunday, April 13th 2025, 11:25:19 pm
+aliases: []
+category: 
+tags: []
+references: 
+share: 
+publish: published
 search:
   exclude: true
 ---
 
-# Welcome to MkDocs
+# Welcome to Exandria
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Todo
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+```tasks
+```

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters.md",
+                "file": "index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Characters"
+              "title": "index"
             }
           }
         ]
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Characters"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -144,6 +144,20 @@
               "icon": "lucide-list",
               "title": "Outline of Plot Hook Ideas"
             }
+          },
+          {
+            "id": "5fb6f85aa01e40f9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ]
       }
@@ -158,7 +172,6 @@
       {
         "id": "a5e4bee8245af70d",
         "type": "tabs",
-        "dimension": 55.703883495145625,
         "children": [
           {
             "id": "db44d01243d843da",
@@ -187,28 +200,7 @@
             }
           },
           {
-            "id": "5fb6f85aa01e40f9",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a4b1abab1ed37c7f",
-        "type": "tabs",
-        "dimension": 44.296116504854375,
-        "children": [
-          {
-            "id": "afee92e630e67a44",
+            "id": "fca87c1e9e348e3a",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -216,7 +208,13 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "a4b1abab1ed37c7f",
+        "type": "tabs",
+        "children": [
           {
             "id": "622bc5f4b5e9d317",
             "type": "leaf",
@@ -226,8 +224,19 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
+          },
+          {
+            "id": "41f84c85cfe43ebe",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,9 +249,9 @@
       "canvas:Create new canvas": false,
       "obsidian-kanban:Create new board": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "command-palette:Open command palette": true,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "templater-obsidian:Templater": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
@@ -251,16 +260,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6653dbad61dc3631",
+  "active": "517c6468f65e4a73",
   "lastOpenFiles": [
-    "Catatheosis.md",
-    "Map of the World.md",
-    "Characters.md",
+    "Research/Folklore References.md",
+    "index.md",
+    "World",
+    "Meta/Characters.md",
+    "World/Catatheosis.md",
+    "World/Map of the World.md",
     "Party Plot Hooks.canvas",
     "Untitled.md",
     "Exandria World Primer.md",
     "Plot Hook Ideas.canvas",
-    "index.md",
     "Meta/House Rules & Clarifications.md",
     "Meta/House Rules & Clarifications.md",
     "Meta/Ground Rules.md",
@@ -270,14 +281,11 @@
     "Session Notes/Session Notes.md",
     "templates/Plot Hook Ideas.canvas",
     "templates/Catatheosis.md",
-    "Untitled",
-    "Ruidians.md",
+    "World/Ruidians.md",
     "Session Notes",
     "Templates/Session Notes.md",
     "Feast of New Dawn.md",
     "Dunamancy.md",
-    "Research/Folklore References.md",
-    "Welcome.md",
     "6.md",
     "Concepts",
     "World Atlas",

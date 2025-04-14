@@ -1,15 +1,17 @@
 ---
 title: Characters
 date created: Sunday, March 16th 2025, 4:57:17 pm
-date modified: Sunday, April 13th 2025, 2:36:37 pm
+date modified: Sunday, April 13th 2025, 11:21:27 pm
 aliases: []
-category: 
-tags: []
+category: Meta
+tags: [plot]
 references: 
-share: false
+publish: hidden
 ---
 
-# Helga Hirscka (Nicole)
+# Characters
+
+## Helga Hirscka (Nicole)
 
 - Goliath
 - Barbarian
@@ -46,7 +48,7 @@ share: false
 - She has a certain amount of disdain for the people, and thinks the men are weak and soft. But is also intrigued by the comforts of the place.
 - Really think that the party should meet at the Lavish Chateau.
 
-# Lucian Sugea (Spencer)
+## Lucian Sugea (Spencer)
 
 - Half-Human / Half-High Elf
 - Sugea means “Serpent” in Basque.
@@ -85,7 +87,7 @@ share: false
 - Is his mom arranging marriages for him? Does she even care?
 - He’s not really interested. Maybe he turns off suitors?
 
-# Ada Glowsword (Lindsay)
+## Ada Glowsword (Lindsay)
 
 - Gnome, Female, 80
 - Wizard
@@ -105,30 +107,62 @@ share: false
 	- Maybe she’s encountered Lucian and thinks he could be a god? Maybe he is.
 - Young and curious. Gets into trouble.
 
-# Alarise “Stormshore” (Adam)
+## Alarise “Stormshore” (Adam)
 
-- Human, Female, Monk, 23
-- Monk of Raven Queen
-- Intended Subclass: Open Hand
-- Upper middle class suburban background
-- Typical upbringing.
-- Private school, Jesuits but for the Raven Queen.
-- From Zadash
-- Trinket: A small rectangular metal box with cups on one end that throws sparks when wet. Basically a 9-volt battery.
-	- How did she get this? Stolen from the house of a girl she didn’t like at a house party in school. Probably belonged to her parents.
-- Enjoyed the religious community at the school.
-- Found the community there deeper and more honest than her upbringing.
-- Not an ascetic order. Very work hard / play hard.
-- They are also not cloistered. They do send people out to do things.
-- Parents are alive. They are scribes by trade. Accountants, professional services.
-- Her parents sent her to school but did not expect her to become a Monk devotee of the Goddess of Death. They probably think that this is a phase and are just happy that she’s doing something with her life.
-- She has 3 outfits. Street clothes, little black dress, black catsuit.
-- Only child.
-- She has gone to Nicodranas because the order sent her there. She is feeling like an outcast again.
-- She is feeling great about being on the Menagerie Coast. But this is maybe in tension with what she is starting to feel is a real calling to the service of the Raven Queen.
-- Why was she sent to Nicodranas? Looking for the Raven Queen? Something more…aggressive?
+| Name:        | Alarise “Stormshore” (Last Name TBD) |
+| ------------ | ------------------------------------ |
+| **Player:**  | Adam Reid                            |
+| **Species:** | Human                                |
+| **Gender:**  | Female (she/her)                     |
+| **Age:**     | 23                                   |
+| **From:**    | Zadash, Dwendalian Empire            |
+| **Class:**   | Monk, Way of the Open Hand           |
+| **Deity:**   | Raven Queen                          |
 
-# Shin Cherou (Beth)
+### Personality
+
+Alarise is a Dwendalian “mall goth.” Impetuous and somewhat hot headed as a child, she learned discipline in school and clings to that discipline in a world that she finds both overwhelming and deeply frustrating.
+
+### Family Background
+
+Alarise had a “typical” upper middle class upbringing. Her parents, who are alive, work as scribes, providing accounting services to the wealthy business owners of Zadash society. Alarise is an only child; her parents weren’t even sure that they wanted one kid and decided to stop after her when she proved to be something of a handful.
+
+As a child, her parents enrolled her in a private school run by a clerical order devoted to the Matron of Ravens. They chose the school largely because of its reputation and because she could live at home while attending. They certainly did not expect her to become a devotee of the Goddess of Death--let alone a monk--and probably think that this is “just a phase.” That said, they are happy that she is doing something with her life, even if they don’t get it.
+
+> [!NOTE] Trinket
+> A small, rectangular piece of metal, slightly smaller than a snuff box, with two silver metallic cups on one end. It throws sparks when wet. Basically a 9-volt battery. She stole it from the house of a girl she didn’t like while at a house party in school. Unbeknownst to her, the object belonged to the girl’s father, who was/is a researcher at the Halls of Erudition.
+>
+> - [ ] Determine what the device is/does. 🔽 ➕ 2025-04-13
+
+### Affiliation
+
+Alarise is a member of …
+
+- [ ] Invent monastic order for Alarise. ➕ 2025-04-13 🛫 2025-04-13 📅 2025-04-20
+
+She enjoyed the religious community at the school and found it deeper and more honest than much of her own upbringing. When she reached adulthood, she chose to pursue a monastic life largely because she wanted to remain part of the community.
+
+The clerics of the Matron are not an ascetic order. They subscribe to a “work hard / play hard” philosophy. They are also not a cloistered order, though they do keep to themselves somewhat. However, some of their ranks can be found throughout society filling various roles and generally contributing.
+
+### Quest
+
+Her order sent her to Nicodranas.
+
+- [ ] Work with Adam to determine why she has been sent there. ⏫ ➕ 2025-04-13 ⏳ 2025-04-20
+
+Being in such a free-wheeling, colourful place has filled her with some tension. On the one hand, she is a young, energetic, and eager woman who is thrilled to be somewhere exotic and fun. On the other hand, she’s experiencing some culture shock and feeling a bit overwhelmed. The experience has also mixed her up, making her question her vocation just as she was coming to truly identify with it.
+
+> [!IMPORTANT] What is her quest?
+> Why WAS she sent to Nicodranas? Is her order looking for the Raven Queen in mortal form? Are they gathering intelligence on something? Why send a monk from Zadash all the way there? Maybe a mixture of “getting her out of the house,” while also filling a specific need they had?
+
+### Key Relationships
+
+- Mother:
+- Father:
+- Mother Superior:
+- Best Friend: ?
+
+## Shin Cherou (Beth)
 
 - Hobgoblin
 - Intended Sublass: Life Domain

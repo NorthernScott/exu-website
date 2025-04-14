@@ -1,7 +1,7 @@
 {
   "interfaceFontFamily": "IBM Plex Sans",
   "textFontFamily": "IBM Plex Serif",
-  "monospaceFontFamily": "IBM Plex Mono",
+  "monospaceFontFamily": "BlexMono Nerd Font Mono",
   "nativeMenus": false,
   "cssTheme": "Minimal",
   "accentColor": "#be33ff",

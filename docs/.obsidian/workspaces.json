@@ -6,21 +6,21 @@
         "type": "split",
         "children": [
           {
-            "id": "ae5cc029e6885f2b",
+            "id": "a7bd06c59a8b68d2",
             "type": "tabs",
             "children": [
               {
-                "id": "c2258aa1b18b825c",
+                "id": "6653dbad61dc3631",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Ground Rules.md",
+                    "file": "Meta/Characters.md",
                     "mode": "source",
-                    "source": false
+                    "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Ground Rules"
+                  "title": "Characters"
                 }
               }
             ]
@@ -35,7 +35,7 @@
           {
             "id": "7a322518a0f2c430",
             "type": "tabs",
-            "dimension": 58.82352941176471,
+            "dimension": 67.6056338028169,
             "children": [
               {
                 "id": "517c6468f65e4a73",
@@ -82,7 +82,7 @@
           {
             "id": "2db0567dc744242a",
             "type": "tabs",
-            "dimension": 41.17647058823529,
+            "dimension": 32.3943661971831,
             "children": [
               {
                 "id": "3d6c367cebba4b67",
@@ -90,7 +90,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Ground Rules.md",
+                    "file": "Meta/Characters.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Ground Rules"
+                  "title": "Backlinks for Characters"
                 }
               },
               {
@@ -109,12 +109,12 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Ground Rules.md",
+                    "file": "Plot Hook Ideas.canvas",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-going-out",
-                  "title": "Outgoing links from Ground Rules"
+                  "title": "Outgoing links from Plot Hook Ideas"
                 }
               },
               {
@@ -138,23 +138,13 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Ground Rules.md",
+                    "file": "Plot Hook Ideas.canvas",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of Ground Rules"
-                }
-              },
-              {
-                "id": "d31d3b619dc8c490",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {},
-                  "icon": "git-pull-request",
-                  "title": "Source Control"
+                  "title": "Outline of Plot Hook Ideas"
                 }
               }
             ]
@@ -179,39 +169,36 @@
                   "state": {
                     "calendar": "ID_d80bfb99bbd8",
                     "ephemeral": {
-                      "viewing": {
-                        "day": 24,
-                        "month": 5,
-                        "year": 836
-                      },
+                      "viewing": null,
                       "viewState": 1,
                       "displaying": {
-                        "year": 836,
+                        "day": 24,
                         "month": 5,
-                        "day": 24
+                        "year": 853
                       },
                       "displayDayNumber": false,
+                      "hideEra": false,
+                      "displayAbsoluteYear": false,
                       "displayMoons": true
                     },
-                    "id": "ID_189b4b89cb88",
-                    "child": "ID_884a8ad8997b"
+                    "id": "ID_189b4b89cb88"
                   },
                   "icon": "CALENDARIUM",
                   "title": "Calendarium"
                 }
               },
               {
-                "id": "0b7d867802881834",
+                "id": "5fb6f85aa01e40f9",
                 "type": "leaf",
                 "state": {
-                  "type": "CALENDARIUM_AGENDA",
+                  "type": "all-properties",
                   "state": {
-                    "calendar": "ID_d80bfb99bbd8",
-                    "id": "ID_884a8ad8997b",
-                    "parent": "ID_189b4b89cb88"
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
                   },
-                  "icon": "CALENDARIUM_AGENDA",
-                  "title": "Agenda"
+                  "icon": "lucide-archive",
+                  "title": "All properties"
                 }
               }
             ]
@@ -231,7 +218,7 @@
                 }
               },
               {
-                "id": "73504ac213eec6a8",
+                "id": "622bc5f4b5e9d317",
                 "type": "leaf",
                 "state": {
                   "type": "initiative-tracker-view",
@@ -241,7 +228,7 @@
                 }
               },
               {
-                "id": "3f6f1e6e1b384be9",
+                "id": "41f84c85cfe43ebe",
                 "type": "leaf",
                 "state": {
                   "type": "fantasy-statblocks-creature-pane",
@@ -262,24 +249,21 @@
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
           "canvas:Create new canvas": false,
-          "daily-notes:Open today's daily note": false,
+          "obsidian-kanban:Create new board": false,
           "templates:Insert template": false,
           "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
           "table-editor-obsidian:Advanced Tables Toolbar": false,
           "templater-obsidian:Templater": false,
-          "obsidian-5e-statblocks:Open Creature pane": false,
-          "fantasy-content-generator:Fantasy Generators": false,
-          "obsidian-leaflet-plugin:Open Leaflet Map": false,
-          "obsidian-git:Open Git source control": false,
           "initiative-tracker:Initiative Tracker Encounter Builder": false,
-          "calendarium:Open Calendarium": false,
-          "obsidian42-brat:BRAT": false,
-          "obsidian-kanban:Create new board": false,
-          "workspaces:Manage workspace layouts": false
+          "obsidian-5e-statblocks:Open Creature pane": false,
+          "obsidian-leaflet-plugin:Open Leaflet Map": false,
+          "obsidian42-brat:BRAT": true,
+          "calendarium:Open Calendarium": false
         }
       },
-      "active": "c2258aa1b18b825c",
-      "mtime": "2025-03-23T18:00:02-06:00"
+      "active": "6653dbad61dc3631",
+      "mtime": "2025-04-13T22:28:24-06:00"
     }
   },
   "active": "Campaign Prep"

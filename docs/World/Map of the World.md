@@ -1,13 +1,16 @@
 ---
 title: Map of the World
 date created: Sunday, March 23rd 2025, 6:57:30 pm
-date modified: Wednesday, April 2nd 2025, 6:03:00 pm
+date modified: Sunday, April 13th 2025, 10:27:12 pm
 aliases: [atlas, world map]
 category: 
 tags: [geography]
 references: 
-publish: true
+share: 
+publish: published
 ---
+
+# Map of the World
 
 ```leaflet
 id: exandria-world

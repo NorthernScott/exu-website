@@ -1,7 +1,7 @@
 site_name: Exandria Campaign
 site_description: Campaign website for Scott's D&D Dweebs' Adventures in Exandria
 site_author: NorthernScott
-copyright: © 2025 NorthernScott. The 'Exandria' campaign setting is the property of Critical Role, LLC. -- <a href="#__consent">Change cookie settings</a>
+copyright: © 2025 NorthernScott. The 'Exandria' campaign setting is the property of Critical Role, LLC.
 
 site_url: https://exu.northernscott.ca
 repo_url: https://github.com/NorthernScott/exu-website
@@ -71,47 +71,8 @@ plugins:
       enable_creation_date: true
       type: datetime
   - pub-meta:
-      overview:
-        enable: true
-        default: auto
-        key_name: slug
-        dir_meta_file: README.md
-      publish:
-        search_in_hidden: false
-        search_in_draft: false
-        file_default: draft
-        file_warn_on_missing: true
-        dir_default: published
-        dir_warn_on_missing: false
-        key_name: publish
-      redirect:
-        enable: true
-        key_name: redirect
-      slug:
-        enable: true
-        mode: title
-        warn_on_missing: true
-        key_name: slug
-      title:
-        key_name: title
   - pub-obsidian:
-      obsidian_dir: .obsidian
       templates_dir: templates
-      backlinks:
-        enabled: true
-      callouts:
-        enabled: true
-        indentation: spaces
-      comments:
-        enabled: true
-        inject_as_html: false
-      links:
-        wikilinks_enabled: true
-        img_lazy: true
-      vega:
-        enabled: true
-        vega_schema: https://vega.github.io/schema/vega/v5.json
-        vega_lite_schema: https://vega.github.io/schema/vega-lite/v5.json
 
 theme:
   name: material
@@ -143,7 +104,7 @@ theme:
     - navigation.path
     # - navigation.prune
     - navigation.sections
-    - navigation.tabs
+    # - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.top
     - search.highlight

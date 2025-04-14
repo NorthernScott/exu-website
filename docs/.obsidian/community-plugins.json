@@ -1,6 +1,5 @@
 [
   "obsidian-linter",
-  "table-editor-obsidian",
   "obsidian-minimal-settings",
   "templater-obsidian",
   "dataview",
@@ -13,5 +12,7 @@
   "image-converter",
   "obsidian42-brat",
   "obsidian-discord-share",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "table-editor-obsidian",
+  "obsidian-tasks-plugin"
 ]
