@@ -6,7 +6,7 @@ aliases: [atlas, world map]
 category: 
 tags: [geography]
 references: 
-share: true
+publish: true
 ---
 
 ```leaflet

@@ -1,78 +1,119 @@
 site_name: Exandria Campaign
 site_description: Campaign website for Scott's D&D Dweebs' Adventures in Exandria
 site_author: NorthernScott
-copyright: © 2025 NorthernScott. The 'Exandria' campaign setting is the property of Critical Role, LLC.
+copyright: © 2025 NorthernScott. The 'Exandria' campaign setting is the property of Critical Role, LLC. -- <a href="#__consent">Change cookie settings</a>
 
 site_url: https://exu.northernscott.ca
 repo_url: https://github.com/NorthernScott/exu-website
 edit_uri: blob/main/docs/
 dev_addr: 127.0.0.1:8000
 remote_branch: main
+remote_name: origin
+
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+  anchors: warn
 
 use_directory_urls: true
+
 markdown_extensions:
-  - toc:
-    permalink: true
-  - sane_lists
+  - abbr
+  - tables
+  # - attr_list
+  # - md_in_html
+  - def_list
+  - footnotes
   - admonition
+  - toc:
+      title: On this page
+      permalink: true
+      permalink_title: Anchor link to this section
+      toc_depth: 3
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      use_pygments: true
+      pygments_lang_class: true
+      auto_title: true
+      linenums: true
+      linenums_style: pymdownx-inline
+      line_spans: __span
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.betterem
+  - pymdownx.blocks.caption
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
   - pymdownx.snippets:
-    base_path: !relative
+      base_path: !relative
 
 plugins:
   - search:
-    lang: en
-    separator: '[\s\-]+'
-    min_search_length: 3
-    max_search_results: 10
-  - mkdocs-git-revision-date-localized-plugin:
-    enabled: true
-    include_date: true
-    include_time: false
-    date_format: "MMMM Do YYYY"
-    time_format: "h:mm A"
+      lang: en
+      separator: '[\s\-]+'
+      min_search_length: 3
+      max_search_results: 10
+  - tags
   - privacy
+  - blog
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: datetime
   - pub-meta:
-    overview:
-      enable: true
-      default: auto
-      key_name: slug
-      dir_meta_file: README.md
-    publish:
-      search_in_hidden: false
-      search_in_draft: false
-      file_default: draft
-      file_warn_on_missing: true
-      dir_default: published
-      dir_warn_on_missing: false
-      key_name: publish
-    redirect:
-      enable: true
-      key_name: redirect
-    slug:
-      enable: true
-      mode: title
-      warn_on_missing: true
-      key_name: slug
-    title:
-      key_name: title
+      overview:
+        enable: true
+        default: auto
+        key_name: slug
+        dir_meta_file: README.md
+      publish:
+        search_in_hidden: false
+        search_in_draft: false
+        file_default: draft
+        file_warn_on_missing: true
+        dir_default: published
+        dir_warn_on_missing: false
+        key_name: publish
+      redirect:
+        enable: true
+        key_name: redirect
+      slug:
+        enable: true
+        mode: title
+        warn_on_missing: true
+        key_name: slug
+      title:
+        key_name: title
   - pub-obsidian:
-    obsidian_dir: .obsidian
-    templates_dir: templates
-    backlinks:
-      enabled: true
-    callouts:
-      enabled: true
-      indentation: spaces
-    comments:
-      enabled: true
-      inject_as_html: false
-    links:
-      wikilinks_enabled: true
-      img_lazy: true
-    vega:
-      enabled: true
-      vega_schema: https://vega.github.io/schema/vega/v5.json
-      vega_lite_schema: https://vega.github.io/schema/vega-lite/v5.json
+      obsidian_dir: .obsidian
+      templates_dir: templates
+      backlinks:
+        enabled: true
+      callouts:
+        enabled: true
+        indentation: spaces
+      comments:
+        enabled: true
+        inject_as_html: false
+      links:
+        wikilinks_enabled: true
+        img_lazy: true
+      vega:
+        enabled: true
+        vega_schema: https://vega.github.io/schema/vega/v5.json
+        vega_lite_schema: https://vega.github.io/schema/vega-lite/v5.json
 
 theme:
   name: material
@@ -85,7 +126,7 @@ theme:
         icon: material/toggle-switch
         name: Switch to dark mode
       primary: teal
-      accent: deep orange
+      accent: amber
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -94,13 +135,48 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
       primary: teal
-      accent: deep orange
+      accent: amber
+
+  features:
+    - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    - navigation.path
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
 
   font:
     text: IBM Plex Serif
     code: IBM Plex Mono
 
+  icon:
+    repo: fontawesome/brands/github
+
   language: en
 
-  logo: assets/ampersand-logo.png
-  favicon: assets/ampersand-logo.png
+  logo: assets/images/ampersand-logo.png
+  favicon: assets/images/ampersand-logo.png
+
+extra_javascript:
+  - scripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+extra:
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/aVwt8qPC
