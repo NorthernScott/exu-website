@@ -2,26 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://exu.northernscott.ca/</loc>
-         <lastmod>2025-04-14</lastmod>
+         <lastmod>2025-04-16</lastmod>
     </url>
     <url>
-         <loc>https://exu.northernscott.ca/Meta/characters/</loc>
-         <lastmod>2025-04-14</lastmod>
+         <loc>https://exu.northernscott.ca/Characters/</loc>
+         <lastmod>2025-04-16</lastmod>
     </url>
     <url>
-         <loc>https://exu.northernscott.ca/Meta/ground-rules/</loc>
-         <lastmod>2025-04-14</lastmod>
+         <loc>https://exu.northernscott.ca/DM%27s%20Tasks/</loc>
+         <lastmod>2025-04-16</lastmod>
     </url>
     <url>
-         <loc>https://exu.northernscott.ca/Meta/house-rules--clarifications/</loc>
-         <lastmod>2025-04-14</lastmod>
+         <loc>https://exu.northernscott.ca/Ground%20Rules/</loc>
+         <lastmod>2025-04-16</lastmod>
     </url>
     <url>
-         <loc>https://exu.northernscott.ca/World/catatheosis/</loc>
-         <lastmod>2025-04-14</lastmod>
+         <loc>https://exu.northernscott.ca/House%20Rules/</loc>
+         <lastmod>2025-04-16</lastmod>
     </url>
     <url>
-         <loc>https://exu.northernscott.ca/World/map-of-the-world/</loc>
-         <lastmod>2025-04-14</lastmod>
+         <loc>https://exu.northernscott.ca/blog/</loc>
+         <lastmod>2025-04-16</lastmod>
+    </url>
+    <url>
+         <loc>https://exu.northernscott.ca/world/</loc>
+         <lastmod>2025-04-16</lastmod>
+    </url>
+    <url>
+         <loc>https://exu.northernscott.ca/world/Feast%20of%20New%20Dawn/</loc>
+         <lastmod>2025-04-16</lastmod>
+    </url>
+    <url>
+         <loc>https://exu.northernscott.ca/world/Map%20of%20the%20World/</loc>
+         <lastmod>2025-04-16</lastmod>
     </url>
 </urlset>

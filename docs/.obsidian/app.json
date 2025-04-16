@@ -1,11 +1,1 @@
-{
-  "promptDelete": false,
-  "attachmentFolderPath": "assets",
-  "userIgnoreFilters": [
-    "Resources/"
-  ],
-  "livePreview": false,
-  "trashOption": "system",
-  "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
-}
+{}

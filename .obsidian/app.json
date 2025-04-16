@@ -1,0 +1,20 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "docs/assets",
+  "userIgnoreFilters": [
+    "site/",
+    "resources/",
+    "templates/",
+    "docs/assets/",
+    ".+\\.toml",
+    ".+\\.yaml",
+    ".+\\.py",
+    ".+\\.lock",
+    ".+\\.canvas"
+  ],
+  "livePreview": false,
+  "trashOption": "system",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": true
+}

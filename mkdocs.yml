@@ -18,10 +18,20 @@ validation:
 
 use_directory_urls: true
 
+# nav:
+#   - Home: index.md
+#   - About:
+#       - Ground Rules: Ground Rules.md
+#       - House Rules: House Rules.md
+#   - The World:
+#       - Primer: world/World.md
+#       - Map: world/map.md
+#   - Sessions: blog/index.md
+
 markdown_extensions:
   - abbr
   - tables
-  # - attr_list
+  - attr_list
   # - md_in_html
   - def_list
   - footnotes
@@ -31,8 +41,6 @@ markdown_extensions:
       permalink: true
       permalink_title: Anchor link to this section
       toc_depth: 3
-  - pymdownx.arithmatex:
-      generic: true
   - pymdownx.details
   - pymdownx.highlight:
       anchor_linenums: true
@@ -70,9 +78,6 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       type: datetime
-  - pub-meta:
-  - pub-obsidian:
-      templates_dir: templates
 
 theme:
   name: material
@@ -104,7 +109,7 @@ theme:
     - navigation.path
     # - navigation.prune
     - navigation.sections
-    # - navigation.tabs
+    - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.top
     - search.highlight
@@ -123,10 +128,6 @@ theme:
 
   logo: assets/images/ampersand-logo.png
   favicon: assets/images/ampersand-logo.png
-
-extra_javascript:
-  - scripts/mathjax.js
-  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 extra:
   consent:

@@ -1,0 +1,323 @@
+{
+  "main": {
+    "id": "b5b1c52ec6df967e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bc7bc26afb026a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d37fa210e9e94156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm-docs/Atlas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Atlas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01f911772932156e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a322518a0f2c430",
+        "type": "tabs",
+        "dimension": 67.6056338028169,
+        "children": [
+          {
+            "id": "517c6468f65e4a73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "30299301c737cee3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9068582648b40672",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2db0567dc744242a",
+        "type": "tabs",
+        "dimension": 32.3943661971831,
+        "children": [
+          {
+            "id": "3d6c367cebba4b67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dm-docs/Atlas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Atlas"
+            }
+          },
+          {
+            "id": "447ebb0bfd37693b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Plot Hook Ideas.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Plot Hook Ideas"
+            }
+          },
+          {
+            "id": "b5d99f05eee41e6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2520415aaeef81cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Plot Hook Ideas.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Plot Hook Ideas"
+            }
+          },
+          {
+            "id": "5fb6f85aa01e40f9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f13de474ac26bd19",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5e4bee8245af70d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db44d01243d843da",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_d80bfb99bbd8",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 14,
+                    "month": 2,
+                    "year": 845
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_189b4b89cb88"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "880e4136ea8eb482",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a4b1abab1ed37c7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fca87c1e9e348e3a",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "512702add11c36f5",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "c35fab91fec26de8",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [],
+              "icon": "intiative-tracker-encounter-builder",
+              "title": "Encounter Builder"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-kanban:Create new board": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "calendarium:Open Calendarium": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
+    }
+  },
+  "active": "d37fa210e9e94156",
+  "lastOpenFiles": [
+    "dm-docs/Atlas.md",
+    "docs/index.md",
+    "docs/blog/index.md",
+    "docs/world/culture/Feast of New Dawn.md",
+    "docs/world/culture",
+    "docs/world/index.md",
+    "docs/Ground Rules.md",
+    "docs/House Rules.md",
+    "dm-docs/Party Plot Hooks.canvas",
+    "dm-docs/Plot Hook Ideas.canvas",
+    "dm-docs/Tasks.md",
+    "World/Map of the World.md",
+    "Characters.md",
+    "DM's Tasks.md",
+    "House Rules & Clarifications.md",
+    "World/index.md",
+    "Ground Rules.md",
+    "index.md",
+    "welcome-to-exandria.md",
+    "Party Plot Hooks.canvas",
+    "assets/images/reilorans.png",
+    "assets/images/myceits.png",
+    "assets/images/cytaa.png",
+    "assets/images/bormodo-elder-barthie.png",
+    "assets/bormodo-elder-barthie.png",
+    "4.md",
+    "14.md",
+    "World/Ruidians.md",
+    "World/Catatheosis.md",
+    "World/Feast of New Dawn.md",
+    "Research/Folklore References.md",
+    "World",
+    "Plot Hook Ideas.canvas",
+    "templates/session-notes.md",
+    "Site Pages/Session Notes.md",
+    "Session Notes/Session 0 - April 13, 2025.md",
+    "Session Notes/Session Notes.md",
+    "templates/Plot Hook Ideas.canvas",
+    "Session Notes",
+    "Concepts",
+    "World Atlas",
+    "Attachments/world-resources/exandrian-calendar.json",
+    "Attachments/world-resources",
+    "Attachments/maps/exandria.wonderdraft_map",
+    "Attachments/maps/map-exandria.png",
+    "Attachments/maps/map-exandria-low-res.jpg",
+    "Attachments/maps/map-exandria-high-res.png",
+    "Attachments/designs/Magic Circle.afdesign",
+    "Attachments/designs",
+    "Attachments/maps/Exandria - Speculative 2024 (low res).jpg",
+    "Attachments/maps/Exandria - Speculative 2024 (high res).png"
+  ]
+}

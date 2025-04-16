@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "b5b1c52ec6df967e",
+    "id": "2531a17849064b1b",
     "type": "split",
     "children": [
       {
-        "id": "a7bd06c59a8b68d2",
+        "id": "7f3ed953e01d9449",
         "type": "tabs",
         "children": [
           {
-            "id": "6653dbad61dc3631",
+            "id": "662a2aed99607f66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
         ]
@@ -27,29 +23,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "01f911772932156e",
+    "id": "60e8cdd0e66112d0",
     "type": "split",
     "children": [
       {
-        "id": "7a322518a0f2c430",
+        "id": "712c22891d653974",
         "type": "tabs",
-        "dimension": 67.6056338028169,
         "children": [
           {
-            "id": "517c6468f65e4a73",
+            "id": "379c3d69c38461ee",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "30299301c737cee3",
+            "id": "878a57a43eeb074d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -66,7 +61,7 @@
             }
           },
           {
-            "id": "9068582648b40672",
+            "id": "282aa7bfc3c77b91",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,19 +71,25 @@
             }
           }
         ]
-      },
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d261bffc1071cae2",
+    "type": "split",
+    "children": [
       {
-        "id": "2db0567dc744242a",
+        "id": "f34db5a43415b3d6",
         "type": "tabs",
-        "dimension": 32.3943661971831,
         "children": [
           {
-            "id": "3d6c367cebba4b67",
+            "id": "895b5eeb2ea6dd6b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,25 +99,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "447ebb0bfd37693b",
+            "id": "89e119d4ee4f4204",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plot Hook Ideas.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Plot Hook Ideas"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "b5d99f05eee41e6e",
+            "id": "fb2c6182e33989ac",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,176 +131,36 @@
             }
           },
           {
-            "id": "2520415aaeef81cd",
+            "id": "0e98ad4bdb191df9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plot Hook Ideas.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Plot Hook Ideas"
-            }
-          },
-          {
-            "id": "5fb6f85aa01e40f9",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "f13de474ac26bd19",
-    "type": "split",
-    "children": [
-      {
-        "id": "a5e4bee8245af70d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "db44d01243d843da",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_d80bfb99bbd8",
-                "ephemeral": {
-                  "viewing": null,
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 24,
-                    "month": 5,
-                    "year": 853
-                  },
-                  "displayDayNumber": false,
-                  "hideEra": false,
-                  "displayAbsoluteYear": false,
-                  "displayMoons": true
-                },
-                "id": "ID_189b4b89cb88"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
-          },
-          {
-            "id": "fca87c1e9e348e3a",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a4b1abab1ed37c7f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "622bc5f4b5e9d317",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "41f84c85cfe43ebe",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          }
-        ],
-        "currentTab": 1
-      }
-    ],
-    "direction": "horizontal",
-    "width": 373.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "obsidian-kanban:Create new board": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": true,
-      "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "templater-obsidian:Templater": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian42-brat:BRAT": true,
-      "calendarium:Open Calendarium": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "6653dbad61dc3631",
-  "lastOpenFiles": [
-    "Exandria World Primer.md",
-    "index.md",
-    "Research/Folklore References.md",
-    "World",
-    "Meta/Characters.md",
-    "World/Catatheosis.md",
-    "World/Map of the World.md",
-    "Party Plot Hooks.canvas",
-    "Untitled.md",
-    "Plot Hook Ideas.canvas",
-    "Meta/House Rules & Clarifications.md",
-    "Meta/House Rules & Clarifications.md",
-    "Meta/Ground Rules.md",
-    "templates/session-notes.md",
-    "Site Pages/Session Notes.md",
-    "Session Notes/Session 0 - April 13, 2025.md",
-    "Session Notes/Session Notes.md",
-    "templates/Plot Hook Ideas.canvas",
-    "templates/Catatheosis.md",
-    "World/Ruidians.md",
-    "Session Notes",
-    "Templates/Session Notes.md",
-    "World/Feast of New Dawn.md",
-    "Dunamancy.md",
-    "6.md",
-    "Concepts",
-    "World Atlas",
-    "Untitled Kanban.md",
-    "Attachments/world-resources/exandrian-calendar.json",
-    "Attachments/world-resources",
-    "Attachments/maps/exandria.wonderdraft_map",
-    "Attachments/maps/map-exandria.png",
-    "Attachments/maps/map-exandria-low-res.jpg",
-    "Attachments/maps/map-exandria-high-res.png",
-    "Attachments/designs/Magic Circle.afdesign",
-    "Attachments/designs",
-    "Attachments/desig s",
-    "Attachments/maps/Exandria - Speculative 2024 (low res).jpg",
-    "Attachments/maps/Exandria - Speculative 2024 (high res).png",
-    "Attachments/maps/Exandria - Speculative 2024.png"
-  ]
+  "active": "662a2aed99607f66",
+  "lastOpenFiles": []
 }

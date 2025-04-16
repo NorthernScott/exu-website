@@ -1,11 +1,1 @@
-{
-  "interfaceFontFamily": "IBM Plex Sans",
-  "textFontFamily": "IBM Plex Serif",
-  "monospaceFontFamily": "BlexMono Nerd Font Mono",
-  "nativeMenus": false,
-  "cssTheme": "Minimal",
-  "accentColor": "#be33ff",
-  "theme": "system",
-  "showRibbon": true,
-  "showViewHeader": true
-}
+{}
