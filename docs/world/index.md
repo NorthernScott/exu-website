@@ -132,7 +132,7 @@ It is now known that Ruidus was home to an entity called “Predathos” that th
 
 Bormodos are one of the sentient species who inhabit the red moon [Ruidus](https://criticalrole.fandom.com/wiki/Ruidus "Ruidus"), known for having two pairs of arms and for their symbiotic relationship with [cytaa](https://criticalrole.fandom.com/wiki/Cytaa "Cytaa"). Bormodos are short, squat humanoids no more than four feet tall. Their faces are rotund and cherub-like, and they have black eyes with little visible sclera, an elephantine flesh nub with thin slitted nostrils for a nose, and deeply-set mouths. They have two pairs of arms: one is strong with meaty hands and fingers, and the other is thinner, more delicate, and more expressive. When they blush, they turn purple.
 
-![Bormodo elder, Barthie.|300](assets/images/bormodo-elder-barthie.png)
+![Bormodo elder, Barthie.|300](../assets/images/bormodo-elder-barthie.png)
 
 They share a symbiotic relationship with another sentient race, the [cytaa](https://criticalrole.fandom.com/wiki/Cytaa "Cytaa"), keeping them warm and fed in exchange for their hygiene and watch services; traditionally the bormodo-cytaa pair bond when they are young, but if the cytaa were to die, for example, the bormodo would bond with a new partner. Bormodos are viviparous, and their method of conception is not very different from that of an average Exandrian humanoid.
 
@@ -142,7 +142,7 @@ Bormodos have been told they do not themselves dream, but share the dreams of va
 
 Cytaas are an iguana-like sentient species of [Ruidus](https://criticalrole.fandom.com/wiki/Ruidus "Ruidus"), known for their symbiotic relationship with [bormodos](https://criticalrole.fandom.com/wiki/Bormodo "Bormodo"). They are lizard-like creatures with thick scaled hide and thin limbs and bodies, looking similar to iguanas with gold shimmering eyes (although they can manifest other colours) and with somewhat fey-like features including long thin ears. They have tails that can be long or short, sometimes curling into a spiral.
 
-![A typical cytaa.|300](assets/images/cytaa.png)
+![A typical cytaa.|300](../assets/images/cytaa.png)
 
 Traditionally a cytaa bonds with a young bormodo who teaches and cares for it by keeping it warm and feeding it, and in return the cytaa helps clean the bormodo, acts as a companion and occasional advisor, and watches over them. Cytaas are small enough to live cradled on the chests of their bonded bormodo. At least some cytaas are able to sense if their bormodo is still alive, as well as their proximity.
 
@@ -150,7 +150,7 @@ Traditionally a cytaa bonds with a young bormodo who teaches and cares for it by
 
 Myceits are small, approximately two-foot tall bipedal sentient creatures which are native to [Ruidus](https://criticalrole.fandom.com/wiki/Ruidus "Ruidus") and bear a resemblance to Exandrian fungus. As a sentient creature, they are not eaten for food; however, some are kept as pets by other Ruidians.
 
-![A pair of myceits.|300](assets/images/myceits.png)
+![A pair of myceits.|300](../assets/images/myceits.png)
 
 > [!IMPORTANT] Note
 > The Myceit “core” has been affected by a sample taken from the cerebrum of the All-Minds-Burn in Bassuras. It is unknown what effect this may have on either the core, or on other Myceits.
@@ -167,7 +167,7 @@ Quanikkas are one of the sentient species of [Ruidus](https://criticalrole.fand
 
 Reilora or reilorans are crimson entities who inhabit the red moon [Ruidus](https://criticalrole.fandom.com/wiki/Ruidus "Ruidus"), born in the image of [Predathos](https://criticalrole.fandom.com/wiki/Predathos "Predathos"). According to Ruidian mythology, reilorans, like the [bormodos](https://criticalrole.fandom.com/wiki/Bormodo "Bormodo"), were carved from the rock of the moon and shaped by [Predathos](https://criticalrole.fandom.com/wiki/Predathos "Predathos"). Originally, all reilora were of one form, but when the [Weave Mind](https://criticalrole.fandom.com/wiki/Weave_Mind "Weave Mind") came into power they began altering reilorans through genetic engineering, and developed the [juggernauts](https://criticalrole.fandom.com/wiki/Reiloran_Juggernaut "Reiloran Juggernaut") “as well as the many other deviations of the standard reiloran physicality.” The Weave Mind’s psychic powers helped them interact with their environment and control other creatures, and eventually they created a political faction, the [Imperium](https://criticalrole.fandom.com/wiki/Imperium "Imperium"), as well as a city, [Kreviris](https://criticalrole.fandom.com/wiki/Kreviris "Kreviris"), at some point before 343 PD. They expanded, taking control over other regions and settlements, and their government kept the population connected with Predathos through dreams.
 
-![The varieties of Reilorans.|300](assets/images/reilorans.png)
+![The varieties of Reilorans.|300](../assets/images/reilorans.png)
 
 All reilorans have an elongated head stretching backward into one or more points that generally curl upward. They have proportionally long arms with long fingers that are tipped in claws, broad shoulders, and long necks. Their faces are pointed, resembling a shark, with dark iridescent purple eyes, nose slits, and a small mouth with pointed teeth. They have deep red skin with striations around major muscles, long arms darker in colour, and silvery veins. At least some reilora exhibit a degree of sexual dimorphism, with hex mind females having a finer bone structure and a divided head crest. As reilora age, their head crests grow and become more prominent, and their skin becomes grey and less intensely coloured.
 

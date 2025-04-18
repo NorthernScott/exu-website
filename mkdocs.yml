@@ -53,6 +53,8 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.smartsymbols
+  - pymdownx.arithmatex:
+      generic: true
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -67,6 +69,10 @@ markdown_extensions:
   - pymdownx.tilde
   - pymdownx.snippets:
       base_path: !relative
+  - pymdownx.magiclink
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.critic
 
 plugins:
   - search:
@@ -78,6 +84,23 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       type: datetime
+  - rss:
+      match_path: blog/posts/.*
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true
+      cache_safe: true
+      js_files:
+        - docs/scripts/mathjax.js
+      css_files:
 
 theme:
   name: material
@@ -137,6 +160,13 @@ extra:
       as to measure the effectiveness of our documentation and whether users
       find what they're searching for. With your consent, you're helping us to
       make our documentation better.
+
   social:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/aVwt8qPC
+
+extra_javascript:
+  - scripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://unpkg.com/mermaid/dist/mermaid.min.js

@@ -11,6 +11,6 @@ references:
 
 ## The World of Exandria
 
-Check out the [World Primer](docs/world/index.md) for more information about the world and its people.
+Check out the [World Primer](world/index.md) for more information about the world and its people.
 
 ![Map of Exandria|800](assets/maps/map-exandria-low-res.png)
