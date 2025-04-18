@@ -3,11 +3,11 @@ site_description: Campaign website for Scott's D&D Dweebs' Adventures in Exandri
 site_author: NorthernScott
 copyright: © 2025 NorthernScott. The 'Exandria' campaign setting is the property of Critical Role, LLC.
 
-site_url: https://northernscott.github.io/exu-website
+site_url: https://northernscott.ca
 repo_url: https://github.com/NorthernScott/exu-website
 edit_uri: blob/main/docs/
 dev_addr: 127.0.0.1:8000
-remote_branch: main
+remote_branch: gh-pages
 remote_name: origin
 
 validation:
