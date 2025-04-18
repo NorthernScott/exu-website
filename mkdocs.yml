@@ -93,15 +93,10 @@ plugins:
         - tags
   - minify:
       minify_html: true
-      minify_js: true
-      minify_css: true
+      minify_js: false
+      minify_css: false
       htmlmin_opts:
         remove_comments: true
-      cache_safe: true
-      js_files:
-        - assets/scripts/mathjax.js
-      css_files:
-
 theme:
   name: material
 
