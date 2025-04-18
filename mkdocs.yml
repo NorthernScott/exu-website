@@ -99,7 +99,7 @@ plugins:
         remove_comments: true
       cache_safe: true
       js_files:
-        - docs/scripts/mathjax.js
+        - scripts/mathjax.js
       css_files:
 
 theme:
