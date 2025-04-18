@@ -775,7 +775,7 @@
   },
   "debug": true,
   "askedToMoveFC": false,
-  "askedAboutSync": false,
+  "askedAboutSync": true,
   "syncBehavior": "Ask",
   "inlineEventsTag": null,
   "paths": [

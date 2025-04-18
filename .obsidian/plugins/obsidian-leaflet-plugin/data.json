@@ -1,14 +1,5 @@
 {
-  "mapMarkers": [
-    {
-      "id": "exandria-world",
-      "locked": false,
-      "lastAccessed": 1744775887027,
-      "markers": [],
-      "overlays": [],
-      "shapes": []
-    }
-  ],
+  "mapMarkers": [],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker-alt",
