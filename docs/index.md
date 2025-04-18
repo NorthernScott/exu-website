@@ -13,4 +13,4 @@ references:
 
 Check out the [World Primer](world/index.md) for more information about the world and its people.
 
-![Map of Exandria|800](map-exandria-low-res.png)
+![Map of Exandria|800](assets/maps/map-exandria-low-res.png)
