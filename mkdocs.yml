@@ -10,6 +10,9 @@ dev_addr: 127.0.0.1:8000
 remote_branch: gh-pages
 remote_name: origin
 
+docs_dir: docs
+site_dir: site
+
 validation:
   omitted_files: warn
   absolute_links: warn
