@@ -78,4 +78,4 @@ jobs:
           # Run the post step to save the cache even if another step before fails
           # save-always: # optional, default is false
       - run: pip install mkdocs-material mkdocs-git-revision-date-localized-plugin mkdocs-minify-plugin mkdocs-rss-plugin
-      - run: mkdocs gh-deploy --force --remote-branch gh-pages --remote-name origin --site-dir site --config-file mkdocs.yml --verbose
+      - run: mkdocs gh-deploy --force --remote-branch gh-pages --remote-name origin --site-dir site --config-file mkdocs.yml
