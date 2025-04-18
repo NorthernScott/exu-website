@@ -19,7 +19,7 @@ validation:
   unrecognized_links: warn
   anchors: warn
 
-use_directory_urls: false
+use_directory_urls: true
 
 # nav:
 #   - Home: index.md
