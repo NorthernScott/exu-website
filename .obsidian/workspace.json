@@ -262,6 +262,8 @@
   },
   "active": "d37fa210e9e94156",
   "lastOpenFiles": [
+    "docs/assets/scripts/mathjax.js",
+    "docs/assets/scripts",
     "scripts/mathjax.js",
     "scripts",
     "docs/scripts/mathjax.js",
@@ -271,8 +273,6 @@
     "site/assets/javascripts/workers",
     "site/assets/javascripts/lunr",
     "site/assets/javascripts/bundle.c8b220af.min.js.map",
-    "site/assets/javascripts/bundle.c8b220af.min.js",
-    "site/assets/javascripts",
     "site/assets/images/favicon.png",
     "site/assets/maps/map-exandria-low-res.png",
     "site/assets/images/reilorans.png",
