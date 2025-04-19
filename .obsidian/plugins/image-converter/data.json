@@ -229,9 +229,9 @@
     "ffmpegCrf": 23,
     "ffmpegPreset": "medium"
   },
-  "ProcessCurrentNoteconvertTo": "webp",
+  "ProcessCurrentNoteconvertTo": "png",
   "ProcessCurrentNotequality": 0.75,
-  "ProcessCurrentNoteResizeModalresizeMode": "None",
+  "ProcessCurrentNoteResizeModalresizeMode": "Fit",
   "ProcessCurrentNoteresizeModaldesiredWidth": 600,
   "ProcessCurrentNoteresizeModaldesiredHeight": 800,
   "ProcessCurrentNoteresizeModaldesiredLength": 800,

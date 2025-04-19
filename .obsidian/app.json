@@ -5,7 +5,6 @@
     "site/",
     "resources/",
     "templates/",
-    "docs/assets/",
     ".+\\.toml",
     ".+\\.yaml",
     ".+\\.py",
@@ -16,5 +15,6 @@
   "trashOption": "system",
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }

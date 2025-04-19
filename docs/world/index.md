@@ -1,7 +1,7 @@
 ---
 title: Welcome to Exandria
 date created: Sunday, April 13th 2025, 11:01:38 am
-date modified: Tuesday, April 15th 2025, 9:43:30 pm
+date modified: Friday, April 18th 2025, 7:48:05 pm
 aliases: [exandria primer, primer, world overview]
 tags: [culture, geography, history]
 references: [https://criticalrole.fandom.com/wiki/, https://criticalrole.fandom.com/wiki/Calendar_of_Exandria, https://criticalrole.fandom.com/wiki/Exandria#Geographic_characteristics, https://criticalrole.fandom.com/wiki/History_of_Exandria]
@@ -69,7 +69,7 @@ The most commonly used, modern calendar counts the years starting with the year 
 
 #### Tal’Dorei
 
-Previously known as **Gwessar**, Tal’Dorei is a northern continent that includes the [Republic of Tal'Dorei](https://criticalrole.fandom.com/wiki/Republic_of_Tal%27Dorei "Republic of Tal'Dorei") (including the former city-state of [Whitestone](https://criticalrole.fandom.com/wiki/Whitestone "Whitestone")), as well as the [dwarven](https://criticalrole.fandom.com/wiki/Dwarven "Dwarven") stronghold of [Kraghammer](https://criticalrole.fandom.com/wiki/Kraghammer "Kraghammer"), the [elven](https://criticalrole.fandom.com/wiki/Elven "Elven") realm of [Syngorn](https://criticalrole.fandom.com/wiki/Syngorn "Syngorn"), and, far to the south, the [hobgoblin](https://criticalrole.fandom.com/wiki/Hobgoblin "Hobgoblin") empire of the [Iron Authority](https://criticalrole.fandom.com/wiki/Iron_Authority "Iron Authority").
+Previously known as Gwessar, Tal’Dorei is a northern continent that includes the [Republic of Tal'Dorei](https://criticalrole.fandom.com/wiki/Republic_of_Tal%27Dorei "Republic of Tal'Dorei") (including the former city-state of [Whitestone](https://criticalrole.fandom.com/wiki/Whitestone "Whitestone")), as well as the [dwarven](https://criticalrole.fandom.com/wiki/Dwarven "Dwarven") stronghold of [Kraghammer](https://criticalrole.fandom.com/wiki/Kraghammer "Kraghammer"), the [elven](https://criticalrole.fandom.com/wiki/Elven "Elven") realm of [Syngorn](https://criticalrole.fandom.com/wiki/Syngorn "Syngorn"), and, far to the south, the [hobgoblin](https://criticalrole.fandom.com/wiki/Hobgoblin "Hobgoblin") empire of the [Iron Authority](https://criticalrole.fandom.com/wiki/Iron_Authority "Iron Authority").
 
 #### Issylra
 

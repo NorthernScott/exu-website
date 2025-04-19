@@ -1,7 +1,7 @@
 ---
 title: Characters
 date created: Sunday, March 16th 2025, 4:57:17 pm
-date modified: Tuesday, April 15th 2025, 9:38:27 pm
+date modified: Saturday, April 19th 2025, 10:30:15 am
 aliases: []
 tags: [dm-only, plot]
 references: 
@@ -9,7 +9,25 @@ references:
 
 # Characters
 
-## Helga Hirscka (Nicole)
+## Helga Hirscka
+
+### Summary
+
+| Name:        | Helga Hirscka                                  |
+| ------------ | ---------------------------------------------- |
+| Player:      | Nicole                                         |
+| pecies:      | Goliath                                        |
+| Gender:      | Female (she/her)                               |
+| Age:         | 25                                             |
+| From:        | Doralle Village, Unaffiliated, Menagerie Coast |
+| Class:       | Barbarian, Path of the Wildheart               |
+| Deity:       | None                                           |
+| Affiliation: | None                                           |
+### Personality
+
+Helga comes from a solid place, built on foundations of rock and stone. She believes that people, places, and things should be solid too. 
+
+Helga is solid and she believes that things should be solid. 
 
 - Goliath
 - Barbarian
@@ -48,7 +66,21 @@ references:
 
 ## Lucian Sugea (Spencer)
 
-- Half-Human / Half-High Elf
+### Summary
+
+| Name:        | Lucian Sugea                                |
+| ------------ | ------------------------------------------- |
+| Player:      | Spencer                                     |
+| Species:     | Half-Human / Half-High Elf                  |
+| Gender:      | Male (he/him)                               |
+| Age:         | 19                                          |
+| From:        | Nicodranas, Clovis Concord, Menagerie Coast |
+| Class:       | Sorcerer, Aberrant Mind                     |
+| Deity:       | Avandra                                     |
+| Affiliation: | Sugea Family of Nicodranas, Clovis Concord  |
+
+### Personality
+
 - Sugea means “Serpent” in Basque.
 - His mom is definitely a warlock of Uk’otoa.
 	- Is she Avantika reincarnated??
@@ -87,11 +119,36 @@ references:
 
 ## Ada Glowsword (Lindsay)
 
+### Summary
+
+| Name:        | Ada Glowsword                               |
+| ------------ | ------------------------------------------- |
+| Player:      | Lindsay                                     |
+| Species:     | Gnome                                       |
+| Gender:      | Female (she/her)                            |
+| Age:         | 80                                          |
+| From:        | Zadash, Dwendalian Empire, Western Wynandir |
+| Class:       | Wizard, School of Abjuration                |
+| Deity:       | Ioun                                        |
+| Affiliation: | Cobalt Soul                                 |
+
+### Personality
+
+> [!NOTE|inline end]+ Trinket
+> A small box of different buttons. Doesn’t remember how she got them. Doesn’t know why she keeps them.
+
+### Family Background
+
+Ada comes from a working-class family originally from Hupperdook. Her grandparents moved to Zadash independently as children, met as “teens,” fell in love, and started a family.
+
+### Affiliation
+
+Ada showed an aptitude for magic from a young age
+
 - Gnome, Female, 80
 - Wizard
 - Acolyte Background
 - Intended Subclass: Abjuration??
-- Trinket: A small box of different buttons. Doesn’t remember how she got them. Doesn’t know why she keeps them.
 - Acolyte of the Cobalt Soul, joined as a young teen (45 or 50)
 - Born and raised in Zadash
 - Mage associated with the Cobalt Soul
@@ -105,17 +162,20 @@ references:
 	- Maybe she’s encountered Lucian and thinks he could be a god? Maybe he is.
 - Young and curious. Gets into trouble.
 
-## Alarise “Stormshore” (Adam)
+## Alarise “Stormshore”
+
+### Summary
 
 | Name:        | Alarise “Stormshore” (Last Name TBD) |
 | ------------ | ------------------------------------ |
-| **Player:**  | Adam Reid                            |
-| **Species:** | Human                                |
-| **Gender:**  | Female (she/her)                     |
-| **Age:**     | 23                                   |
-| **From:**    | Zadash, Dwendalian Empire            |
-| **Class:**   | Monk, Way of the Open Hand           |
-| **Deity:**   | Raven Queen                          |
+| Player:      | Adam                                 |
+| Species:     | Human                                |
+| Gender:      | Female (she/her)                     |
+| Age:         | 23                                   |
+| From:        | Zadash, Dwendalian Empire            |
+| Class:       | Monk, Way of the Open Hand           |
+| Deity:       | Raven Queen                          |
+| Affiliation: | Trust of Winter                      |
 
 ### Personality
 
@@ -127,7 +187,7 @@ Alarise had a “typical” upper middle class upbringing. Her parents, who are 
 
 As a child, her parents enrolled her in a private school run by a clerical order devoted to the Matron of Ravens. They chose the school largely because of its reputation and because she could live at home while attending. They certainly did not expect her to become a devotee of the Goddess of Death--let alone a monk--and probably think that this is “just a phase.” That said, they are happy that she is doing something with her life, even if they don’t get it.
 
-> [!NOTE] Trinket
+> [!INFO] Trinket
 > A small, rectangular piece of metal, slightly smaller than a snuff box, with two silver metallic cups on one end. It throws sparks when wet. Basically a 9-volt battery. She stole it from the house of a girl she didn’t like while at a house party in school. Unbeknownst to her, the object belonged to the girl’s father, who was/is a researcher at the Halls of Erudition.
 >
 > - [ ] Determine what the device is/does. 🔽 ➕ 2025-04-13
@@ -150,7 +210,7 @@ Her order sent her to Nicodranas.
 
 Being in such a free-wheeling, colourful place has filled her with some tension. On the one hand, she is a young, energetic, and eager woman who is thrilled to be somewhere exotic and fun. On the other hand, she’s experiencing some culture shock and feeling a bit overwhelmed. The experience has also mixed her up, making her question her vocation just as she was coming to truly identify with it.
 
-> [!IMPORTANT] What is her quest?
+> [!HINT]- What is her quest?
 > Why WAS she sent to Nicodranas? Is her order looking for the Raven Queen in mortal form? Are they gathering intelligence on something? Why send a monk from Zadash all the way there? Maybe a mixture of “getting her out of the house,” while also filling a specific need they had?
 
 ### Key Relationships
@@ -161,6 +221,16 @@ Being in such a free-wheeling, colourful place has filled her with some tension.
 - Best Friend: ?
 
 ## Shin Cherou (Beth)
+
+| Name:    | Shin Cherou                                 |
+| -------- | ------------------------------------------- |
+| Player:  | Beth                                        |
+| Species: | Hobgoblin                                   |
+| Gender:  | Female (she/her)                            |
+| Age:     | 34                                          |
+| From:    | Nicodranas, Clovis Concord, Menagerie Coast |
+| Class    | Barbarian, Path of the Wildheart            |
+| Deity:   | None                                        |
 
 - Hobgoblin
 - Intended Sublass: Life Domain

@@ -32,10 +32,11 @@ use_directory_urls: true
 #   - Sessions: blog/index.md
 
 markdown_extensions:
+  - nl2br
   - abbr
   - tables
   - attr_list
-  # - md_in_html
+  - md_in_html
   - def_list
   - footnotes
   - admonition
@@ -76,12 +77,14 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.critic
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 plugins:
   - search:
       enabled: true
       lang: en
-  - tags
   - privacy
   - blog
   - git-revision-date-localized:
@@ -100,6 +103,7 @@ plugins:
       minify_css: false
       htmlmin_opts:
         remove_comments: true
+  - callouts
 
 theme:
   name: material
@@ -124,20 +128,21 @@ theme:
       accent: amber
 
   features:
+    - content.tooltips
     - header.autohide
-    # - navigation.expand
     - navigation.footer
     - navigation.indexes
     - navigation.path
-    # - navigation.prune
     - navigation.sections
-    - navigation.tabs
-    # - navigation.tabs.sticky
     - navigation.top
     - search.highlight
     - search.share
     - search.suggest
     - toc.follow
+    # - navigation.expand
+    # - navigation.prune
+    # - navigation.tabs
+    # - navigation.tabs.sticky
 
   font:
     text: IBM Plex Serif
@@ -164,5 +169,10 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/aVwt8qPC
 
+extra_css:
+  - assets/stylesheets/extra.css
+
 extra_javascript:
-  - docs/assets/scripts/mathjax.js
+  - assets/scripts/mathjax.js
+  # - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  # - assets/scripts/tablesort.js
