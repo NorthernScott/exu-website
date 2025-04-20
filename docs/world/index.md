@@ -1,7 +1,7 @@
 ---
-title: Welcome to Exandria
+title: The World of Exandria
 date created: Sunday, April 13th 2025, 11:01:38 am
-date modified: Friday, April 18th 2025, 7:48:05 pm
+date modified: Saturday, April 19th 2025, 8:10:40 pm
 aliases: [exandria primer, primer, world overview]
 tags: [culture, geography, history]
 references: [https://criticalrole.fandom.com/wiki/, https://criticalrole.fandom.com/wiki/Calendar_of_Exandria, https://criticalrole.fandom.com/wiki/Exandria#Geographic_characteristics, https://criticalrole.fandom.com/wiki/History_of_Exandria]
@@ -9,7 +9,7 @@ search:
   boost: 3
 ---
 
-# Welcome to Exandria
+# The World of Exandria
 
 ## Overview
 
@@ -65,31 +65,33 @@ The most commonly used, modern calendar counts the years starting with the year 
 
 > *[Geography of Exandria](https://criticalrole.fandom.com/wiki/Exandria#Geographic_characteristics)*
 
-### Continents
+![Map of Exandria](../assets/maps/map-exandria-low-res.png)
 
-#### Tal’Dorei
+## Continents
+
+### Tal’Dorei
 
 Previously known as Gwessar, Tal’Dorei is a northern continent that includes the [Republic of Tal'Dorei](https://criticalrole.fandom.com/wiki/Republic_of_Tal%27Dorei "Republic of Tal'Dorei") (including the former city-state of [Whitestone](https://criticalrole.fandom.com/wiki/Whitestone "Whitestone")), as well as the [dwarven](https://criticalrole.fandom.com/wiki/Dwarven "Dwarven") stronghold of [Kraghammer](https://criticalrole.fandom.com/wiki/Kraghammer "Kraghammer"), the [elven](https://criticalrole.fandom.com/wiki/Elven "Elven") realm of [Syngorn](https://criticalrole.fandom.com/wiki/Syngorn "Syngorn"), and, far to the south, the [hobgoblin](https://criticalrole.fandom.com/wiki/Hobgoblin "Hobgoblin") empire of the [Iron Authority](https://criticalrole.fandom.com/wiki/Iron_Authority "Iron Authority").
 
-#### Issylra
+### Issylra
 
 A continent northwest of Tal’Dorei that is dominated by the country of [Othanzia](https://criticalrole.fandom.com/wiki/Othanzia "Othanzia"), which includes [Vasselheim](https://criticalrole.fandom.com/wiki/Vasselheim "Vasselheim") and [Pyrah](https://criticalrole.fandom.com/wiki/Pyrah "Pyrah"). Elsewhere on the continent is the [Demithore Valley](https://criticalrole.fandom.com/wiki/Demithore_Valley "Demithore Valley").
 
-#### Marquet
+### Marquet
 
 A continent to the south of Issylra and southwest of Tal’Dorei. Before [the Calamity](https://criticalrole.fandom.com/wiki/The_Calamity "The Calamity"), it was lushly forested. Centuries after the Divergence, it is covered mostly with desert landscapes and mountainous terrain, sheltering rare bastions of civilization. One-third of Marquet is covered with deserts.
 
-#### Wildemount
+### Wildemount
 
 Located to the east of Tal’Dorei, this continent contains the trade-oriented [Clovis Concord](https://criticalrole.fandom.com/wiki/Clovis_Concord "Clovis Concord") to the west along the [Menagerie Coast](https://criticalrole.fandom.com/wiki/Menagerie_Coast "Menagerie Coast"), the austere [Dwendalian Empire](https://criticalrole.fandom.com/wiki/Dwendalian_Empire "Dwendalian Empire") within [Western Wynandir](https://criticalrole.fandom.com/wiki/Wynandir "Wynandir"), and the secretive [Kryn Dynasty](https://criticalrole.fandom.com/wiki/Kryn_Dynasty "Kryn Dynasty") in [Eastern Wynandir](https://criticalrole.fandom.com/wiki/Wynandir "Wynandir").
 
-#### Domunas / The Shattered Teeth
+### Domunas / The Shattered Teeth
 
 During the [Age of Arcanum](https://criticalrole.fandom.com/wiki/Age_of_Arcanum "Age of Arcanum"), the continent of Domunas held the town of [Toramunda](https://criticalrole.fandom.com/wiki/Toramunda "Toramunda") which later split into the flying city of [Avalir](https://criticalrole.fandom.com/wiki/Avalir "Avalir") and its terrestrial sister city [Cathmoíra](https://criticalrole.fandom.com/wiki/Cathmo%C3%ADra "Cathmoíra"). The landmass was destroyed on the eve of the Calamity, leaving behind the Shattered Teeth. Centuries after the Calamity, the Shattered Teeth is an archipelago of 43 islands southeast of Tal’Dorei, beyond a fog bank called the “[Fool's Curtain](https://criticalrole.fandom.com/wiki/Fool%27s_Curtain "Fool's Curtain")”.
 
-### Additional Features
+## Additional Features
 
-#### Oceans
+### Oceans
 
 - **[Beryl Sea](https://criticalrole.fandom.com/wiki/Beryl_Sea "Beryl Sea")**: The ocean to the south of Marquet.
 - **[Frigid Depths](https://criticalrole.fandom.com/wiki/Frigid_Depths "Frigid Depths")**: The cold ocean to the north of Issylra, Tal’Dorei, and Wildemount.
@@ -98,7 +100,7 @@ During the [Age of Arcanum](https://criticalrole.fandom.com/wiki/Age_of_Arcanum
 
 The shortest trip from Issylra to Wildemount by ship would be westward. It would take weeks, and the waters wouldn’t offer smooth sailing. There are also rumours of nations and cultures under the sea that are largely separated from the surface world and are little explored.
 
-#### Underdark
+### Underdark
 
 The Underdark is a vast subterranean region that exists below the continents of Exandria. A dark and hostile place, the Underdark is almost a world unto itself, with civilizations, monsters, politics, economies, and threats that may interact only sporadically or indirectly with the surface world. Notably, the [Underdark](https://criticalrole.fandom.com/wiki/Underdark) has significant connections to the [Far Realm](https://criticalrole.fandom.com/wiki/Far_Realm "Far Realm"), from which many [aberrations](https://criticalrole.fandom.com/wiki/Aberration "Aberration") emerge.
 

@@ -66,6 +66,9 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   - pymdownx.betterem
   - pymdownx.blocks.caption
   - pymdownx.caret
@@ -104,6 +107,7 @@ plugins:
       htmlmin_opts:
         remove_comments: true
   - callouts
+  - glightbox
 
 theme:
   name: material
@@ -133,7 +137,7 @@ theme:
     - navigation.footer
     - navigation.indexes
     - navigation.path
-    - navigation.sections
+    # - navigation.sections
     - navigation.top
     - search.highlight
     - search.share

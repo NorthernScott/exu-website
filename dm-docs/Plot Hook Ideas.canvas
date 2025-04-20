@@ -1,55 +1,401 @@
 {
-	"nodes":[
-		{"id":"ef4d488cdad647bd","type":"text","text":"[[Catatheosis]] - What are it's impacts?","x":-120,"y":-60,"width":250,"height":60,"color":"1"},
-		{"id":"0aba4bd3592b70fd","type":"text","text":"Could gods change? Perhaps their fundamental natures cannot change, but the way their natures express themselves change based on their circumstances. Was Asmodeus always evil, or did he become evil because of the events of the Founding and the Schism? His essence is...pride? Fear? Becoming \"real\" when they arrived in Exandria was shocking and calamitous. Maybe becoming truly mortal could heal that?","x":-60,"y":-492,"width":329,"height":362},
-		{"id":"d7cf0a08aea3f717","type":"text","text":"A god is tracked down as a child and used to power some sort of magic, by a cult. They are bent on finding more gods. Perhaps they allow the gods to grow into some amount of their power before ritualistically slaughtering them.","x":-505,"y":-312,"width":365,"height":182},
-		{"id":"c17a8c1868cebfe2","type":"text","text":"A new movement that celebrates the \"death\" of the gods, the [[../docs/world/Feast of New Dawn]].","x":-471,"y":32,"width":291,"height":148},
-		{"id":"ed2209539301089e","type":"text","text":"How has this impacted the Matron? She was mortal and chose godhood, but is now mortal again. What will she do?","x":-41,"y":87,"width":281,"height":153},
-		{"id":"3e796182fbd9726d","type":"text","text":"The Archfey, Demigods, and other such things must be having a field day.","x":-297,"y":262,"width":256,"height":118},
-		{"id":"72090115a1e7beac","type":"text","text":"Many new cults and religious movements, some holding up idols or random people as gods, messiah figures.","x":269,"y":-95,"width":292,"height":130},
-		{"id":"d707c7e5af6f5289","type":"text","text":"Fear and uncertainty about the afterlife. The Luxon faith spreading rapidly.","x":300,"y":87,"width":308,"height":136},
-		{"id":"013172689d5a8755","type":"text","text":"I think this would finally trigger war between the Dwendalian Empire and the Xorhas Assembly.\n\nOr it could result in the fall of the Dwendalian Empire? Perhaps the Xorhasians pursue peace?","x":303,"y":319,"width":305,"height":258},
-		{"id":"de891bd711d74bb9","type":"text","text":"The Lawbearer and the Wildmother living together in some cabin?","x":-11,"y":340,"width":283,"height":123},
-		{"id":"39df73b5b02bf937","type":"text","text":"Some gods fighting like hell to reclaim their divinity. Others settling happily into their mortal lives/","x":-609,"y":235,"width":276,"height":145},
-		{"id":"3f59e18518b764cd","type":"text","text":"What happens to all the souls in the various afterlives? Reincarnation we think.","x":700,"y":79,"width":342,"height":152},
-		{"id":"289aa5e0ca44685a","type":"text","text":"What happened to Predathos?","x":319,"y":-260,"width":250,"height":60},
-		{"id":"3effc07de1e54e8f","type":"text","text":"Did one of the gods come back as an animal?","x":608,"y":-200,"width":287,"height":96},
-		{"id":"c554809f35aca127","type":"text","text":"What happens to the celestials and fiends? Just going ham? Trapped? Destroyed?","x":700,"y":306,"width":268,"height":149},
-		{"id":"fe421199544d0744","type":"text","text":"What happens to a tender soul like the Everlight?","x":-419,"y":-540,"width":250,"height":96},
-		{"id":"168e0811de90e39e","type":"text","text":"Maybe Asmodeus and the Dawnfather are trying to make peace?","x":277,"y":-680,"width":355,"height":89},
-		{"id":"a758b2535fce5861","type":"text","text":"The Ashari might take on even more importance.","x":476,"y":-480,"width":344,"height":80},
-		{"id":"53f7bfca8ed27bee","type":"text","text":"What about extraplanar threats?","x":-740,"y":-59,"width":250,"height":60},
-		{"id":"4026418b51861c30","type":"text","text":"Actually, I think that it might strengthen the Dwendalian monarchy.\n\nThe events of C3 would likely bring the Cerberus Assembly into massive disrepute. Ludinus is missing?? but probably not just back in his old post. Trent Ikithon is dead. I think that the Cobalt Soul and the king would use this as pretext to dissolve / seize power from the Cerberus Assembly.\n\nWith the removal of the gods, it might also provide the monarchy a pretext to further lessen the power of the churches.\n\nThere would still be rising Xorhasian influence.","x":608,"y":600,"width":411,"height":436},
-		{"id":"690eb721f81ab4d6","type":"text","text":"How would society change? I think that there might be various bold experiments in societal organization, sort of like during the reformation. Budding democracies? Fragmentation of larger empires and kingdoms.","x":-980,"y":10,"width":326,"height":213},
-		{"id":"1a13c798d13bbf3a","type":"text","text":"I think that there would be an upsurge of interest in the Age of Arcanum. I could see people moving more in that direction. Maybe even some early attempts at flying cities again? Or some sort of thauma-technical society?","x":-942,"y":321,"width":250,"height":316},
-		{"id":"cee4502f91bdb866","type":"text","text":"Definitely an upsurge of interest in immortality, necromancy.","x":-1300,"y":278,"width":250,"height":87},
-		{"id":"92570841527aacfe","x":-840,"y":-279,"width":250,"height":58,"type":"text","text":"What's up with Ruidus these days?"},
-		{"id":"d6b97aebe0362583","x":-740,"y":-453,"width":250,"height":87,"color":"1","type":"text","text":"OH MY GOD WHAT ABOUT THE RUIDIANS???"}
-	],
-	"edges":[
-		{"id":"24dd97991b2dddc6","fromNode":"ef4d488cdad647bd","fromSide":"top","toNode":"0aba4bd3592b70fd","toSide":"bottom"},
-		{"id":"2d868d7ee633d554","fromNode":"ef4d488cdad647bd","fromSide":"left","toNode":"d7cf0a08aea3f717","toSide":"bottom"},
-		{"id":"53635a12968fa42e","fromNode":"ef4d488cdad647bd","fromSide":"left","toNode":"c17a8c1868cebfe2","toSide":"top"},
-		{"id":"088ba1b3f7e6c86d","fromNode":"ef4d488cdad647bd","fromSide":"bottom","toNode":"ed2209539301089e","toSide":"top"},
-		{"id":"a34c4e7469b8671a","fromNode":"fe421199544d0744","fromSide":"right","toNode":"0aba4bd3592b70fd","toSide":"top"},
-		{"id":"477428d4550354ad","fromNode":"ef4d488cdad647bd","fromSide":"bottom","toNode":"3e796182fbd9726d","toSide":"top"},
-		{"id":"0e77ed4ee866a654","fromNode":"ef4d488cdad647bd","fromSide":"right","toNode":"72090115a1e7beac","toSide":"left"},
-		{"id":"27ed79cea50a74fc","fromNode":"ef4d488cdad647bd","fromSide":"right","toNode":"d707c7e5af6f5289","toSide":"left"},
-		{"id":"26b05b303f2cc971","fromNode":"d707c7e5af6f5289","fromSide":"bottom","toNode":"013172689d5a8755","toSide":"top"},
-		{"id":"2d5a977c5e84107e","fromNode":"ef4d488cdad647bd","fromSide":"bottom","toNode":"de891bd711d74bb9","toSide":"top"},
-		{"id":"d4dcc134ea960cea","fromNode":"ef4d488cdad647bd","fromSide":"bottom","toNode":"39df73b5b02bf937","toSide":"top"},
-		{"id":"c96a8dff647ae7ca","fromNode":"d707c7e5af6f5289","fromSide":"right","toNode":"3f59e18518b764cd","toSide":"left"},
-		{"id":"42b6642c8558dd92","fromNode":"d707c7e5af6f5289","fromSide":"right","toNode":"c554809f35aca127","toSide":"left"},
-		{"id":"1e54aa8cf0195940","fromNode":"ef4d488cdad647bd","fromSide":"right","toNode":"289aa5e0ca44685a","toSide":"left"},
-		{"id":"00c22e32c509fec7","fromNode":"ef4d488cdad647bd","fromSide":"right","toNode":"3effc07de1e54e8f","toSide":"left"},
-		{"id":"ead5be6a0ebd33fb","fromNode":"0aba4bd3592b70fd","fromSide":"right","toNode":"168e0811de90e39e","toSide":"bottom"},
-		{"id":"58848f16f5593479","fromNode":"0aba4bd3592b70fd","fromSide":"right","toNode":"a758b2535fce5861","toSide":"left"},
-		{"id":"d3170bf9fbe0ca5f","fromNode":"ef4d488cdad647bd","fromSide":"left","toNode":"53f7bfca8ed27bee","toSide":"right"},
-		{"id":"1373ccd677e7e750","fromNode":"013172689d5a8755","fromSide":"bottom","toNode":"4026418b51861c30","toSide":"left"},
-		{"id":"f41a968e9454287b","fromNode":"ef4d488cdad647bd","fromSide":"left","toNode":"690eb721f81ab4d6","toSide":"right"},
-		{"id":"c1c1b10ebcdf3c83","fromNode":"690eb721f81ab4d6","fromSide":"bottom","toNode":"1a13c798d13bbf3a","toSide":"top"},
-		{"id":"935990f1750abbac","fromNode":"1a13c798d13bbf3a","fromSide":"left","toNode":"cee4502f91bdb866","toSide":"right"},
-		{"id":"0559d1e7fdbb4923","fromNode":"ef4d488cdad647bd","fromSide":"left","toNode":"92570841527aacfe","toSide":"bottom"},
-		{"id":"6b50a1176b7822c2","fromNode":"92570841527aacfe","fromSide":"top","toNode":"d6b97aebe0362583","toSide":"bottom"}
-	]
+  "nodes": [
+    {
+      "id": "ef4d488cdad647bd",
+      "type": "text",
+      "text": "[[Catatheosis]] - What are it's impacts?",
+      "x": -120,
+      "y": -60,
+      "width": 250,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "0aba4bd3592b70fd",
+      "type": "text",
+      "text": "Could gods change? Perhaps their fundamental natures cannot change, but the way their natures express themselves change based on their circumstances. Was Asmodeus always evil, or did he become evil because of the events of the Founding and the Schism? His essence is...pride? Fear? Becoming \"real\" when they arrived in Exandria was shocking and calamitous. Maybe becoming truly mortal could heal that?",
+      "x": -60,
+      "y": -492,
+      "width": 329,
+      "height": 362
+    },
+    {
+      "id": "d7cf0a08aea3f717",
+      "type": "text",
+      "text": "A god is tracked down as a child and used to power some sort of magic, by a cult. They are bent on finding more gods. Perhaps they allow the gods to grow into some amount of their power before ritualistically slaughtering them.",
+      "x": -505,
+      "y": -312,
+      "width": 365,
+      "height": 182
+    },
+    {
+      "id": "c17a8c1868cebfe2",
+      "type": "text",
+      "text": "A new movement that celebrates the \"death\" of the gods, the [[../docs/world/Feast of New Dawn]].",
+      "x": -471,
+      "y": 32,
+      "width": 291,
+      "height": 148
+    },
+    {
+      "id": "ed2209539301089e",
+      "type": "text",
+      "text": "How has this impacted the Matron? She was mortal and chose godhood, but is now mortal again. What will she do?",
+      "x": -41,
+      "y": 87,
+      "width": 281,
+      "height": 153
+    },
+    {
+      "id": "3e796182fbd9726d",
+      "type": "text",
+      "text": "The Archfey, Demigods, and other such things must be having a field day.",
+      "x": -297,
+      "y": 262,
+      "width": 256,
+      "height": 118
+    },
+    {
+      "id": "72090115a1e7beac",
+      "type": "text",
+      "text": "Many new cults and religious movements, some holding up idols or random people as gods, messiah figures.",
+      "x": 269,
+      "y": -95,
+      "width": 292,
+      "height": 130
+    },
+    {
+      "id": "d707c7e5af6f5289",
+      "type": "text",
+      "text": "Fear and uncertainty about the afterlife. The Luxon faith spreading rapidly.",
+      "x": 300,
+      "y": 87,
+      "width": 308,
+      "height": 136
+    },
+    {
+      "id": "013172689d5a8755",
+      "type": "text",
+      "text": "I think this would finally trigger war between the Dwendalian Empire and the Xorhas Assembly.\n\nOr it could result in the fall of the Dwendalian Empire? Perhaps the Xorhasians pursue peace?",
+      "x": 303,
+      "y": 319,
+      "width": 305,
+      "height": 258
+    },
+    {
+      "id": "de891bd711d74bb9",
+      "type": "text",
+      "text": "The Lawbearer and the Wildmother living together in some cabin?",
+      "x": -11,
+      "y": 340,
+      "width": 283,
+      "height": 123
+    },
+    {
+      "id": "39df73b5b02bf937",
+      "type": "text",
+      "text": "Some gods fighting like hell to reclaim their divinity. Others settling happily into their mortal lives/",
+      "x": -609,
+      "y": 235,
+      "width": 276,
+      "height": 145
+    },
+    {
+      "id": "3f59e18518b764cd",
+      "type": "text",
+      "text": "What happens to all the souls in the various afterlives? Reincarnation we think.",
+      "x": 700,
+      "y": 79,
+      "width": 342,
+      "height": 152
+    },
+    {
+      "id": "289aa5e0ca44685a",
+      "type": "text",
+      "text": "What happened to Predathos?",
+      "x": 319,
+      "y": -260,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "3effc07de1e54e8f",
+      "type": "text",
+      "text": "Did one of the gods come back as an animal?",
+      "x": 608,
+      "y": -200,
+      "width": 287,
+      "height": 96
+    },
+    {
+      "id": "c554809f35aca127",
+      "type": "text",
+      "text": "What happens to the celestials and fiends? Just going ham? Trapped? Destroyed?",
+      "x": 700,
+      "y": 306,
+      "width": 268,
+      "height": 149
+    },
+    {
+      "id": "fe421199544d0744",
+      "type": "text",
+      "text": "What happens to a tender soul like the Everlight?",
+      "x": -419,
+      "y": -540,
+      "width": 250,
+      "height": 96
+    },
+    {
+      "id": "168e0811de90e39e",
+      "type": "text",
+      "text": "Maybe Asmodeus and the Dawnfather are trying to make peace?",
+      "x": 277,
+      "y": -680,
+      "width": 355,
+      "height": 89
+    },
+    {
+      "id": "a758b2535fce5861",
+      "type": "text",
+      "text": "The Ashari might take on even more importance.",
+      "x": 476,
+      "y": -480,
+      "width": 344,
+      "height": 80
+    },
+    {
+      "id": "53f7bfca8ed27bee",
+      "type": "text",
+      "text": "What about extraplanar threats?",
+      "x": -740,
+      "y": -59,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "4026418b51861c30",
+      "type": "text",
+      "text": "Actually, I think that it might strengthen the Dwendalian monarchy.\n\nThe events of C3 would likely bring the Cerberus Assembly into massive disrepute. Ludinus is missing?? but probably not just back in his old post. Trent Ikithon is dead. I think that the Cobalt Soul and the king would use this as pretext to dissolve / seize power from the Cerberus Assembly.\n\nWith the removal of the gods, it might also provide the monarchy a pretext to further lessen the power of the churches.\n\nThere would still be rising Xorhasian influence.",
+      "x": 608,
+      "y": 600,
+      "width": 411,
+      "height": 436
+    },
+    {
+      "id": "690eb721f81ab4d6",
+      "type": "text",
+      "text": "How would society change? I think that there might be various bold experiments in societal organization, sort of like during the reformation. Budding democracies? Fragmentation of larger empires and kingdoms.",
+      "x": -980,
+      "y": 10,
+      "width": 326,
+      "height": 213
+    },
+    {
+      "id": "1a13c798d13bbf3a",
+      "type": "text",
+      "text": "I think that there would be an upsurge of interest in the Age of Arcanum. I could see people moving more in that direction. Maybe even some early attempts at flying cities again? Or some sort of thauma-technical society?",
+      "x": -942,
+      "y": 321,
+      "width": 250,
+      "height": 316
+    },
+    {
+      "id": "cee4502f91bdb866",
+      "type": "text",
+      "text": "Definitely an upsurge of interest in immortality, necromancy.",
+      "x": -1300,
+      "y": 278,
+      "width": 250,
+      "height": 87
+    },
+    {
+      "id": "92570841527aacfe",
+      "x": -840,
+      "y": -279,
+      "width": 250,
+      "height": 58,
+      "type": "text",
+      "text": "What's up with Ruidus these days?"
+    },
+    {
+      "id": "d6b97aebe0362583",
+      "x": -740,
+      "y": -453,
+      "width": 250,
+      "height": 87,
+      "color": "1",
+      "type": "text",
+      "text": "OH MY GOD WHAT ABOUT THE RUIDIANS???"
+    }
+  ],
+  "edges": [
+    {
+      "id": "24dd97991b2dddc6",
+      "fromNode": "ef4d488cdad647bd",
+      "fromSide": "top",
+      "toNode": "0aba4bd3592b70fd",
+      "toSide": "bottom"
+    },
+    {
+      "id": "2d868d7ee633d554",
+      "fromNode": "ef4d488cdad647bd",
+      "fromSide": "left",
+      "toNode": "d7cf0a08aea3f717",
+      "toSide": "bottom"
+    },
+    {
+      "id": "53635a12968fa42e",
+      "fromNode": "ef4d488cdad647bd",
+      "fromSide": "left",
+      "toNode": "c17a8c1868cebfe2",
+      "toSide": "top"
+    },
+    {
+      "id": "088ba1b3f7e6c86d",
+      "fromNode": "ef4d488cdad647bd",
+      "fromSide": "bottom",
+      "toNode": "ed2209539301089e",
+      "toSide": "top"
+    },
+    {
+      "id": "a34c4e7469b8671a",
+      "fromNode": "fe421199544d0744",
+      "fromSide": "right",
+      "toNode": "0aba4bd3592b70fd",
+      "toSide": "top"
+    },
+    {
+      "id": "477428d4550354ad",
+      "fromNode": "ef4d488cdad647bd",
+      "fromSide": "bottom",
+      "toNode": "3e796182fbd9726d",
+      "toSide": "top"
+    },
+    {
+      "id": "0e77ed4ee866a654",
+      "fromNode": "ef4d488cdad647bd",
+      "fromSide": "right",
+      "toNode": "72090115a1e7beac",
+      "toSide": "left"
+    },
+    {
+      "id": "27ed79cea50a74fc",
+      "fromNode": "ef4d488cdad647bd",
+      "fromSide": "right",
+      "toNode": "d707c7e5af6f5289",
+      "toSide": "left"
+    },
+    {
+      "id": "26b05b303f2cc971",
+      "fromNode": "d707c7e5af6f5289",
+      "fromSide": "bottom",
+      "toNode": "013172689d5a8755",
+      "toSide": "top"
+    },
+    {
+      "id": "2d5a977c5e84107e",
+      "fromNode": "ef4d488cdad647bd",
+      "fromSide": "bottom",
+      "toNode": "de891bd711d74bb9",
+      "toSide": "top"
+    },
+    {
+      "id": "d4dcc134ea960cea",
+      "fromNode": "ef4d488cdad647bd",
+      "fromSide": "bottom",
+      "toNode": "39df73b5b02bf937",
+      "toSide": "top"
+    },
+    {
+      "id": "c96a8dff647ae7ca",
+      "fromNode": "d707c7e5af6f5289",
+      "fromSide": "right",
+      "toNode": "3f59e18518b764cd",
+      "toSide": "left"
+    },
+    {
+      "id": "42b6642c8558dd92",
+      "fromNode": "d707c7e5af6f5289",
+      "fromSide": "right",
+      "toNode": "c554809f35aca127",
+      "toSide": "left"
+    },
+    {
+      "id": "1e54aa8cf0195940",
+      "fromNode": "ef4d488cdad647bd",
+      "fromSide": "right",
+      "toNode": "289aa5e0ca44685a",
+      "toSide": "left"
+    },
+    {
+      "id": "00c22e32c509fec7",
+      "fromNode": "ef4d488cdad647bd",
+      "fromSide": "right",
+      "toNode": "3effc07de1e54e8f",
+      "toSide": "left"
+    },
+    {
+      "id": "ead5be6a0ebd33fb",
+      "fromNode": "0aba4bd3592b70fd",
+      "fromSide": "right",
+      "toNode": "168e0811de90e39e",
+      "toSide": "bottom"
+    },
+    {
+      "id": "58848f16f5593479",
+      "fromNode": "0aba4bd3592b70fd",
+      "fromSide": "right",
+      "toNode": "a758b2535fce5861",
+      "toSide": "left"
+    },
+    {
+      "id": "d3170bf9fbe0ca5f",
+      "fromNode": "ef4d488cdad647bd",
+      "fromSide": "left",
+      "toNode": "53f7bfca8ed27bee",
+      "toSide": "right"
+    },
+    {
+      "id": "1373ccd677e7e750",
+      "fromNode": "013172689d5a8755",
+      "fromSide": "bottom",
+      "toNode": "4026418b51861c30",
+      "toSide": "left"
+    },
+    {
+      "id": "f41a968e9454287b",
+      "fromNode": "ef4d488cdad647bd",
+      "fromSide": "left",
+      "toNode": "690eb721f81ab4d6",
+      "toSide": "right"
+    },
+    {
+      "id": "c1c1b10ebcdf3c83",
+      "fromNode": "690eb721f81ab4d6",
+      "fromSide": "bottom",
+      "toNode": "1a13c798d13bbf3a",
+      "toSide": "top"
+    },
+    {
+      "id": "935990f1750abbac",
+      "fromNode": "1a13c798d13bbf3a",
+      "fromSide": "left",
+      "toNode": "cee4502f91bdb866",
+      "toSide": "right"
+    },
+    {
+      "id": "0559d1e7fdbb4923",
+      "fromNode": "ef4d488cdad647bd",
+      "fromSide": "left",
+      "toNode": "92570841527aacfe",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6b50a1176b7822c2",
+      "fromNode": "92570841527aacfe",
+      "fromSide": "top",
+      "toNode": "d6b97aebe0362583",
+      "toSide": "bottom"
+    }
+  ]
 }

@@ -240,13 +240,13 @@
   "ProcessCurrentNoteSkipFormats": "tif,tiff,heic",
   "ProcessAllVaultconvertTo": "png",
   "ProcessAllVaultquality": 0.75,
-  "ProcessAllVaultResizeModalresizeMode": "None",
+  "ProcessAllVaultResizeModalresizeMode": "ShortestEdge",
   "ProcessAllVaultResizeModaldesiredWidth": 500,
   "ProcessAllVaultResizeModaldesiredHeight": 500,
-  "ProcessAllVaultResizeModaldesiredLength": 500,
+  "ProcessAllVaultResizeModaldesiredLength": 400,
   "ProcessAllVaultEnlargeOrReduce": "Always",
   "ProcessAllVaultSkipFormats": "",
-  "ProcessAllVaultskipImagesInTargetFormat": false,
+  "ProcessAllVaultskipImagesInTargetFormat": true,
   "annotationPresets": {
     "drawing": [
       {

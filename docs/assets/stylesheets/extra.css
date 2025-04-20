@@ -1,9 +1,0 @@
-table tr {
-    height: auto; /* Adjusts height based on content */
-    line-height: 0.2; /* Makes rows shorter proportional to their contents */
-    font-size: larger; /* Increases font size for better readability */
-}
-
-table tr td:first-child {
-    font-weight: bold; /* Makes the first column bold */
-}
