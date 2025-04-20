@@ -2,38 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://northernscott.ca/</loc>
-         <lastmod>2025-04-19</lastmod>
-    </url>
-    <url>
-         <loc>https://northernscott.ca/Character-Summary/</loc>
-         <lastmod>2025-04-19</lastmod>
-    </url>
-    <url>
-         <loc>https://northernscott.ca/Characters/</loc>
-         <lastmod>2025-04-19</lastmod>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://northernscott.ca/Ground-Rules/</loc>
-         <lastmod>2025-04-19</lastmod>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://northernscott.ca/House-Rules/</loc>
-         <lastmod>2025-04-19</lastmod>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://northernscott.ca/blog/</loc>
-         <lastmod>2025-04-19</lastmod>
+         <lastmod>2025-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://northernscott.ca/npcs/</loc>
+         <lastmod>2025-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://northernscott.ca/npcs/onde-orsal/</loc>
+         <lastmod>2025-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://northernscott.ca/npcs/toger-greytoe/</loc>
+         <lastmod>2025-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://northernscott.ca/the-party/</loc>
+         <lastmod>2025-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://northernscott.ca/the-party/ada-glowsword/</loc>
+         <lastmod>2025-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://northernscott.ca/the-party/alarise-stormshore/</loc>
+         <lastmod>2025-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://northernscott.ca/the-party/helga-hirscka/</loc>
+         <lastmod>2025-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://northernscott.ca/the-party/lucien-sugea/</loc>
+         <lastmod>2025-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://northernscott.ca/the-party/shin-cherou/</loc>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://northernscott.ca/world/</loc>
-         <lastmod>2025-04-19</lastmod>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://northernscott.ca/world/Avandra/</loc>
-         <lastmod>2025-04-19</lastmod>
+         <lastmod>2025-04-20</lastmod>
     </url>
     <url>
          <loc>https://northernscott.ca/world/Ioun/</loc>
-         <lastmod>2025-04-19</lastmod>
+         <lastmod>2025-04-20</lastmod>
     </url>
 </urlset>
