@@ -1,7 +1,7 @@
 ---
 title: Ada Glowsword
 date created: Saturday, April 19th 2025, 5:27:45 pm
-date modified: Saturday, April 19th 2025, 10:42:18 pm
+date modified: Sunday, April 20th 2025, 10:23:59 pm
 aliases: []
 tags: [ada, character, pc]
 references: 
@@ -19,7 +19,7 @@ references:
 | Age:         | 20                           |
 | From:        | Zadash, Dwendalian Empire    |
 | Class:       | Wizard, School of Abjuration |
-| Deity:       | Ioun                         |
+| Deity:       | [Ioun](../world/Ioun.md)     |
 | Affiliation: | Cobalt Soul                  |
 
 ## Description
@@ -42,7 +42,7 @@ Ada is curious to a fault, and this often gets her into trouble. She becomes eas
 | Brother      | Adimm “Dim” Glowsword                                               | M25        | Apprentice Armourer             | Zadash                                                                                                       |
 | Mentor       | [Onde Orsal](../npcs/onde-orsal.md)                                 | M38        | Sr. Arcanist of the Cobalt Soul | Cobalt Soul, Zadash                                                                                          |
 | Friend       | [Toger Greytoe](../npcs/toger-greytoe.md)                           | M23        | Apprentice to Yussa Errenis     | [Tidepeak Tower](https://criticalrole.fandom.com/wiki/Tidepeak_Tower), Open Quay, Nicodranas, Clovis Concord |
-| Contact      | [Yussa Errenis](https://criticalrole.fandom.com/wiki/Yussa_Errenis) | M\>200     | Independent Business Wizard     | [Tidepeak Tower](https://criticalrole.fandom.com/wiki/Tidepeak_Tower), Open Quay, Nicodranas, Clovis Concord |
+| Contact      | [Yussa Errenis](../npcs/yussa-errenis.md) | M\>200     | Independent Business Wizard     | [Tidepeak Tower](https://criticalrole.fandom.com/wiki/Tidepeak_Tower), Open Quay, Nicodranas, Clovis Concord |
 
 ## Family
 
@@ -60,7 +60,7 @@ Their family maintains a respectful rivalry with [Sparkhammer Smithy](https://cr
 
 Ada presented herself to the Zadash Reserve of the Cobalt Soul at age 13, precocious and whip smart. Initially bemused, the librarians let her into the library, and quickly realized her intelligence. Ada started spending every day at the library from dawn till dusk, and after a year an Arcanist accompanied her home and asked her parents if they would consent to the Cobalt Soul training her. Despite having no contact with the Cobalt Soul, her parents thought that the discipline and the opportunity to learn might be beneficial for her and consented.
 
-Ada showed an aptitude for magic and was placed under the mentorship of [Onde Orsal](../npcs/ondo-orsal.md), a young half-human and half-orc wizard at the Cobalt Soul. For her part, Ada thought it was cool to be accepted because it was a recognition of her intelligence, but she doesn’t have a particularly strong attachment to the Cobalt Soul.
+Ada showed an aptitude for magic and was placed under the mentorship of [Onde Orsal](../npcs/onde-orsal.md), a young half-human and half-orc wizard at the Cobalt Soul. For her part, Ada thought it was cool to be accepted because it was a recognition of her intelligence, but she doesn’t have a particularly strong attachment to the Cobalt Soul.
 
 Since completing her basic arcane education about a year ago, Ada has started to specialize in Abjuration, with a focus on extraplanar incursions (rather like a paranormal investigator).
 

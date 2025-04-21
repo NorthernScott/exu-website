@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/the-party/index.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/the-party/index.md",
+                "file": "docs/the-party/alarise-stormshore.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "alarise-stormshore"
             }
           },
           {
@@ -88,17 +88,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/the-party/alarise-stormshore.md",
+                "file": "dm-docs/Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "alarise-stormshore"
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "8315a2a024a658e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/the-party/ada-glowsword.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "ada-glowsword"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -165,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/the-party/alarise-stormshore.md",
+                "file": "docs/the-party/ada-glowsword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for alarise-stormshore"
+              "title": "Backlinks for ada-glowsword"
             }
           },
           {
@@ -343,43 +358,44 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e63f19b855d39bcf",
+  "active": "8315a2a024a658e0",
   "lastOpenFiles": [
-    "docs/the-party/ada-glowsword.md",
-    "docs/index.md",
     "docs/the-party/index.md",
+    "docs/the-party/ada-glowsword.md",
+    "docs/npcs/index.md",
+    "docs/npcs/yussa-errenis.md",
+    "docs/assets/images/yussa-errenis.png",
+    "docs/assets/images/yussa-errenis-original.png",
+    "docs/assets/images/yussa-errenis-3.png",
+    "docs/assets/images/yussa-errenis-3.png.crdownload",
+    "docs/assets/images/yussa-errenis-2.png",
+    "docs/assets/images/yussa-errenis-2.png.crdownload",
+    "docs/npcs/onde-orsal.md",
+    "docs/assets/images/yussa-errenis.png.crdownload",
+    "docs/npcs/toger-greytoe.md",
+    "docs/assets/images/yussa-errenis.webp",
+    "docs/assets/images/yussa-errenis.webp.crdownload",
+    "docs/assets/images/black.webp",
+    "docs/assets/images/black.webp.crdownload",
+    "docs/the-party/alarise-stormshore.md",
+    "site/assets/javascripts/glightbox.min.js",
+    "site/assets/stylesheets/glightbox.min.css",
     "site/feed_json_updated.json",
     "site/feed_json_created.json",
     "site/feed_rss_updated.xml",
-    "site/feed_rss_created.xml",
-    "site/search/search_index.json",
-    "site/search",
-    "site/assets/external/fonts.googleapis.com/css.1558d9b4.css",
-    "site/assets/external/fonts.googleapis.com",
-    "site/assets/external/fonts.gstatic.com/s/ibmplexserif/v19/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1npjQ.woff2",
-    "site/assets/external/fonts.gstatic.com/s/ibmplexserif/v19/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1fpjeOg.woff2",
     "site/assets/images/favicon.png",
     "site/assets/maps/map-exandria-low-res.png",
     "site/assets/images/toger-greytoe.png",
     "site/assets/images/reilorans.png",
-    "site/assets/images/onde-orsal.png",
-    "site/assets/images/myceits.png",
-    "site/assets/images/cytaa.png",
-    "site/assets/images/bormodo-elder-barthie.png",
-    "site/assets/images/ampersand-logo.png",
-    "site/assets/images/ada-glowsword.png",
-    "docs/npcs/onde-orsal.md",
-    "docs/npcs/index.md",
+    "docs/index.md",
+    "dm-docs/Tasks.md",
     "docs/world/index.md",
-    "docs/npcs/toger-greytoe.md",
-    "docs/the-party/alarise-stormshore.md",
     "docs/world/Satellites.md",
     "docs/world/Continents.md",
     "docs/world/Ioun.md",
     "docs/the-party/shin-cherou.md",
     "docs/the-party/helga-hirscka.md",
     "docs/the-party/lucien-sugea.md",
-    "dm-docs/Tasks.md",
     "docs/world/Avandra.md",
     "docs/world/Feast of New Dawn.md",
     "14.md",
@@ -392,7 +408,6 @@
     "dm-docs/Atlas.md",
     "vault/Templates/Session Notes.md",
     "vault/Templates/Plot Hook Ideas.canvas",
-    "vault/Templates/Map of the World.md",
     "vault/Plot Hook Ideas.canvas",
     "Party Plot Hooks.canvas",
     "Plot Hook Ideas.canvas",

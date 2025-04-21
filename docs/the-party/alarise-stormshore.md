@@ -1,7 +1,7 @@
 ---
 title: Alarise Stormshore
 date created: Saturday, April 19th 2025, 5:29:33 pm
-date modified: Saturday, April 19th 2025, 5:31:03 pm
+date modified: Sunday, April 20th 2025, 12:51:36 pm
 aliases: []
 tags: [alarise, character, pc]
 references: 
@@ -43,8 +43,6 @@ As a child, her parents enrolled her in a private school run by a clerical order
 
 > [!INFO|inline end]+ Trinket
 > A small, rectangular piece of metal, slightly smaller than a snuff box, with two silver metallic cups on one end. It throws sparks when wet. Basically a 9-volt battery. She stole it from the house of a girl she didn’t like while at a house party in school. Unbeknownst to her, the object belonged to the girl’s father, who was/is a researcher at the Halls of Erudition.
->
-> - [ ] Determine what the device is/does. 🔽 ➕ 2025-04-13
 
 ## Affiliation
 
