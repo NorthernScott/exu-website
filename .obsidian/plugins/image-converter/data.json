@@ -235,7 +235,7 @@
   "ProcessCurrentNoteresizeModaldesiredWidth": 600,
   "ProcessCurrentNoteresizeModaldesiredHeight": 800,
   "ProcessCurrentNoteresizeModaldesiredLength": 400,
-  "ProcessCurrentNoteskipImagesInTargetFormat": false,
+  "ProcessCurrentNoteskipImagesInTargetFormat": true,
   "ProcessCurrentNoteEnlargeOrReduce": "Always",
   "ProcessCurrentNoteSkipFormats": "tif,tiff,heic",
   "ProcessAllVaultconvertTo": "png",

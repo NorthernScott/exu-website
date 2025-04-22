@@ -1,7 +1,7 @@
 ---
 title: Lucien Sugea
 date created: Saturday, April 19th 2025, 5:25:14 pm
-date modified: Saturday, April 19th 2025, 5:29:10 pm
+date modified: Monday, April 21st 2025, 10:17:02 pm
 aliases: []
 tags: [character, lucien, pc]
 references: 
@@ -22,40 +22,52 @@ references:
 | Deity:       | Avandra                                     |
 | Affiliation: | Sugea Family of Nicodranas, Clovis Concord  |
 
+### Where Is He Now?
+
+Lucien has just completed his first successful business deal and is on top of the world. His next goal is to “get out into the world” and “take his business on the road,” but for now he hasn’t *quite* made it out of the Opal Arches. To his credit, he is trying his best to be disciplined, but he is allowing himself some time to celebrate.
+
+## Description
+
+![Photo Not Submitted|200](../assets/images/photo-missing.png){ width=200, align=right }
+
 ## Personality
 
-- Sugea means “Serpent” in Basque.
-- His mom is definitely a warlock of Uk’otoa.
-	- Is she Avantika reincarnated??
-- Aberrant Mind Sorcerer is top of mind.
-	- His power is somehow connected to Uk’otoa.
-	- His mom made some sort of a deal with Uk’otoa to gain power?
-	- He probably doesn’t know where his power comes from or about his mom’s deal.
-- Second or third son of a rich, noble family.
-- Trinket: A tear-dropped shaped silver earring, with a hole in the middle, with a blue teardrop shaped cut glass gem in the middle, containing some sort of liquid. Stolen from his mom.
-- Shitty Rich Kid.
-- Gives only child energy but has one much younger brother, name unknown, about 8 years old, who hangs out with dad.
-- Mom is the Marquess of Nicodranas.
-- His dad is a rough and ready sailor.
-- Only allegiance is to cash?
-- Expected to perform some familial duty and is either bad at it or hates it?
-- The aberrant mind class could speak to him being too weird.
-- Has the Cloak of Many Fashions.
-- Menagerie Coast.
-- Avandra - the Changebringer - is their patron deity.
-- Speaks Abyssal but doesn’t even know it.
-- 17-19 years old
-- Keeps having dreams about drowning.
-- Edgelord?
-- Shin is his “Cool Babysitter,” cool teacher, neat older sister.
-- His family were sailor merchants, reasonably prosperous, but not among the upper echelon of the Nicodranian society. This all changed suddenly in the past 3-5 years when his mother ascended to the throne of Marquess very suddenly and through somewhat obscure means.
-	- It’s not that he isn’t curious about how his mother did this, but it’s all kinda vague and the stories don’t really hang together.
-	- His father is still very much a sailor at heart and is not a political animal. He owns a ship (more than one) and has taken to spending a lot of his time at sea.
-- He wants to do “it” on his own. What that means exactly is kinda non-specific.
-	- Probably wants to succeed in business, but doesn’t want to do it within the context of his family because he wants to do it himself.
-	- He has at this point just completed his first successful business deal and is on top of the world.
-	- He may not have even made it out of the Opal Arches.
-	- Now that he has some money of his own, he is trying to be disciplined, but is also celebrating. Second generation wealth.
-- His earliest connection with his abilities was his ability to convince people of things. He can consciously cast magic but hides it. He thinks that Shin doesn’t know the full extent of his abilities.
-- Is his mom arranging marriages for him? Does she even care?
-- He’s not really interested. Maybe he turns off suitors?
+Lucien would be a fairly typical “shitty rich kid” were it not for two important distinctions: his mother is the Marquess of [Nicodranas](../world/Locations/nicodranas.md), and he is a sorcerer. To his credit, he *mostly* doesn’t exploit his sorcerous abilities for personal gain, or at least that’s what he tells himself. What is becoming harder for him to ignore is that he seems to have a preternatural ability to convince people of things.
+
+Lucien would tell you that his greatest attachment is to cold, hard, cash; but that isn’t entirely true. That’s not to say that he doesn’t love gold. He does. But his deepest desire is to prove himself by succeeding in ways that his parents - especially his mother - will recognize and reward.
+
+## Relationships
+
+| Relationship     | Name                          | Gender Age | Occupation | Location   |
+| ---------------- | ----------------------------- | ---------- | ---------- | ---------- |
+| Mother           |                               |            |            |            |
+| Father           |                               |            |            |            |
+| Younger Brother  |                               | M8         | N/A        | Nicodranas |
+| Teacher, Au Pair | [Shin Cherou](shin-cherou.md) | F34        | Priestess  | Nicodranas |
+
+## Family
+
+The centre of Lucien’s family is his mother, who is the Marquess of Nicodranas. However, this is a relatively new development. Lucien’s family were sailor merchants, prosperous certainly, but not among the ruling elite. This all changed suddenly in about 4 years ago when his mother ascended to the throne of Nicodranas very suddenly and through somewhat obscure means.
+
+Unlike Lucien’s mother, his father is very much not a political animal. Still a rough and ready sailor at heart, he has taken to spending a lot of time at sea on his original fishing boat, which he has lovingly restored by hand.
+
+Lucien’s younger brother, who just turned 8, is somewhat of a non-entity in Lucien’s world and spends most of his time hanging out with their dad.
+
+The final member of Lucien’s family isn’t actually a blood relative, though to Lucien she might as well be: [Shin Cherou](shin-cherou.md) is his “au pair”, his teacher, and his companion.
+
+## Affiliation
+
+Lucien would tell you that he is a “lone wolf” or a “solo operator.” However, as a member of the Sugea Family, he is one of the ruling elite of Nicodranas and has close ties with the [Clovis Concord](../world/factions/clovis-concord.md).
+
+## Quest
+
+> [!NOTE|inline end] Trinket
+> A tear-dropped shaped silver earring, with a hole in the middle, with a blue teardrop shaped cut glass gem in the middle, containing some sort of liquid. Stolen from his mom.
+
+Lucien wants to do “it” on his own. What exactly “it” is isn’t yet clear to him or to anyone else, but for the time being he has turned his attention to business. He wants to succeed on “his own terms” and “under his own power” - phrases used by his parents - but that’s hard when your family literally runs the trade guilds in one of the most prosperous cities on the continent.
+
+## Notes
+
+- For his 18th birthday, his mother gifted him with a [Cloak of Many Fashions ](https://www.dndbeyond.com/magic-items/27041-cloak-of-many-fashions).
+- He thinks that Shin doesn’t know the full extent of his abilities, but she definitely does.
+- He keeps having dreams about drowning.

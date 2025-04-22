@@ -1,7 +1,7 @@
 ---
 title: Helga Hirscka
 date created: Saturday, April 19th 2025, 5:52:39 pm
-date modified: Saturday, April 19th 2025, 5:53:29 pm
+date modified: Monday, April 21st 2025, 10:23:14 pm
 aliases: []
 tags: [character, helga, pc]
 references: 
@@ -22,27 +22,37 @@ references:
 | Deity:       | None                                           |
 | Affiliation: | None                                           |
 
+### Where Is She Now?
+
+## Description
+
+![Photo Not Submitted|200](../assets/images/photo-missing.png){ width=200, align=right }
+
 ## Personality
 
 Helga comes from a solid place, built on foundations of rock and stone. She believes that people, places, and things should be solid too.
 
-Helga is solid and she believes that things should be solid.
+## Relationships
 
-## Family Background
+| Relationship | Name | Gender Age | Occupation | Location |
+| ------------ | ---- | ---------- | ---------- | -------- |
+|              |      |            |            |          |
+|              |      |            |            |          |
+|              |      |            |            |          |
+|              |      |            |            |          |
+|              |      |            |            |          |
+|              |      |            |            |          |
+|              |      |            |            |          |
 
-| Relationship | Name | Age | Occupation | Location | Note |
-| ------------ | ---- | --- | ---------- | -------- | ---- |
-|              |      |     |            |          |      |
-|              |      |     |            |          |      |
-|              |      |     |            |          |      |
+## Family
+
+## Affiliation
 
 - Goliath
 - Barbarian
 - 25 years old
 - 7-8 feet tall
 - Intended Subclass: Path of the Wildheart
-- Trinket: A single caltrop of bone. She carved it out of a bear bone. She has a set of dice made from the same bone. She made this because she had extra bone.
-	- “She believes that every young girl should have her own set of dice carved from bear bones.”
 - Soldier Background, because she helped to guard the livestock.
 - Feels like she’s “aging out” of marriageable age.
 - Ki’Nau, from Doralle Woods, village near the lake.
@@ -69,4 +79,9 @@ Helga is solid and she believes that things should be solid.
 	- She is Lawful Neutral, so she actually is big on rules
 - She’s recently arrived in Nicodranas and finds it very overwhelming and weird. She feels very out of place.
 - She has a certain amount of disdain for the people, and thinks the men are weak and soft. But is also intrigued by the comforts of the place.
-- Really think that the party should meet at the Lavish Chateau.
+
+## Quest
+
+> [!NOTE|inline end] Trinket
+>
+> A single caltrop of bone. She carved it out of a bear bone. She also has a set of dice made from the same bone. She made this because she had extra bone. Why? Because she believes every young girl should have her own set of dice carved from bear bones.

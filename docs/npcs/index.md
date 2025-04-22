@@ -1,10 +1,11 @@
 ---
 title: NPCs
 date created: Saturday, April 19th 2025, 9:25:33 pm
-date modified: Sunday, April 20th 2025, 9:02:31 pm
+date modified: Monday, April 21st 2025, 5:44:14 pm
 aliases: []
 tags: []
-references: d
+references: 
+hide: [navigation, toc]
 ---
 
 # NPCs
@@ -16,6 +17,7 @@ references: d
 	- [Toger Greytoe](toger-greytoe.md)
 - ## Friends  :material-emoticon-happy:
 	- [Yussa Errenis](yussa-errenis.md)
+	- [Pumat Sol](pumat-sol.md)
 - ## Antagonists :material-emoticon-angry:
 - ## BBEGs :material-emoticon-devil:
 

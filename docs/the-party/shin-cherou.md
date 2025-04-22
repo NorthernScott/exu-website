@@ -1,7 +1,7 @@
 ---
 title: Shin Cherou
 date created: Saturday, April 19th 2025, 5:53:54 pm
-date modified: Saturday, April 19th 2025, 5:54:44 pm
+date modified: Monday, April 21st 2025, 10:25:42 pm
 aliases: []
 tags: [character, pc, shin]
 references: 
@@ -9,26 +9,45 @@ references:
 
 # Shin Cherou
 
-| Name:    | Shin Cherou                                 |
-| -------- | ------------------------------------------- |
-| Player:  | Beth                                        |
-| Species: | Hobgoblin                                   |
-| Gender:  | Female (she/her)                            |
-| Age:     | 34                                          |
-| From:    | Nicodranas, Clovis Concord, Menagerie Coast |
-| Class    | Barbarian, Path of the Wildheart            |
-| Deity:   | None                                        |
+| Name:        | Shin Cherou                                 |
+| ------------ | ------------------------------------------- |
+| Player:      | Beth                                        |
+| Species:     | Hobgoblin                                   |
+| Gender:      | Female (she/her)                            |
+| Age:         | 34                                          |
+| From:        | Nicodranas, Clovis Concord, Menagerie Coast |
+| Class        | Cleric, Life Domain                         |
+| Deity:       | Avandra                                     |
+| Affiliation: | Church of the Changebringer                 |
 
-- Hobgoblin
-- Intended Sublass: Life Domain
-- Cleric of Avandra
-- Acolyte Background
+## Where Is She Now?
+
+# Description
+
+![Photo Not Submitted|200](../assets/images/photo-missing.png){ width=200, align=right }
+
+# Personality
+
+# Relationships
+
+| Relationship | Name | Gender Age | Occupation | Location |
+| ------------ | ---- | ---------- | ---------- | -------- |
+|              |      |            |            |          |
+|              |      |            |            |          |
+|              |      |            |            |          |
+|              |      |            |            |          |
+|              |      |            |            |          |
+|              |      |            |            |          |
+|              |      |            |            |          |
+
+# Family
+
+# Affiliation
+
 - Born and raised in Nicodranas
-- 34 years old, female
 - Oldest of 3 children. Two younger siblings, a sister and a brother.
 - Her parents are fisherfolk.
 - Her family is frugal and somewhat opportunistic. They instilled a belief in trying to get ahead.
-- Trinket: A silver bell without a clapper. Not sure where she got it yet, but she knows that her little brother broke it.
 - Some missionaries of Avandra recruited her into the church as an Acolyte at 12 years old.
 	- Her family was barely getting by. She had one younger sister and then a newborn boy arrived.
 	- She heard her parents arguing about money a lot.
@@ -49,3 +68,9 @@ references:
 - Has a tiny awakened shrub. Speaks whatever Beth’s main language is.
 	- She prunes it regularly like a bonsai.
 	- Name: Shrub
+
+## Quest
+
+> [!NOTE|inline end] Trinket
+>
+> A silver bell without a clapper. Doesn’t recall where she got it, but she knows that her little brother broke it.

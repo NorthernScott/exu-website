@@ -8,51 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a873f87ed35c32f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/the-party/index.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "9964e28dd678e2f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/the-party/alarise-stormshore.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "alarise-stormshore"
-            }
-          },
-          {
-            "id": "67a6be7653efe778",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/the-party/helga-hirscka.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "helga-hirscka"
-            }
-          },
-          {
             "id": "58fe838a01039a30",
             "type": "leaf",
             "state": {
@@ -60,7 +15,7 @@
               "state": {
                 "file": "docs/the-party/shin-cherou.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -68,37 +23,22 @@
             }
           },
           {
-            "id": "2a4380f705993fdd",
+            "id": "48c179135cffaf8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/the-party/lucien-sugea.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "lucien-sugea"
-            }
-          },
-          {
-            "id": "e63f19b855d39bcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dm-docs/Tasks.md",
+                "file": "docs/the-party/helga-hirscka.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "helga-hirscka"
             }
           },
           {
-            "id": "8315a2a024a658e0",
+            "id": "4d68892764f83a3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -111,9 +51,23 @@
               "icon": "lucide-file",
               "title": "ada-glowsword"
             }
+          },
+          {
+            "id": "5494fbdbaa337dc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/the-party/lucien-sugea.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "lucien-sugea"
+            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/the-party/ada-glowsword.md",
+                "file": "docs/the-party/shin-cherou.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ada-glowsword"
+              "title": "Backlinks for shin-cherou"
             }
           },
           {
@@ -297,8 +251,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "4cf5d81aede62717",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "docs/the-party/shin-cherou.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for shin-cherou"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "a4b1abab1ed37c7f",
@@ -358,55 +325,56 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8315a2a024a658e0",
+  "active": "58fe838a01039a30",
   "lastOpenFiles": [
-    "docs/the-party/index.md",
-    "docs/the-party/ada-glowsword.md",
-    "docs/npcs/index.md",
-    "docs/npcs/yussa-errenis.md",
-    "docs/assets/images/yussa-errenis.png",
-    "docs/assets/images/yussa-errenis-original.png",
-    "docs/assets/images/yussa-errenis-3.png",
-    "docs/assets/images/yussa-errenis-3.png.crdownload",
-    "docs/assets/images/yussa-errenis-2.png",
-    "docs/assets/images/yussa-errenis-2.png.crdownload",
-    "docs/npcs/onde-orsal.md",
-    "docs/assets/images/yussa-errenis.png.crdownload",
-    "docs/npcs/toger-greytoe.md",
-    "docs/assets/images/yussa-errenis.webp",
-    "docs/assets/images/yussa-errenis.webp.crdownload",
-    "docs/assets/images/black.webp",
-    "docs/assets/images/black.webp.crdownload",
-    "docs/the-party/alarise-stormshore.md",
     "site/assets/javascripts/glightbox.min.js",
     "site/assets/stylesheets/glightbox.min.css",
     "site/feed_json_updated.json",
     "site/feed_json_created.json",
     "site/feed_rss_updated.xml",
+    "site/feed_rss_created.xml",
+    "site/search/search_index.json",
+    "site/search",
+    "site/assets/external/fonts.googleapis.com/css.1558d9b4.css",
+    "site/assets/external/fonts.googleapis.com",
+    "site/assets/external/fonts.gstatic.com/s/ibmplexserif/v19/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1npjQ.woff2",
     "site/assets/images/favicon.png",
     "site/assets/maps/map-exandria-low-res.png",
+    "site/assets/images/yussa-errenis.png",
+    "site/assets/images/yussa-errenis-original.png",
     "site/assets/images/toger-greytoe.png",
     "site/assets/images/reilorans.png",
-    "docs/index.md",
+    "site/assets/images/pumat-sol.png",
+    "site/assets/images/photo-missing.png",
+    "site/assets/images/onde-orsal.png",
+    "site/assets/images/myceits.png",
+    "docs/the-party/helga-hirscka.md",
+    "docs/the-party/shin-cherou.md",
+    "docs/the-party/ada-glowsword.md",
+    "docs/the-party/lucien-sugea.md",
+    "dm-docs/Plot Hooks.md",
+    "docs/the-party/alarise-stormshore.md",
+    "docs/world/factions/clovis-concord.md",
+    "docs/world/Locations/nicodranas.md",
+    "docs/npcs/pumat-sol.md",
+    "docs/npcs/onde-orsal.md",
+    "docs/world/Locations/zadash.md",
+    "docs/world/factions/cobalt-soul.md",
+    "templates/npc.md",
+    "docs/world/Locations/doralle-village.md",
+    "dm-docs/Atlas.md",
     "dm-docs/Tasks.md",
+    "dm-docs/Party Plot Hooks.canvas",
+    "docs/npcs/yussa-errenis.md",
     "docs/world/index.md",
+    "docs/npcs/index.md",
+    "docs/the-party/index.md",
+    "docs/index.md",
+    "docs/npcs/README.md",
+    "docs/npcs/toger-greytoe.md",
     "docs/world/Satellites.md",
     "docs/world/Continents.md",
-    "docs/world/Ioun.md",
-    "docs/the-party/shin-cherou.md",
-    "docs/the-party/helga-hirscka.md",
-    "docs/the-party/lucien-sugea.md",
-    "docs/world/Avandra.md",
-    "docs/world/Feast of New Dawn.md",
-    "14.md",
-    "templates/session-notes.md",
-    "docs/blog/index.md",
-    "docs/House Rules.md",
-    "docs/Ground Rules.md",
     "dm-docs/Plot Hook Ideas.canvas",
-    "dm-docs/Party Plot Hooks.canvas",
-    "dm-docs/Atlas.md",
-    "vault/Templates/Session Notes.md",
     "vault/Templates/Plot Hook Ideas.canvas",
     "vault/Plot Hook Ideas.canvas",
     "Party Plot Hooks.canvas",

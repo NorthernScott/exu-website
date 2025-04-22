@@ -1,7 +1,7 @@
 ---
 title: Ada Glowsword
 date created: Saturday, April 19th 2025, 5:27:45 pm
-date modified: Sunday, April 20th 2025, 10:23:59 pm
+date modified: Monday, April 21st 2025, 10:17:46 pm
 aliases: []
 tags: [ada, character, pc]
 references: 
@@ -19,30 +19,28 @@ references:
 | Age:         | 20                           |
 | From:        | Zadash, Dwendalian Empire    |
 | Class:       | Wizard, School of Abjuration |
-| Deity:       | [Ioun](../world/Ioun.md)     |
+| Deity:       | [Ioun](../world/religion/Ioun.md)     |
 | Affiliation: | Cobalt Soul                  |
 
 ## Description
 
-![Ada Glowsword|300](../assets/images/ada-glowsword.png){ width=300 }
+![Photo Not Submitted|200](../assets/images/photo-missing.png){ width=200, align=right }
 
 ## Personality
-
-> [!NOTE|inline end] Trinket
-> A small box of different buttons that she collected from around her parents’ workshop. Like collecting rocks, she took them because they were shiny and pretty. Now she keeps them because they remind her of her family.
 
 Ada is curious to a fault, and this often gets her into trouble. She becomes easily fascinated by random and often esoteric topics. Ada is quirky, a touch weird, unencumbered, and enjoying her life as - essentially - a grad student. Unlike the rest of her family, she isn’t crafty by nature, but her keen mind means that she has absorbed a lot of knowledge about crafting over the years. She’s not particularly competitive, but puts a lot of pressure on herself to succeed.
 
 ## Relationships
 
-| Relationship | Name                                                                | Gender Age | Occupation                      | Location                                                                                                     |
-| ------------ | ------------------------------------------------------------------- | ---------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Mother       | Milnis Glowsword                                                    | F80        | Armourer                        | Zadash                                                                                                       |
-| Father       | Dyvomy Glowsword                                                    | M70        | Armourer                        | Zadash                                                                                                       |
-| Brother      | Adimm “Dim” Glowsword                                               | M25        | Apprentice Armourer             | Zadash                                                                                                       |
-| Mentor       | [Onde Orsal](../npcs/onde-orsal.md)                                 | M38        | Sr. Arcanist of the Cobalt Soul | Cobalt Soul, Zadash                                                                                          |
-| Friend       | [Toger Greytoe](../npcs/toger-greytoe.md)                           | M23        | Apprentice to Yussa Errenis     | [Tidepeak Tower](https://criticalrole.fandom.com/wiki/Tidepeak_Tower), Open Quay, Nicodranas, Clovis Concord |
-| Contact      | [Yussa Errenis](../npcs/yussa-errenis.md) | M\>200     | Independent Business Wizard     | [Tidepeak Tower](https://criticalrole.fandom.com/wiki/Tidepeak_Tower), Open Quay, Nicodranas, Clovis Concord |
+| Relationship | Name                                      | Gender Age | Occupation                      | Location                                                                                                              |
+| ------------ | ----------------------------------------- | ---------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Mother       | Milnis Glowsword                          | F80        | Armourer                        | Glowsword Smithy, Zadash                                                                                              |
+| Father       | Dyvomy Glowsword                          | M70        | Armourer                        | Glowsword Smithy, Zadash                                                                                              |
+| Brother      | Adimm “Dim” Glowsword                     | M25        | Apprentice Armourer             | Glowsword Smithy, Zadash                                                                                              |
+| Mentor       | [Onde Orsal](../npcs/onde-orsal.md)       | M38        | Sr. Arcanist of the Cobalt Soul | Cobalt Reserve, Zadash                                                                                                |
+| Friend       | [Toger Greytoe](../npcs/toger-greytoe.md) | M23        | Apprentice to Yussa Errenis     | [Tidepeak Tower](https://criticalrole.fandom.com/wiki/Tidepeak_Tower), Open Quay, Nicodranas, Clovis Concord          |
+| Contact      | [Yussa Errenis](../npcs/yussa-errenis.md) | M\>400     | Independent Business Wizard     | [Tidepeak Tower](https://criticalrole.fandom.com/wiki/Tidepeak_Tower), Open Quay, Nicodranas, Clovis Concord          |
+| Contact      | [Pumat Sol](../npcs/pumat-sol.md)         | M56        | Enchanter                       | [The Invulnerable Vagrannt](https://criticalrole.fandom.com/wiki/The_Invulnerable_Vagrant), Zadash, Dwendalian Empire |
 
 ## Family
 
@@ -65,6 +63,9 @@ Ada showed an aptitude for magic and was placed under the mentorship of [Onde Or
 Since completing her basic arcane education about a year ago, Ada has started to specialize in Abjuration, with a focus on extraplanar incursions (rather like a paranormal investigator).
 
 ## Quest
+
+> [!NOTE|inline end] Trinket
+> A small box of different buttons that she collected from around her parents’ workshop. Like collecting rocks, she took them because they were shiny and pretty. Now she keeps them because they remind her of her family.
 
 The Cobalt Soul has sent Ada to Nicodranas to investigate reports of extraplanar incursions, and with not much more information than that. Since there is no Cobalt Reserve in Nicodranas, she was sent via teleportation circle to [Tidepeak Tower](https://criticalrole.fandom.com/wiki/Tidepeak_Tower), the home of archmage Yussa Errenis, a member of the Arcana Pansophical.
 
