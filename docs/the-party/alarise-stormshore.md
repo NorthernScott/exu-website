@@ -1,7 +1,7 @@
 ---
 title: Alarise Stormshore
 date created: Saturday, April 19th 2025, 5:29:33 pm
-date modified: Monday, April 21st 2025, 10:16:49 pm
+date modified: Thursday, April 24th 2025, 6:13:27 pm
 aliases: []
 tags: [alarise, character, pc]
 references: 
@@ -21,6 +21,8 @@ references:
 | Class:       | Monk, Way of the Open Hand |
 | Deity:       | Raven Queen                |
 | Affiliation: | Trust of Winter            |
+
+### Where is She Now?
 
 ## Description
 

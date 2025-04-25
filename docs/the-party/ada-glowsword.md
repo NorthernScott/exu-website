@@ -1,7 +1,7 @@
 ---
 title: Ada Glowsword
 date created: Saturday, April 19th 2025, 5:27:45 pm
-date modified: Monday, April 21st 2025, 10:17:46 pm
+date modified: Thursday, April 24th 2025, 6:13:38 pm
 aliases: []
 tags: [ada, character, pc]
 references: 
@@ -21,6 +21,8 @@ references:
 | Class:       | Wizard, School of Abjuration |
 | Deity:       | [Ioun](../world/religion/Ioun.md)     |
 | Affiliation: | Cobalt Soul                  |
+
+### Where Is She Now?
 
 ## Description
 

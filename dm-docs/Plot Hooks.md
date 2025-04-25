@@ -1,7 +1,7 @@
 ---
 title: Plot Hooks
 date created: Monday, April 21st 2025, 8:59:15 pm
-date modified: Monday, April 21st 2025, 9:48:33 pm
+date modified: Thursday, April 24th 2025, 8:46:14 pm
 aliases: []
 tags: [dm-only, plot]
 references: 
@@ -32,3 +32,8 @@ Sugea means “Serpent” in Basque. Lucien’s mother is definitely a warlock o
 What is the source of Lucien’s power? Does it come from Uk’otoa? We know that he can speak Abyssal, but he doesn’t even know that.
 
 - [ ] Work on figuring out the source of Lucien’s power. ➕ 2025-04-21
+
+### Helga Hirscka
+
+- Thinks it would be hilarious to have her eventually fall in love with a really weak wizard. Maybe a love triangle between her, a nerdy guy, and an Adonis?
+- Doesn’t really want to get married, it’s just “the next thing” and she hasn’t questioned it yet.
