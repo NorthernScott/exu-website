@@ -1,13 +1,15 @@
 ---
 title: Shin Cherou
 date created: Saturday, April 19th 2025, 5:53:54 pm
-date modified: Monday, April 21st 2025, 10:25:42 pm
+date modified: Thursday, April 24th 2025, 9:17:54 pm
 aliases: []
 tags: [character, pc, shin]
 references: 
 ---
 
 # Shin Cherou
+
+## Summary
 
 | Name:        | Shin Cherou                                 |
 | ------------ | ------------------------------------------- |
@@ -20,29 +22,25 @@ references:
 | Deity:       | Avandra                                     |
 | Affiliation: | Church of the Changebringer                 |
 
-## Where Is She Now?
+### Where Is She Now?
 
-# Description
+## Description
 
 ![Photo Not Submitted|200](../assets/images/photo-missing.png){ width=200, align=right }
 
-# Personality
+## Personality
 
-# Relationships
+## Relationships
 
-| Relationship | Name | Gender Age | Occupation | Location |
-| ------------ | ---- | ---------- | ---------- | -------- |
-|              |      |            |            |          |
-|              |      |            |            |          |
-|              |      |            |            |          |
-|              |      |            |            |          |
-|              |      |            |            |          |
-|              |      |            |            |          |
-|              |      |            |            |          |
+| Relationship | Name | Gender Age | Occupation        | Location                                    |
+| ------------ | ---- | ---------- | ----------------- | ------------------------------------------- |
+| Sister       |      | F30        | Homemaker, Weaver | Nicodranas, Clovis Concord, Menagerie Coast |
+| Brother      |      | M22        | Unemployed        | Nicodranas, Clovis Concord, Menagerie Coast |
+|              |      |            |                   |                                             |
 
-# Family
+## Family
 
-# Affiliation
+## Affiliation
 
 - Born and raised in Nicodranas
 - Oldest of 3 children. Two younger siblings, a sister and a brother.
