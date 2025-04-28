@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/the-party/shin-cherou.md",
+                "file": "docs/world/Locations/nicodranas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "shin-cherou"
+              "title": "nicodranas"
             }
           }
         ]
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/the-party/shin-cherou.md",
+                "file": "docs/world/Locations/nicodranas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for shin-cherou"
+              "title": "Backlinks for nicodranas"
             }
           },
           {
@@ -282,6 +282,10 @@
   },
   "active": "58fe838a01039a30",
   "lastOpenFiles": [
+    "site/the-party/shin-cherou/desktop.ini",
+    "site/the-party/desktop.ini",
+    "site/the-party/helga-hirscka/desktop.ini",
+    "site/the-party/ada-glowsword/desktop.ini",
     "site/assets/javascripts/glightbox.min.js",
     "site/assets/stylesheets/glightbox.min.css",
     "site/feed_json_updated.json",
@@ -289,10 +293,6 @@
     "site/feed_rss_updated.xml",
     "site/feed_rss_created.xml",
     "site/search/search_index.json",
-    "site/search",
-    "site/assets/external/fonts.googleapis.com/css.1558d9b4.css",
-    "site/assets/external/fonts.googleapis.com",
-    "site/assets/external/fonts.gstatic.com/s/ibmplexserif/v19/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1npjQ.woff2",
     "site/assets/images/favicon.png",
     "site/assets/maps/map-exandria-low-res.png",
     "site/assets/images/yussa-errenis.png",
@@ -303,10 +303,10 @@
     "site/assets/images/photo-missing.png",
     "site/assets/images/onde-orsal.png",
     "site/assets/images/myceits.png",
+    "docs/the-party/shin-cherou.md",
     "docs/the-party/helga-hirscka.md",
     "docs/the-party/ada-glowsword.md",
     "dm-docs/Plot Hooks.md",
-    "docs/the-party/shin-cherou.md",
     "docs/the-party/alarise-stormshore.md",
     "docs/the-party/lucien-sugea.md",
     "docs/npcs/yussa-errenis.md",
