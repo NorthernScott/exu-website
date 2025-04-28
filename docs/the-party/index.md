@@ -1,11 +1,11 @@
 ---
 title: Characters
 date created: Sunday, March 16th 2025, 4:57:17 pm
-date modified: Monday, April 21st 2025, 5:41:36 pm
+date modified: Sunday, April 27th 2025, 10:22:18 pm
 aliases: [party, party members]
 tags: [dm-only, plot]
 references: 
-hide: [navigation, toc]
+hide: [toc]
 ---
 
 # Characters

@@ -1,7 +1,7 @@
 ---
 title: Avandra
 date created: Friday, April 18th 2025, 7:55:28 pm
-date modified: Friday, April 18th 2025, 9:09:02 pm
+date modified: Sunday, April 27th 2025, 11:11:15 pm
 aliases: [Lady Luck, She Who Makes the Path, The Changebringer]
 tags: [culture, deity, religion]
 references: [https://criticalrole.fandom.com/wiki/The_Changebringer]
@@ -22,6 +22,8 @@ references: [https://criticalrole.fandom.com/wiki/The_Changebringer]
 | Holy Day:  | New Dawn (Horisal 1st)                                   |
 
 ## Overview
+
+![Sigil of Avandra|200](../../assets/images/sigil-changebringer.png){ width=200, align=Right }
 
 Avandra, the Changebringer, also known as “She Who Makes the Path”, is the goddess of freedom, trade, travel, adventure, and luck. She encourages her followers to venture into the unknown. Her nature leads to few temples dedicated to her in the centres of civilization, but they can be found near well travelled roads. Her worshippers include merchants, free spirits and adventurers.
 

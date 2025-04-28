@@ -1,11 +1,11 @@
 ---
 title: NPCs
 date created: Saturday, April 19th 2025, 9:25:33 pm
-date modified: Monday, April 21st 2025, 5:44:14 pm
+date modified: Sunday, April 27th 2025, 10:22:23 pm
 aliases: []
 tags: []
 references: 
-hide: [navigation, toc]
+hide: [toc]
 ---
 
 # NPCs

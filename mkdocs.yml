@@ -90,9 +90,6 @@ plugins:
       lang: en
   - privacy
   - blog
-  - git-revision-date-localized:
-      enable_creation_date: true
-      type: datetime
   - rss:
       match_path: blog/posts/.*
       date_from_meta:
