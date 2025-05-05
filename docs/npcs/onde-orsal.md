@@ -1,7 +1,7 @@
 ---
 title: Onde Orsal
 date created: Monday, April 21st 2025, 7:16:47 pm
-date modified: Monday, April 21st 2025, 9:23:36 pm
+date modified: Saturday, May 3rd 2025, 8:56:23 pm
 aliases: []
 tags: [ada, cobalt-soul, npc]
 references: 
@@ -15,7 +15,7 @@ The mentor and teacher of Ada Glowsword.
 
 ## Appearance
 
-![Onde Orsal|400](../assets/images/onde-orsal.png){ width=400, align=right }
+![Onde Orsal|200](../assets/images/onde-orsal.png){ width=200, align=right }
 
 A young half-human / half-orc abjurer of the Cobalt Soul, stationed at the Cobalt Reserve in [Zadash](../world/Locations/zadash.md). There is an ongoing debate among the student body as to whether he should be called “McDreamy” or “McSteamy.”
 

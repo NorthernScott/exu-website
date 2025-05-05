@@ -1,7 +1,7 @@
 ---
 title: Enchanter Pumat Sol
 date created: Monday, April 21st 2025, 7:16:47 pm
-date modified: Monday, April 21st 2025, 8:53:31 pm
+date modified: Saturday, May 3rd 2025, 8:55:47 pm
 aliases: [pumat swole]
 tags: [ada, cerberus-assembly, mage, npc]
 references: 
@@ -15,7 +15,7 @@ Pumat is a friend of Ada’s parents, an enchanter of the highest calibre, and a
 
 ## Appearance
 
-![Enchanter Pumat Sol|400](../assets/images/pumat-sol.png){ width=400, align=right }
+![Enchanter Pumat Sol|200](../assets/images/pumat-sol.png){ width=200, align=right }
 
 Pumat is a seven-foot-tall firbolg with short, brown, bushy, curly hair. His body is covered in very fine greyish-brown fur. His nose resembles that of a cow or a bull. Matching the green-gold velvet that hangs in his shop, Pumat Sol often dresses in long elegant robes of deep green and gold. While working, Pumat Prime also wears thick leather gloves with runes on them, as well as a leather band on his head with a large magnifying tool that extends out in front of him.
 
