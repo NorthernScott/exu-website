@@ -212,11 +212,30 @@
   },
   "active": "94b1d431b5c01d5d",
   "lastOpenFiles": [
+    "site/assets/javascripts/glightbox.min.js",
+    "site/assets/stylesheets/glightbox.min.css",
+    "site/feed_json_updated.json",
+    "site/feed_json_created.json",
+    "site/feed_rss_updated.xml",
+    "site/feed_rss_created.xml",
+    "site/search/search_index.json",
+    "site/search",
+    "site/assets/external/fonts.googleapis.com/css.1558d9b4.css",
+    "site/assets/external/fonts.googleapis.com",
+    "site/assets/external/fonts.gstatic.com/s/ibmplexserif/v19/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1npjQ.woff2",
+    "site/assets/images/favicon.png",
+    "site/assets/maps/map-nicodranas.png",
+    "site/assets/maps/map-exandria-low-res.png",
+    "site/assets/images/yussa-errenis.png",
+    "site/assets/images/yussa-errenis-original.png",
+    "site/assets/images/toger-greytoe.png",
+    "site/assets/images/sigil-ioun.png",
+    "site/assets/images/sigil-changebringer.png",
+    "site/assets/images/shin-cherou.png",
+    "site/assets/images/scottyd.jpg",
     "dm-docs/The Gods as Mortals.md",
     "docs/world/Locations/Nicodranas/index.md",
     "docs/the-party/index.md",
-    "docs/world/index.md",
-    "docs/assets/images/pumat-sol.png",
-    "docs/assets/images/ada-glowsword.png"
+    "docs/world/index.md"
   ]
 }
