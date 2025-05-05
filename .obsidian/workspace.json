@@ -210,10 +210,8 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "94b1d431b5c01d5d",
+  "active": "5648d7e7d1476e52",
   "lastOpenFiles": [
-    "docs/world/Locations/Nicodranas/lavish-chateau.md",
-    "docs/world/Locations/Nicodranas/index.md",
     "site/assets/javascripts/glightbox.min.js",
     "site/assets/stylesheets/glightbox.min.css",
     "site/feed_json_updated.json",
@@ -224,6 +222,9 @@
     "site/search",
     "site/assets/external/fonts.googleapis.com/css.1558d9b4.css",
     "site/assets/external/fonts.googleapis.com",
+    "site/assets/external/fonts.gstatic.com/s/ibmplexserif/v19/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1npjQ.woff2",
+    "site/assets/maps/map-nicodranas.png",
+    "site/assets/maps/map-exandria-low-res.png",
     "site/assets/images/yussa-errenis.png",
     "site/assets/images/yussa-errenis-original.png",
     "site/assets/images/toger-greytoe.png",
@@ -232,8 +233,8 @@
     "site/assets/images/shin-cherou.png",
     "site/assets/images/scottyd.jpg",
     "site/assets/images/reilorans.png",
-    "site/assets/images/pumat-sol.png",
-    "site/assets/images/photo-missing.png",
+    "docs/world/Locations/Nicodranas/lavish-chateau.md",
+    "docs/world/Locations/Nicodranas/index.md",
     "dm-docs/The Gods as Mortals.md",
     "docs/the-party/index.md",
     "docs/world/index.md"

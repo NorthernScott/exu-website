@@ -13,7 +13,7 @@ references: [https://criticalrole.fandom.com/wiki/Nicodranas]
 
 !["Per fess undy azure and vert, issuant from the line of division a demi-sun in splendour Or, in chief three escallops argent; in base a lymphad Or, sails argent, flagged azure."|400](../../../assets/images/crest-nicodranas.png){ width=400, align=Right }
 
-![Map of Nicodranas|400](../../../assets/maps/map-nicodranas.png){ width=400, align=Right }
+![Map of Nicodranas|400](../../../assets/map-nicodranas.png){ width=400, align=Right }
 
 Nicodranas is the easternmost port city in the Menagerie Coast. Along with Port Damali it bookends the Menagerie Coast, although Nicodranas is approximately half the size of Port Damali. The city has colourful rooftops and towers vary in height and design, giving an eclectic visual of a jumble of cultures having built this space without a unified vision.
 
