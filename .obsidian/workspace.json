@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/world/Locations/Nicodranas/index.md",
+                "file": "docs/the-party/ada-glowsword.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "ada-glowsword"
             }
           }
         ]
@@ -212,7 +212,8 @@
   },
   "active": "94b1d431b5c01d5d",
   "lastOpenFiles": [
-    "docs/world/Locations/Nicodranas/lavish-chateau.md",
+    "docs/the-party/index.md",
+    "docs/world/Locations/Nicodranas/index.md",
     "site/assets/javascripts/glightbox.min.js",
     "site/assets/stylesheets/glightbox.min.css",
     "site/feed_json_updated.json",
@@ -223,7 +224,6 @@
     "site/search",
     "site/assets/external/fonts.googleapis.com/css.1558d9b4.css",
     "site/assets/external/fonts.googleapis.com",
-    "site/assets/images/favicon.png",
     "site/assets/images/yussa-errenis.png",
     "site/assets/images/yussa-errenis-original.png",
     "site/assets/images/toger-greytoe.png",
@@ -233,9 +233,9 @@
     "site/assets/images/scottyd.png",
     "site/assets/images/reilorans.png",
     "site/assets/images/pumat-sol.png",
-    "docs/world/Locations/Nicodranas/index.md",
+    "site/assets/images/photo-missing.png",
+    "docs/world/Locations/Nicodranas/lavish-chateau.md",
     "dm-docs/The Gods as Mortals.md",
-    "docs/the-party/index.md",
     "docs/world/index.md"
   ]
 }
