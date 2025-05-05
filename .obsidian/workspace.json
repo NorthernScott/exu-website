@@ -13,13 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "dm-docs/The Gods as Mortals.md",
+=======
+                "file": "docs/blog/posts/session-0.md",
+>>>>>>> 25e94ca04b1bfc5b77454a7798681f4434969af3
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "The Gods as Mortals"
+=======
+              "title": "session-0"
+>>>>>>> 25e94ca04b1bfc5b77454a7798681f4434969af3
             }
           }
         ]
@@ -89,7 +97,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "dm-docs/The Gods as Mortals.md",
+=======
+                "file": "docs/blog/posts/session-0.md",
+>>>>>>> 25e94ca04b1bfc5b77454a7798681f4434969af3
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +111,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "Backlinks for The Gods as Mortals"
+=======
+              "title": "Backlinks for session-0"
+>>>>>>> 25e94ca04b1bfc5b77454a7798681f4434969af3
             }
           },
           {
@@ -282,6 +298,7 @@
   },
   "active": "4f0e5b0fef419b64",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "dm-docs/The Gods as Mortals.md",
     "dm-docs/Plot Hooks.md",
     "docs/world/Locations/zadash.md",
@@ -309,16 +326,27 @@
     "docs/npcs/onde-orsal.md",
     "site/assets/javascripts/glightbox.min.js",
     "site/assets/stylesheets/glightbox.min.css",
+=======
+>>>>>>> 25e94ca04b1bfc5b77454a7798681f4434969af3
     "site/feed_json_updated.json",
     "site/feed_json_created.json",
     "site/feed_rss_updated.xml",
     "site/feed_rss_created.xml",
     "site/search/search_index.json",
+<<<<<<< HEAD
     "site/search",
     "site/assets/external/fonts.googleapis.com/css.1558d9b4.css",
+=======
+    "site/assets/external/unpkg.com/mermaid@11/dist/mermaid.min.js",
+    "site/assets/external/fonts.googleapis.com/css.1558d9b4",
+    "site/world/religion/Ioun/index.html",
+    "site/world/religion/Avandra/index.html",
+    "site/world/factions/cobalt-soul/index.html",
+    "site/world/factions/clovis-concord/index.html",
+>>>>>>> 25e94ca04b1bfc5b77454a7798681f4434969af3
     "site/assets/images/favicon.png",
-    "site/assets/maps/map-exandria-low-res.png",
     "site/assets/images/yussa-errenis.png",
+<<<<<<< HEAD
     "docs/npcs/pumat-sol.md",
     "docs/npcs/yussa-errenis.md",
     "docs/npcs/toger-greytoe.md",
@@ -326,9 +354,43 @@
     "docs/house-rules.md",
     "docs/ground-rules.md",
     "docs/the-party/helga-hirscka.md",
+=======
+    "site/assets/images/yussa-errenis-original.png",
+    "site/assets/images/toger-greytoe.png",
+    "site/assets/images/sigil-ioun.png",
+    "site/assets/images/sigil-changebringer.png",
+    "site/assets/images/scottyd.jpg",
+    "site/assets/images/reilorans.png",
+    "site/assets/images/pumat-sol.png",
+    "site/assets/images/photo-missing.png",
+    "docs/world/religion/Avandra.md",
+    "docs/world/religion/Ioun.md",
+    "docs/blog/index.md",
+    "docs/blog/posts/session-0.md",
+    "docs/index.md",
+    "docs/world/index.md",
+    "docs/npcs/index.md",
+    "docs/the-party/index.md",
+    "docs/world/Locations/nicodranas.md",
+    "docs/the-party/shin-cherou.md",
+    "docs/the-party/helga-hirscka.md",
+    "docs/the-party/ada-glowsword.md",
+    "dm-docs/Plot Hooks.md",
+>>>>>>> 25e94ca04b1bfc5b77454a7798681f4434969af3
     "docs/the-party/alarise-stormshore.md",
     "docs/the-party/lucien-sugea.md",
     "dm-docs/Plot Hook Ideas.canvas",
+<<<<<<< HEAD
+=======
+    "dm-docs/atlas.md",
+    "dm-docs/arbor-tacitae-somnia.md",
+    "docs/world/factions/clovis-concord.md",
+    "docs/npcs/pumat-sol.md",
+    "docs/npcs/onde-orsal.md",
+    "docs/world/Locations/zadash.md",
+    "docs/world/factions/cobalt-soul.md",
+    "templates/npc.md",
+>>>>>>> 25e94ca04b1bfc5b77454a7798681f4434969af3
     "dm-docs/Party Plot Hooks.canvas",
     "vault/Templates/Plot Hook Ideas.canvas",
     "vault/Plot Hook Ideas.canvas",

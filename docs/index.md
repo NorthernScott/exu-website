@@ -1,11 +1,23 @@
 ---
 title: Home
 date created: Sunday, April 13th 2025, 10:19:29 pm
+<<<<<<< HEAD
 date modified: Sunday, May 4th 2025, 11:08:39 am
 aliases: [entrypoint, homepage, overview]
 tags: []
 references: 
 hide: []
+=======
+date modified: Monday, April 21st 2025, 5:43:01 pm
+aliases:
+  - entrypoint
+  - homepage
+  - overview
+tags: 
+references: 
+hide:
+  - toc
+>>>>>>> 25e94ca04b1bfc5b77454a7798681f4434969af3
 ---
 
 # Home

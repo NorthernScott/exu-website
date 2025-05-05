@@ -2,7 +2,7 @@
 .cache/
 # .obsidian
 # .space
-Resources/
+resources/
 site/
 
 # Byte-compiled / optimized / DLL files

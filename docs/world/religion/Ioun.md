@@ -1,7 +1,7 @@
 ---
 title: Ioun
 date created: Friday, April 18th 2025, 8:38:53 pm
-date modified: Friday, April 18th 2025, 9:35:37 pm
+date modified: Sunday, April 27th 2025, 11:10:59 pm
 aliases: [The Broken God, The Knowing Mentor, The Knowing Mistress]
 tags: [culture, deity, religion]
 references: [https://criticalrole.fandom.com/wiki/The_Knowing_Mentor]
@@ -22,6 +22,8 @@ references: [https://criticalrole.fandom.com/wiki/The_Knowing_Mentor]
 | Holy Day:  | None                                                         |
 
 ## Overview
+
+![Sigil of Ioun|200](../../assets/images/sigil-ioun.png){ width=200, align=Right }
 
 Ioun, the Knowing Mentor, also known as the Knowing Mistress, is the goddess of knowledge, prophecy, and skill.
 
