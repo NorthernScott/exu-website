@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dm-docs/The Gods as Mortals.md",
+                "file": "docs/world/Locations/Nicodranas/index.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "The Gods as Mortals"
+              "title": "index"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dm-docs/The Gods as Mortals.md",
+                "file": "docs/world/Locations/Nicodranas/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Gods as Mortals"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dm-docs/The Gods as Mortals.md",
+                "file": "docs/world/Locations/Nicodranas/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Gods as Mortals"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dm-docs/The Gods as Mortals.md",
+                "file": "docs/world/Locations/Nicodranas/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Gods as Mortals"
+              "title": "Outline of index"
             }
           },
           {
@@ -212,6 +212,7 @@
   },
   "active": "94b1d431b5c01d5d",
   "lastOpenFiles": [
+    "dm-docs/The Gods as Mortals.md",
     "docs/world/Locations/Nicodranas/index.md",
     "docs/the-party/index.md",
     "docs/world/index.md",

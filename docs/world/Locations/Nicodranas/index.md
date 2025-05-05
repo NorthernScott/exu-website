@@ -15,7 +15,7 @@ references: [https://criticalrole.fandom.com/wiki/Nicodranas]
 
 ![Map of Nicodranas|400](../../../assets/maps/map-nicodranas.png){ width=400, align=Right }
 
-Nicodranas is the easternmost port city in the Menagerie Coast. Along with Port Damali it bookends the Menagerie Coast, although Nicodranas is approximately half the size of Port Damali. The city has colourful rooftops and towers vary in height and design, giving an eclectic visual of a jumble of cultures having built this space without unified vision.
+Nicodranas is the easternmost port city in the Menagerie Coast. Along with Port Damali it bookends the Menagerie Coast, although Nicodranas is approximately half the size of Port Damali. The city has colourful rooftops and towers vary in height and design, giving an eclectic visual of a jumble of cultures having built this space without a unified vision.
 
 The city exterior wall has many gates and archways with portcullises that are held up by a chain mechanism beyond the wall. The gates are guarded by [Zhelezo](../../factions/clovis-concord.md#Zhelezo), who provide policing and security in the city. Towards the coastline, the walls slowly diminish in steps and extend out into the ocean. The walls beyond the exterior were once grey, but through the years of accumulating seagull excrement they became light grey with white patterns. The docks on the eastern and western sides of the city are the Restless Wharf and the Open Quay.
 
