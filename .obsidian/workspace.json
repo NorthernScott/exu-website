@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/world/Locations/Nicodranas/index.md",
+                "file": "docs/world/Locations/Nicodranas/lavish-chateau.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "lavish-chateau"
             }
           }
         ]
@@ -210,8 +210,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5648d7e7d1476e52",
+  "active": "94b1d431b5c01d5d",
   "lastOpenFiles": [
+    "docs/world/Locations/Nicodranas/index.md",
+    "docs/world/Locations/Nicodranas/lavish-chateau.md",
     "site/assets/javascripts/glightbox.min.js",
     "site/assets/stylesheets/glightbox.min.css",
     "site/feed_json_updated.json",
@@ -222,8 +224,7 @@
     "site/search",
     "site/assets/external/fonts.googleapis.com/css.1558d9b4.css",
     "site/assets/external/fonts.googleapis.com",
-    "site/assets/external/fonts.gstatic.com/s/ibmplexserif/v19/jizGREVNn1dOx-zrZ2X3pZvkTiUa454xm1npjQ.woff2",
-    "site/assets/maps/map-nicodranas.png",
+    "site/assets/images/favicon.png",
     "site/assets/maps/map-exandria-low-res.png",
     "site/assets/images/yussa-errenis.png",
     "site/assets/images/yussa-errenis-original.png",
@@ -233,8 +234,6 @@
     "site/assets/images/shin-cherou.png",
     "site/assets/images/scottyd.jpg",
     "site/assets/images/reilorans.png",
-    "docs/world/Locations/Nicodranas/lavish-chateau.md",
-    "docs/world/Locations/Nicodranas/index.md",
     "dm-docs/The Gods as Mortals.md",
     "docs/the-party/index.md",
     "docs/world/index.md"
