@@ -1,33 +1,25 @@
 {
   "main": {
-    "id": "b5b1c52ec6df967e",
+    "id": "e7ad3d8d924389c9",
     "type": "split",
     "children": [
       {
-        "id": "30108f497db045eb",
+        "id": "e8177e044979dc15",
         "type": "tabs",
         "children": [
           {
-            "id": "4f0e5b0fef419b64",
+            "id": "94b1d431b5c01d5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "dm-docs/The Gods as Mortals.md",
-=======
-                "file": "docs/blog/posts/session-0.md",
->>>>>>> 25e94ca04b1bfc5b77454a7798681f4434969af3
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
               "title": "The Gods as Mortals"
-=======
-              "title": "session-0"
->>>>>>> 25e94ca04b1bfc5b77454a7798681f4434969af3
             }
           }
         ]
@@ -36,29 +28,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "01f911772932156e",
+    "id": "eaa8d63e81fc873d",
     "type": "split",
     "children": [
       {
-        "id": "7a322518a0f2c430",
+        "id": "ea0bbe3c9217e711",
         "type": "tabs",
-        "dimension": 67.6056338028169,
         "children": [
           {
-            "id": "517c6468f65e4a73",
+            "id": "5648d7e7d1476e52",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "30299301c737cee3",
+            "id": "109371c3f9fed2ab",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +66,7 @@
             }
           },
           {
-            "id": "9068582648b40672",
+            "id": "3116db7cd8e4c3a2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,23 +76,26 @@
             }
           }
         ]
-      },
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b817e7a16fc87a93",
+    "type": "split",
+    "children": [
       {
-        "id": "2db0567dc744242a",
+        "id": "35b4066b3f1b1484",
         "type": "tabs",
-        "dimension": 32.3943661971831,
         "children": [
           {
-            "id": "3d6c367cebba4b67",
+            "id": "5f8e3c00043e104b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "dm-docs/The Gods as Mortals.md",
-=======
-                "file": "docs/blog/posts/session-0.md",
->>>>>>> 25e94ca04b1bfc5b77454a7798681f4434969af3
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,29 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
               "title": "Backlinks for The Gods as Mortals"
-=======
-              "title": "Backlinks for session-0"
->>>>>>> 25e94ca04b1bfc5b77454a7798681f4434969af3
             }
           },
           {
-            "id": "447ebb0bfd37693b",
+            "id": "aebde5db03917c84",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Characters.md",
+                "file": "dm-docs/The Gods as Mortals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Characters"
+              "title": "Outgoing links from The Gods as Mortals"
             }
           },
           {
-            "id": "b5d99f05eee41e6e",
+            "id": "5599548105c0b26b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,22 +138,7 @@
             }
           },
           {
-            "id": "2520415aaeef81cd",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Plot Hook Ideas.canvas",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Plot Hook Ideas"
-            }
-          },
-          {
-            "id": "5fb6f85aa01e40f9",
+            "id": "383a486ac79c12d2",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -175,75 +150,24 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "f13de474ac26bd19",
-    "type": "split",
-    "children": [
-      {
-        "id": "a5e4bee8245af70d",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "db44d01243d843da",
+            "id": "3f0c4b42b1aaf579",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM",
+              "type": "outline",
               "state": {
-                "calendar": "ID_d80bfb99bbd8",
-                "ephemeral": {
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 14,
-                    "month": 2,
-                    "year": 845
-                  },
-                  "displayDayNumber": false,
-                  "displayMoons": true
-                },
-                "id": "ID_189b4b89cb88"
+                "file": "dm-docs/The Gods as Mortals.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
+              "icon": "lucide-list",
+              "title": "Outline of The Gods as Mortals"
             }
           },
           {
-            "id": "880e4136ea8eb482",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "4cf5d81aede62717",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "docs/index.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for index"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "a4b1abab1ed37c7f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fca87c1e9e348e3a",
+            "id": "5c60e1d18aaada07",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -253,7 +177,7 @@
             }
           },
           {
-            "id": "512702add11c36f5",
+            "id": "6db300fe019d9f5f",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -261,141 +185,37 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
-          },
-          {
-            "id": "c35fab91fec26de8",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": [],
-              "icon": "intiative-tracker-encounter-builder",
-              "title": "Encounter Builder"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": true,
+      "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-kanban:Create new board": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "4f0e5b0fef419b64",
+  "active": "94b1d431b5c01d5d",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "dm-docs/The Gods as Mortals.md",
-    "dm-docs/Plot Hooks.md",
-    "docs/world/Locations/zadash.md",
-    "dm-docs/Tasks.md",
     "docs/world/Locations/Nicodranas/index.md",
-    "docs/assets/images/crest-nicodranas.png",
-    "docs/assets/maps/map-nicodranas.png",
-    "docs/assets/images/map-nicodranas.png",
-    "().md",
-    "docs/world/religion/Avandra.md",
-    "docs/world/index.md",
-    "docs/world/Locations/Nicodranas",
-    "docs/index.md",
-    "docs/rule-quick-reference.md",
     "docs/the-party/index.md",
-    "docs/npcs/index.md",
-    "docs/blog/index.md",
-    "docs/world/Locations/Nicodranas/lavish-chateau.md",
-    "docs/assets/images/lavish-chateau.png",
-    "docs/assets/images/Lavish Chateau 1.png",
-    "docs/world/Locations/doralle-village.md",
-    "docs/the-party/shin-cherou.md",
-    "docs/assets/images/shin-cherou.png",
-    "docs/assets/images/Shin_Cherou.webp",
-    "docs/npcs/onde-orsal.md",
-    "site/assets/javascripts/glightbox.min.js",
-    "site/assets/stylesheets/glightbox.min.css",
-=======
->>>>>>> 25e94ca04b1bfc5b77454a7798681f4434969af3
-    "site/feed_json_updated.json",
-    "site/feed_json_created.json",
-    "site/feed_rss_updated.xml",
-    "site/feed_rss_created.xml",
-    "site/search/search_index.json",
-<<<<<<< HEAD
-    "site/search",
-    "site/assets/external/fonts.googleapis.com/css.1558d9b4.css",
-=======
-    "site/assets/external/unpkg.com/mermaid@11/dist/mermaid.min.js",
-    "site/assets/external/fonts.googleapis.com/css.1558d9b4",
-    "site/world/religion/Ioun/index.html",
-    "site/world/religion/Avandra/index.html",
-    "site/world/factions/cobalt-soul/index.html",
-    "site/world/factions/clovis-concord/index.html",
->>>>>>> 25e94ca04b1bfc5b77454a7798681f4434969af3
-    "site/assets/images/favicon.png",
-    "site/assets/images/yussa-errenis.png",
-<<<<<<< HEAD
-    "docs/npcs/pumat-sol.md",
-    "docs/npcs/yussa-errenis.md",
-    "docs/npcs/toger-greytoe.md",
-    "docs/the-party/ada-glowsword.md",
-    "docs/house-rules.md",
-    "docs/ground-rules.md",
-    "docs/the-party/helga-hirscka.md",
-=======
-    "site/assets/images/yussa-errenis-original.png",
-    "site/assets/images/toger-greytoe.png",
-    "site/assets/images/sigil-ioun.png",
-    "site/assets/images/sigil-changebringer.png",
-    "site/assets/images/scottyd.jpg",
-    "site/assets/images/reilorans.png",
-    "site/assets/images/pumat-sol.png",
-    "site/assets/images/photo-missing.png",
-    "docs/world/religion/Avandra.md",
-    "docs/world/religion/Ioun.md",
-    "docs/blog/index.md",
-    "docs/blog/posts/session-0.md",
-    "docs/index.md",
     "docs/world/index.md",
-    "docs/npcs/index.md",
-    "docs/the-party/index.md",
-    "docs/world/Locations/nicodranas.md",
-    "docs/the-party/shin-cherou.md",
-    "docs/the-party/helga-hirscka.md",
-    "docs/the-party/ada-glowsword.md",
-    "dm-docs/Plot Hooks.md",
->>>>>>> 25e94ca04b1bfc5b77454a7798681f4434969af3
-    "docs/the-party/alarise-stormshore.md",
-    "docs/the-party/lucien-sugea.md",
-    "dm-docs/Plot Hook Ideas.canvas",
-<<<<<<< HEAD
-=======
-    "dm-docs/atlas.md",
-    "dm-docs/arbor-tacitae-somnia.md",
-    "docs/world/factions/clovis-concord.md",
-    "docs/npcs/pumat-sol.md",
-    "docs/npcs/onde-orsal.md",
-    "docs/world/Locations/zadash.md",
-    "docs/world/factions/cobalt-soul.md",
-    "templates/npc.md",
->>>>>>> 25e94ca04b1bfc5b77454a7798681f4434969af3
-    "dm-docs/Party Plot Hooks.canvas",
-    "vault/Templates/Plot Hook Ideas.canvas",
-    "vault/Plot Hook Ideas.canvas",
-    "Party Plot Hooks.canvas",
-    "Plot Hook Ideas.canvas",
-    "templates/Plot Hook Ideas.canvas"
+    "docs/assets/images/pumat-sol.png",
+    "docs/assets/images/ada-glowsword.png"
   ]
 }
