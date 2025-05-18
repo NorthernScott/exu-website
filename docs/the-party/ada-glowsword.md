@@ -1,7 +1,7 @@
 ---
 title: Ada Glowsword
 date created: Saturday, April 19th 2025, 5:27:45 pm
-date modified: Thursday, April 24th 2025, 6:13:38 pm
+date modified: Saturday, May 3rd 2025, 8:54:51 pm
 aliases: []
 tags: [ada, character, pc]
 references: 
@@ -26,7 +26,7 @@ references:
 
 ## Description
 
-![Photo Not Submitted|200](../assets/images/photo-missing.png){ width=200, align=right }
+![Photo Not Submitted|200](../assets/images/ada-glowsword.png){ width=200, align=right }
 
 ## Personality
 

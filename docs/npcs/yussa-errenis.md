@@ -1,7 +1,7 @@
 ---
 title: Yussa Errenis
 date created: Sunday, April 20th 2025, 1:16:42 pm
-date modified: Monday, April 21st 2025, 8:26:31 pm
+date modified: Saturday, May 3rd 2025, 8:56:04 pm
 aliases: []
 tags: [ada, arcana-pansophical, mage, npc]
 references: [https://criticalrole.fandom.com/wiki/Yussa_Errenis]
@@ -15,7 +15,7 @@ Somewhat friendly contact of Ada Glowsword, who is at least assisting the Cobalt
 
 ## Appearance
 
-![Archmage Yussa Errenis|400](../assets/images/yussa-errenis.png){ width=400, align=right }
+![Archmage Yussa Errenis|200](../assets/images/yussa-errenis.png){ width=200, align=right }
 
 A striking high-elf with dark skin and white curly hair pulled back into a tight bun. He has chiselled features, though there are some crow’s feet wrinkles that are creeping in to show his age. He is shorter than an average elf, standing at around 5 feet, or a little less. He usually wears Prussian blue robes with intricate gold brocade trim, and gold jewellery. Like all elves, he appears ageless. And hot.
 
@@ -28,7 +28,7 @@ Yussa is incredibly shy and secretive, rarely venturing outside of his tower in 
 ## Connections
 
 - Contact of [Ada Glowsword](../the-party/ada-glowsword.md)
-- Resident of [Nicodranas](../world/Locations/nicodranas.md)
+- Resident of [Nicodranas](../world/Locations/Nicodranas/index.md)
 - Member of the [Arcana Pansophical](https://criticalrole.fandom.com/wiki/Arcana_Pansophical)
 - Master of [Toger Greytoe](toger-greytoe.md)
 - Employer of [Wensforth](https://criticalrole.fandom.com/wiki/Wensforth)

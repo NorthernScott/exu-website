@@ -32,7 +32,7 @@ Lucien has just completed his first successful business deal and is on top of th
 
 ## Personality
 
-Lucien would be a fairly typical “shitty rich kid” were it not for two important distinctions: his mother is the Marquess of [Nicodranas](../world/Locations/nicodranas.md), and he is a sorcerer. To his credit, he *mostly* doesn’t exploit his sorcerous abilities for personal gain, or at least that’s what he tells himself. What is becoming harder for him to ignore is that he seems to have a preternatural ability to convince people of things.
+Lucien would be a fairly typical “shitty rich kid” were it not for two important distinctions: his mother is the Marquess of [Nicodranas](../world/Locations/Nicodranas/index.md), and he is a sorcerer. To his credit, he *mostly* doesn’t exploit his sorcerous abilities for personal gain, or at least that’s what he tells himself. What is becoming harder for him to ignore is that he seems to have a preternatural ability to convince people of things.
 
 Lucien would tell you that his greatest attachment is to cold, hard, cash; but that isn’t entirely true. That’s not to say that he doesn’t love gold. He does. But his deepest desire is to prove himself by succeeding in ways that his parents - especially his mother - will recognize and reward.
 

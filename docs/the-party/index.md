@@ -1,7 +1,7 @@
 ---
 title: Characters
 date created: Sunday, March 16th 2025, 4:57:17 pm
-date modified: Sunday, April 27th 2025, 10:22:18 pm
+date modified: Sunday, May 4th 2025, 9:58:00 pm
 aliases: [party, party members]
 tags: [dm-only, plot]
 references: 
@@ -12,9 +12,9 @@ hide: [toc]
 
 <div class="grid cards" markdown>
 
-- **[Ada Glowsword](ada-glowsword.md)** (Lindsay)
+- **[Ada Glowsword](ada-glowsword.md)**
 
-	![Photo Not Provided](../assets/images/photo-missing.png){ width=200 }
+	![Ada Glowsword](../assets/images/ada-glowsword.png){ width=200 }
 
 - **[Helga Hirscka](helga-hirscka.md)**
 
@@ -26,7 +26,7 @@ hide: [toc]
 
 - **[Shin Cherou](shin-cherou.md)**
 
-	![Photo Not Provided](../assets/images/photo-missing.png){ width=200 }
+	![Shin Cherou](../assets/images/shin-cherou.png){ width=200 }
 
 - **[Lucien Sugea](lucien-sugea.md)**
 

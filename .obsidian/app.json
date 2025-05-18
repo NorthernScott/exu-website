@@ -8,8 +8,7 @@
     ".+\\.toml",
     ".+\\.yaml",
     ".+\\.py",
-    ".+\\.lock",
-    ".+\\.canvas"
+    ".+\\.lock"
   ],
   "livePreview": false,
   "trashOption": "system",

@@ -1,7 +1,7 @@
 ---
 title: Shin Cherou
 date created: Saturday, April 19th 2025, 5:53:54 pm
-date modified: Thursday, April 24th 2025, 9:17:54 pm
+date modified: Saturday, May 3rd 2025, 9:00:24 pm
 aliases: []
 tags: [character, pc, shin]
 references: 
@@ -26,7 +26,7 @@ references:
 
 ## Description
 
-![Photo Not Submitted|200](../assets/images/photo-missing.png){ width=200, align=right }
+![Photo Not Submitted|200](../assets/images/shin-cherou.png){ width=200, align=right }
 
 ## Personality
 
@@ -34,6 +34,8 @@ references:
 
 | Relationship | Name | Gender Age | Occupation        | Location                                    |
 | ------------ | ---- | ---------- | ----------------- | ------------------------------------------- |
+| Mother       |      |            | Fisher            | Nicodranas, Clovis Concord, Menagerie Coast |
+| Father       |      |            | Fisher            | Nicodranas, Clovis Concord, Menagerie Coast |
 | Sister       |      | F30        | Homemaker, Weaver | Nicodranas, Clovis Concord, Menagerie Coast |
 | Brother      |      | M22        | Unemployed        | Nicodranas, Clovis Concord, Menagerie Coast |
 |              |      |            |                   |                                             |
