@@ -23,8 +23,9 @@
 		{"id":"690eb721f81ab4d6","type":"text","text":"How would society change? I think that there might be various bold experiments in societal organization, sort of like during the reformation. Budding democracies? Fragmentation of larger empires and kingdoms.","x":-980,"y":10,"width":326,"height":213},
 		{"id":"1a13c798d13bbf3a","type":"text","text":"I think that there would be an upsurge of interest in the Age of Arcanum. I could see people moving more in that direction. Maybe even some early attempts at flying cities again? Or some sort of thauma-technical society?","x":-942,"y":321,"width":250,"height":316},
 		{"id":"cee4502f91bdb866","type":"text","text":"Definitely an upsurge of interest in immortality, necromancy.","x":-1300,"y":278,"width":250,"height":87},
-		{"id":"92570841527aacfe","x":-840,"y":-279,"width":250,"height":58,"type":"text","text":"What's up with Ruidus these days?"},
-		{"id":"d6b97aebe0362583","x":-740,"y":-453,"width":250,"height":87,"color":"1","type":"text","text":"OH MY GOD WHAT ABOUT THE RUIDIANS???"}
+		{"id":"92570841527aacfe","type":"text","text":"What's up with Ruidus these days?","x":-840,"y":-279,"width":250,"height":58},
+		{"id":"d6b97aebe0362583","type":"text","text":"OH MY GOD WHAT ABOUT THE RUIDIANS???","x":-740,"y":-453,"width":250,"height":87,"color":"1"},
+		{"id":"574c0481d04073c5","x":-120,"y":547,"width":250,"height":60,"type":"text","text":"Some sort of Exandrian postal service."}
 	],
 	"edges":[
 		{"id":"24dd97991b2dddc6","fromNode":"ef4d488cdad647bd","fromSide":"top","toNode":"0aba4bd3592b70fd","toSide":"bottom"},
