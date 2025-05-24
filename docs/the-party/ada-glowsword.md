@@ -1,7 +1,7 @@
 ---
 title: Ada Glowsword
 date created: Saturday, April 19th 2025, 5:27:45 pm
-date modified: Saturday, May 3rd 2025, 8:54:51 pm
+date modified: Saturday, May 24th 2025, 3:03:51 pm
 aliases: []
 tags: [ada, character, pc]
 references: 
@@ -11,22 +11,22 @@ references:
 
 ## Summary
 
-| Name:        | Ada Glowsword                |
-| ------------ | ---------------------------- |
-| Player:      | Lindsay                      |
-| Species:     | Gnome                        |
-| Gender:      | Female (she/her)             |
-| Age:         | 20                           |
-| From:        | Zadash, Dwendalian Empire    |
-| Class:       | Wizard, School of Abjuration |
-| Deity:       | [Ioun](../world/religion/Ioun.md)     |
-| Affiliation: | Cobalt Soul                  |
+| Name:        | Ada Glowsword                     |
+| ------------ | --------------------------------- |
+| Player:      | Lindsay                           |
+| Species:     | Gnome                             |
+| Gender:      | Female (she/her)                  |
+| Age:         | 20                                |
+| From:        | Zadash, Dwendalian Empire         |
+| Class:       | Wizard, School of Abjuration      |
+| Deity:       | [Ioun](../world/religion/Ioun.md) |
+| Affiliation: | Cobalt Soul                       |
 
 ### Where Is She Now?
 
 ## Description
 
-![Photo Not Submitted|200](../assets/images/ada-glowsword.png){ width=200, align=right }
+![Ada Glowsword|200](../assets/images/ada-glowsword.png){ width=200, align=right }
 
 ## Personality
 

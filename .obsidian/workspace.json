@@ -1,44 +1,73 @@
 {
   "main": {
-    "id": "e7ad3d8d924389c9",
+    "id": "7601dc9e2964a3b5",
     "type": "split",
     "children": [
       {
-        "id": "e8177e044979dc15",
+        "id": "f46895974d7cf45a",
         "type": "tabs",
         "children": [
           {
-            "id": "94b1d431b5c01d5d",
+            "id": "acdbb60702859f74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "dm-docs/Adventure 1/Adventure 1 - Part 1.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Adventure 1 - Part 1"
+            }
+          },
+          {
+            "id": "c63e3602a3e1cbc2",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "docs/the-party/ada-glowsword.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "New tab""title": "ada-glowsword"
+              "title": "ada-glowsword"
+            }
+          },
+          {
+            "id": "126e506107957eae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/the-party/shin-cherou.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "shin-cherou"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "eaa8d63e81fc873d",
+    "id": "8666a0112e76f69e",
     "type": "split",
     "children": [
       {
-        "id": "ea0bbe3c9217e711",
+        "id": "0ab894f69b770b78",
         "type": "tabs",
         "children": [
           {
-            "id": "5648d7e7d1476e52",
+            "id": "5f6626a01493c504",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +80,7 @@
             }
           },
           {
-            "id": "109371c3f9fed2ab",
+            "id": "79c68bd81c7bc378",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,7 +97,7 @@
             }
           },
           {
-            "id": "3116db7cd8e4c3a2",
+            "id": "d94c0361b9db8a5c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,23 +110,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "b817e7a16fc87a93",
+    "id": "065868f62d1f4025",
     "type": "split",
     "children": [
       {
-        "id": "35b4066b3f1b1484",
+        "id": "720073193a8ddad9",
         "type": "tabs",
         "children": [
           {
-            "id": "5f8e3c00043e104b",
+            "id": "bc24b0fb93e3e9d3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/world/Locations/Nicodranas/index.md",
+                "file": "dm-docs/Adventure 1/Adventure 1, Part 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,25 +137,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks""title": "Backlinks for index"
+              "title": "Backlinks for Adventure 1, Part 1"
             }
           },
           {
-            "id": "aebde5db03917c84",
+            "id": "f500e18b98519abe",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/world/Locations/Nicodranas/index.md",
+                "file": "dm-docs/Adventure 1/Adventure 1, Part 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Adventure 1, Part 1"
             }
           },
           {
-            "id": "5599548105c0b26b",
+            "id": "ffd0201758b34c5e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -140,7 +170,7 @@
             }
           },
           {
-            "id": "383a486ac79c12d2",
+            "id": "330eec6d2d7570a4",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -154,22 +184,22 @@
             }
           },
           {
-            "id": "3f0c4b42b1aaf579",
+            "id": "0676b41005a79522",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/world/Locations/Nicodranas/index.md",
+                "file": "dm-docs/Adventure 1/Adventure 1, Part 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Adventure 1, Part 1"
             }
           },
           {
-            "id": "5c60e1d18aaada07",
+            "id": "ff0402a336d88c1d",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -179,13 +209,63 @@
             }
           },
           {
-            "id": "6db300fe019d9f5f",
+            "id": "907525de3c4b426b",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "26f7429648c6ab58",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_d80bfb99bbd8",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 14,
+                    "month": 2,
+                    "year": 845
+                  },
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 14,
+                    "month": 2,
+                    "year": 845
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_ea89a9ab6bba",
+                "child": "ID_8b5bc9282b09"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          }
+        ],
+        "currentTab": 7
+      },
+      {
+        "id": "ef0cd047fbcc1c3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "827d3cfaa9f35b35",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_d80bfb99bbd8",
+                "id": "ID_8b5bc9282b09",
+                "parent": "ID_ea89a9ab6bba"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
             }
           }
         ]
@@ -212,20 +292,21 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "94b1d431b5c01d5d",
+  "active": "126e506107957eae",
   "lastOpenFiles": [
-    "docs/the-party/index.md",
-    "docs/world/Locations/Nicodranas/index.md",
-    "site/assets/javascripts/glightbox.min.js",
-    "site/assets/stylesheets/glightbox.min.css",
     "site/feed_json_updated.json",
     "site/feed_json_created.json",
     "site/feed_rss_updated.xml",
     "site/feed_rss_created.xml",
     "site/search/search_index.json",
     "site/search",
-    "site/assets/external/fonts.googleapis.com/css.1558d9b4.css",
-    "site/assets/external/fonts.googleapis.com",
+    "site/world/Locations/Nicodranas/lavish-chateau/index.html",
+    "site/world/religion/Ioun/index.html",
+    "site/world/religion/Avandra/index.html",
+    "site/world/Locations/zadash/index.html",
+    "site/world/Locations/doralle-village/index.html",
+    "site/assets/maps/map-nicodranas.png",
+    "site/assets/maps/map-exandria-low-res.png",
     "site/assets/images/yussa-errenis.png",
     "site/assets/images/yussa-errenis-original.png",
     "site/assets/images/toger-greytoe.png",
@@ -234,10 +315,9 @@
     "site/assets/images/shin-cherou.png",
     "site/assets/images/scottyd.png",
     "site/assets/images/reilorans.png",
-    "site/assets/images/pumat-sol.png",
-    "site/assets/images/photo-missing.png",
-    "docs/world/Locations/Nicodranas/lavish-chateau.md",
-    "dm-docs/The Gods as Mortals.md",
-    "docs/world/index.md"
+    "dm-docs/Adventure 1/Adventure 1 - Part 1.md",
+    "docs/the-party/shin-cherou.md",
+    "docs/the-party/ada-glowsword.md",
+    "docs/index.md"
   ]
 }

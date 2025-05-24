@@ -1,7 +1,7 @@
 ---
 title: Shin Cherou
 date created: Saturday, April 19th 2025, 5:53:54 pm
-date modified: Saturday, May 3rd 2025, 9:00:24 pm
+date modified: Saturday, May 24th 2025, 3:32:12 pm
 aliases: []
 tags: [character, pc, shin]
 references: 
@@ -11,16 +11,16 @@ references:
 
 ## Summary
 
-| Name:        | Shin Cherou                                 |
-| ------------ | ------------------------------------------- |
-| Player:      | Beth                                        |
-| Species:     | Hobgoblin                                   |
-| Gender:      | Female (she/her)                            |
-| Age:         | 34                                          |
-| From:        | Nicodranas, Clovis Concord, Menagerie Coast |
-| Class        | Cleric, Life Domain                         |
-| Deity:       | Avandra                                     |
-| Affiliation: | Church of the Changebringer                 |
+| Name:        | Shin Cherou                                                       |
+| ------------ | ----------------------------------------------------------------- |
+| Player:      | Beth                                                              |
+| Species:     | Hobgoblin                                                         |
+| Gender:      | Female (she/her)                                                  |
+| Age:         | 34                                                                |
+| From:        | Nicodranas, Clovis Concord, Menagerie Coast                       |
+| Class        | Cleric, Life Domain                                               |
+| Deity:       | [Avandra](https://criticalrole.fandom.com/wiki/The_Changebringer) |
+| Affiliation: | Church of the Changebringer                                       |
 
 ### Where Is She Now?
 
@@ -28,7 +28,11 @@ references:
 
 ![Photo Not Submitted|200](../assets/images/shin-cherou.png){ width=200, align=right }
 
+Shin stands just under six feet tall, her orange‑tinged skin marked with faint tribal tattoos signifying her devotion to Avandra. Her auburn hair is braided close to her scalp, and she wears simple clerical robes reinforced with leather bracers etched with the symbol of the Life Domain.
+
 ## Personality
+
+Shin is patient, nurturing, and pragmatic. She believes in uplifting others through compassion and small acts of kindness. Though her childhood was marked by hardship, she carries an unshakable optimism and a firm belief that everyone can change for the better. In the face of danger, she instinctively protects those weaker than herself.
 
 ## Relationships
 
@@ -42,32 +46,19 @@ references:
 
 ## Family
 
+Shin grew up as the eldest of three children in a modest hobgoblin fishing family. Her parents’ livelihood depended on the ebb and flow of the tides; they instilled in her a strong work ethic and an eye for opportunity. Money was often scarce, and Shin remembers nights listening to her parents’ worried whispers over meagre catches and mounting debts.
+
+She has a younger sister, now 30, who is level-headed and responsible, and has stayed with their parents. Shin also has a “baby” brother, now 22, who has become a shiftless punk who “doesn’t appreciate anything.”
+
+Shin also has a tiny awakened shrub that she simply calls “Shrub.” Shrub lives in a small pot that Shin carries strapped to her back and speaks Sylvan. She regularly prunes Shrub, rather like a bonsai.
+
 ## Affiliation
 
-- Born and raised in Nicodranas
-- Oldest of 3 children. Two younger siblings, a sister and a brother.
-- Her parents are fisherfolk.
-- Her family is frugal and somewhat opportunistic. They instilled a belief in trying to get ahead.
-- Some missionaries of Avandra recruited her into the church as an Acolyte at 12 years old.
-	- Her family was barely getting by. She had one younger sister and then a newborn boy arrived.
-	- She heard her parents arguing about money a lot.
-	- She wanted to do something to help her family, as well as being drawn to the enthusiasm and excitement of a change.
-	- She showed an aptitude for helping people to become their better selves and was eventually spotted by the Marquis and assigned to his chapel.
-	- “I’ve been told I’m a good influence.”
-	- When the new marquess took over, she’s just stayed.
-	- Somehow attached to Spencer’s family’s chapel, maybe drawing a salary of some kind
-	- Lucian reminds her of her younger brother and she naturally gravitated toward looking after him.
-	- She became one of his tutors.
-	- Lucian’s mom asked her to look after him. Like a paid friend.
-	- Shin 100% knows more about Lucian’s powers than Lucian does. “He certainly hasn’t been studying wizard magic, and he’s not faithful enough to be granted spells by Avandra. In fact, I KNOW that Avandra isn’t the source of his power.”
-	- She is “Happy” for him for his power, but is deeply concerned that he could be a warlock of some kind.
-	- His powers manifested first when he was about 9-11. Shin was about 26.
-	- She is certainly feels like he’s a younger brother.
-- Her younger brother (22M) is a punk who doesn’t appreciate anything.
-- Her younger sister (30F) is more level-headed. She probably stayed home to help out.
-- Has a tiny awakened shrub. Speaks whatever Beth’s main language is.
-	- She prunes it regularly like a bonsai.
-	- Name: Shrub
+Shin was drawn to the Church of the Changebringer at age 12, when Avandran missionaries passed through offering hope to struggling coastal families. Her natural talent for healing and her empathetic spirit caught the attention of the Marquis’s Chaplain, where she was taken under the church’s wing. When the new Marquess rose to power, she remained, becoming a trusted cleric assigned to the Marquess’ house.
+
+Not long after she noticed the young Lucien, then about 7 or 8, and found that he reminded her of her baby brother. She naturally gravitated toward looking after him, and quickly became his chief tutor and governess. Even though he is now grown, Lucien’s mother generously supplements Shin’s clerical earnings to continue being almost a “paid friend” to Lucien.
+
+As Lucien has grown, Shin became aware of his burgeoning sorcerous powers even before he did. They first began to manifest when he was about 10, when Shin was 26. She likely knows more about his powers than he does; however, she is unclear about their origin. She knows that he hasn’t been studying magic and can tell that he is not drawing from a divine source. This gap in her knowledge has left her deeply concerned that he is some sort of warlock
 
 ## Quest
 
