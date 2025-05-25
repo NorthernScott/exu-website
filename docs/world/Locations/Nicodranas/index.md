@@ -1,9 +1,9 @@
 ---
 title: Nicodranas
 date created: Monday, April 21st 2025, 7:58:42 pm
-date modified: Sunday, May 4th 2025, 10:16:25 pm
+date modified: Sunday, May 25th 2025, 11:15:04 am
 aliases: []
-tags: [city, geography, location]
+tags: [city, CurioShop, geography, location, Tavern, Temple, Wildmother]
 references: [https://criticalrole.fandom.com/wiki/Nicodranas]
 ---
 
@@ -33,9 +33,15 @@ On the Top Floor are no windows, but there is a metal structure that holds up th
 
 Leaning against the edge of the tower is a spyglass to look at people down below. The view from the top is of everything around, the harbour, the ocean and the shoreline, the fields and rolling hills that surround Nicodranas, the Cyrios Mountains to the north, and far to the east the Quoraska Jungle that vanish up the sides of the Ashkeeper Peaks. It’s a tremendous view the entire city below as well.
 
+#Temple #Wildmother
+
 #### Wayfarer’s Cove
 
 A tavern that caters to the working person. Decorated with flotsam and bits of shipwrecks and detritus, the interior has no music, just whispers and conversation. The smell is not pleasant and hits immediately, a mix of mossy musk from waterlogged wood, liquor and ale that have been spilled and left to stain the wood where it lies, and unwashed bodies. The bar is tended by a rather crotchety looking half-elf named **Xeno Michals**; he is scarred on one side of his face, a bit heavy set for a half-elf, with a small paunch and a soft chin and jawline.
+
+[Orly Skiffback](https://criticalrole.fandom.com/wiki/Orly_Skiffback) still frequents this tavern.
+
+#Tavern
 
 #### The Wharf Load
 
@@ -43,7 +49,99 @@ One of the larger center parts of the dock that juts out into the harbour a good
 
 #### Meandering Treasures
 
-A place someone could sell items. They tend to pay, maybe not top change, but quickly. Deezma is the proprietor of this shop.
+A place someone could sell items. They tend to pay, maybe not top change, but quickly. **Deezma** is the proprietor of this shop.
+
+#CurioShop
+
+### Open Quay
+
+The Open Quay is located on the western side of the docks. The Open Quay is the only part of Nicodranas not under the control of the Clovis Concord. It is a little bit smaller and seems to be less organized.
+
+#### Tidepeak Tower
+
+**[Tidepeak](https://criticalrole.fandom.com/wiki/Tidepeak "Tidepeak"):** A strange tower which sits in the center of the Open Quay and is owned by [Yussa Errenis](https://criticalrole.fandom.com/wiki/Yussa_Errenis "Yussa Errenis") a mage who is (possibly) at odds with the [Clovis Concord](<https://criticalrole.fandom.com/wiki/Clovis_Concord> “Clovis Concord”).
+
+#### Seafloor’s Bounty
+
+**[Seafloor's Bounty](https://criticalrole.fandom.com/wiki/Seafloor%27s_Bounty "Seafloor's Bounty"):** General store run by a gnome named [Sheila Bobsnopper](https://criticalrole.fandom.com/wiki/Sheila_Bobsnopper "Sheila Bobsnopper").
+
+#### The Withered Bird Inn
+
+Popular inn among the sailors that come through Nicodranas. Run by an ex-pirate black-scale Dragonborn named **Calthealud Jinzire**. Poor to modest inn and tavern. They have one or two ales, including *von Brandt* ale from Trostenwald, a morning plate and an evening plate, and a locally famous “century” seafood stew that has been boiling continuously - supposedly for over 100 years. They have two double rooms that can be had for a higher price, or beds in a common dorm for less.
+
+#### Stone’s Throw Shipping
+
+The Nicodranas office of the shipping company headquartered in [Port Damali](https://criticalrole.fandom.com/wiki/Port_Damali). One or two of their ships are frequently in port and exclusively dock in the Open Quay.
+
+- Wayward Accent
+- Rumblecusp Express
+- Sapphire of the Sea (personal yacht of Jester Lavorre, co-owner of the company)
+- [Nein Heroez](https://criticalrole.fandom.com/wiki/Nein_Heroez "Nein Heroez") (personal yacht of Fjord Stone, co-owner of the company)
+
+### The Opal Archways
+
+The Opal Archways district of Nicodranas is the oldest district of the town. It is where the wealthier merchants and clientele seem to congregate. Nicodranas originally comprised only this district before it expanded outwards over time. There are eleven 15-foot tall stone archways marking this district. It has a gradual arch with a large gem embedded at its zenith. Along the street are poles that hold oil lanterns that give a faint flickering firelight through the dark cobblestone streets. Further in the district they give way to much more vibrant, magical baubles that hover about ten feet above in the air. The folks in this district appear to be well-dressed nobles, wearing a crushed silk-type clothing that is bright blues and purples, and jewellery of all sorts of gems and colours. There are various street buskers and performers on the roads.
+
+#### Lavish Chateau
+
+The [Lavish Chateau](https://criticalrole.fandom.com/wiki/Lavish_Chateau "Lavish Chateau") is an esteemed hotel where the [Ruby of the Sea](https://criticalrole.fandom.com/wiki/Ruby_of_the_Sea "Ruby of the Sea") used to perform. Now supposedly owned jointly by the Ruby and a mysterious businessman from Zadash who typically goes by “The Gentleman.” [Jester Lavorre](https://criticalrole.fandom.com/wiki/Jester_Lavorre "Jester Lavorre") grew up in this hotel.
+
+#### The Marquis Demesne
+
+The palace where the Marquess of the city lives, along with a handful of diplomats. It is a somewhat gaudy palace in the Venetian style, with towers up to five stories tall, two at the front and one larger one in the back. It is a large building that is draped with white silk. It has a dull brass and orange-yellow stone with a sandstone base with about 40 rooms within the establishment. A lot of money has gone into its construction and it has been recently refurbished. There are about 40 or more Zhelezo keeping an eye on the vicinity.
+
+#### Brenatto’s Better Self
+
+[Brenatto's Better Self](https://criticalrole.fandom.com/wiki/The_Brenatto%27s_Better_Self "The Brenatto's Better Self") is an apothecary in the southern sector of the Opal Archways district, owned and operated by [Yeza Brenatto](https://criticalrole.fandom.com/wiki/Yeza_Brenatto "Yeza Brenatto").
+
+#### Perfumery
+
+An unnamed perfumery and incense shop. Run by…
+
+#### The Verdant Veil - Enchanted Oddities & Arcane Fineries
+
+Nestled between a perfumery “Brenatto’s Better Self” in the **Opal Archways**, the shop appears as a crooked teal-and-gold storefront tucked under a riot of hanging vines and glowing lantern-fruit. The doorway is shaped like an archway of twisting ivy, and the sign overhead reads in curling golden script:
+
+> *The Verdant Veil*
+> *“Mystery, Marvels, and Mildly Dangerous Wares.”*
+
+Inside, the shop is much larger than it appears—thanks to **folded dimensional space**. It feels like walking through a greenhouse crossed with a wizard’s attic. Items hang from vines, float in jars, or skitter across shelves when not looking.
+
+**Proprietor:** Maître Verdazzo “Dazz” Fennec
+
+- **Race:** Elf (Spring-aligned, most days)
+- **Gender:** Non-binary (they/them)
+- **Appearance:** Ever-shifting robes made of blooming flowers and living silk. Skin glows faintly with a pink-green sheen, eyes like polished emeralds. Always smells of expensive perfume.
+- **Personality:** Theatrical, effusive, and *just* on the edge of insufferable—but completely sincere. They delight in impossible bargains, chaotic enchantments, and calling customers “sweetness.”
+- **Quirks:**
+    - Finishes some sentences with a song lyric that no one else recognizes.
+    - Refuses to sell to “killjoys, clods, or anyone who pronounces ‘mage’ with a j.”
+    - Claims to have once dated a treant and still gets birthday cards from them.
+
+**Featured Wares**
+
+- **Whimwhistle Wands** – Custom-made for personality types; might insult you if mismatched. (50–150 gp)
+- **Capsule of Convenient Escape** – Throw it on the ground to create a smoke cloud and teleport 30 feet. (250 gp)
+- **The Candle That Lies** – Glows when someone *isn’t* telling the truth. (320 gp)
+- **Roguish Reversible Cloak** – Switch between “innocent merchant” and “dashing scoundrel” appearance. (75 gp)
+- **Potion of Instant Napping** – Puts you into a perfect 8-hour rest in 10 minutes. Works *exactly once*. (400 gp)
+
+**Oddities Corner**
+
+1. A teacup that fills with the favourite drink of whoever holds it—but only if they hum a lullaby.
+2. A box of live rainbow beetles that speak Celestial in haiku.
+3. A broken pocket watch that always ticks faster in the presence of ghosts.
+4. A painting of a field that changes based on weather in the Feywild.
+5. A deck of cards—each with a different minor illusion trapped inside.
+6. A mouse skeleton that dances when music is played.
+
+---
+
+### 🧩 Potential Plot Hooks
+
+- **The Living Mask**: A cursed item recently *escaped* its display and is causing chaos in the Archways. Dazz offers a hefty reward for its safe return—“but do *not* damage the theatrical finish!”
+- **Suspicious Patron**: Dazz is unnerved by a recent customer who purchased “The Candle That Lies” but hasn’t left town. Might be connected to a local spy ring.
+- **Backroom Invitation**: If the party impresses Dazz, they’re offered access to a *hidden backroom vault* of rarer and more dangerous magic—some of which might be “ethically questionable.”
 
 ### The Skew
 
