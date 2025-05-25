@@ -1,9 +1,10 @@
 # Project-specific exclusions
 .cache/
-# .obsidian
-# .space
+.obsidian/
+.space/
 resources/
 site/
+.smart-env/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
