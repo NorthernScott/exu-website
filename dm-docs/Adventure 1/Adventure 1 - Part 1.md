@@ -1,7 +1,7 @@
 ---
 title: Adventure 1 - Part 1
 date created: Wednesday, May 21st 2025, 6:31:06 pm
-date modified: Sunday, May 25th 2025, 11:39:06 am
+date modified: Sunday, August 17th 2025, 9:46:01 am
 aliases: []
 tags: []
 references: 
@@ -53,7 +53,7 @@ Colourful pennants flutter in the harbour breeze; the scent of candied citrus, s
 		- **Surprise!**, the baby girl, about 9.
     - **Lyra, Virgo, and Thad Flusterbam:** Three gnome acrobats from Westruun. Thad wanted to be a tea merchant but his sisters convinced him to do this instead.
     - **Monash & Fling:** A young bormodo woman and her cytaa who have a knife throwing show. Their telepathic bond allows them to pull off impressive tricks. Monash thinks she’s died and gone to heaven being on Exandria. Fling finds it waaaay too humid.
-    - **Brian “Brun the Behemoth” MacDonald:** A gentle orc strongman who entertains with feats of strength—yet refuses to harm even a straw puppet.
+    - **“Brun the Behemoth” MacDonald:** A gentle orc strongman who entertains with feats of strength—yet refuses to harm even a straw puppet.
     - **Madam Musk:** A strange old woman who sells potions and magical oddities. She will also read fortunes by casting bones. Madam Musk is from Asarius, in the Kryn Dynasty of Eastern Wynandir. It’s not clear what drew her to the coast or how she got here. Madam Musk stays mostly hidden behind thick robes and a hood, and generally does not like people to come close to her. She moves with a strange lack of coordination and her limbs seem somehow too small for her frame. On a >15 perception check, it can be seen that she has a lizard-like snout, but the proportions are all wrong for a dragonborn.
 
 > [!NOTE] Madam Musk

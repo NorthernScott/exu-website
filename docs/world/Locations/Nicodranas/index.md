@@ -1,7 +1,7 @@
 ---
 title: Nicodranas
 date created: Monday, April 21st 2025, 7:58:42 pm
-date modified: Sunday, May 25th 2025, 11:15:04 am
+date modified: Sunday, May 25th 2025, 12:23:11 pm
 aliases: []
 tags: [city, CurioShop, geography, location, Tavern, Temple, Wildmother]
 references: [https://criticalrole.fandom.com/wiki/Nicodranas]
@@ -49,7 +49,7 @@ One of the larger center parts of the dock that juts out into the harbour a good
 
 #### Meandering Treasures
 
-A place someone could sell items. They tend to pay, maybe not top change, but quickly. **Deezma** is the proprietor of this shop.
+A place someone could sell items. They tend to pay, maybe not top change, but quickly. **Deezma** is the proprietor of this shop. The store is carpeted and why would you do that?
 
 #CurioShop
 

@@ -1,7 +1,7 @@
 ---
 title: Lucien Sugea
 date created: Saturday, April 19th 2025, 5:25:14 pm
-date modified: Monday, April 21st 2025, 10:17:02 pm
+date modified: Sunday, June 29th 2025, 2:00:16 pm
 aliases: []
 tags: [character, lucien, pc]
 references: 
@@ -38,12 +38,13 @@ Lucien would tell you that his greatest attachment is to cold, hard, cash; but t
 
 ## Relationships
 
-| Relationship     | Name                          | Gender Age | Occupation | Location   |
-| ---------------- | ----------------------------- | ---------- | ---------- | ---------- |
-| Mother           |                               |            |            |            |
-| Father           |                               |            |            |            |
-| Younger Brother  |                               | M8         | N/A        | Nicodranas |
-| Teacher, Au Pair | [Shin Cherou](shin-cherou.md) | F34        | Priestess  | Nicodranas |
+| Relationship        | Name                          | Gender Age     | Occupation | Location   |
+| ------------------- | ----------------------------- | -------------- | ---------- | ---------- |
+| Mother              | Liderra Sugea                 | F45, Half-Elf  | Marquess   | Nicodranas |
+| Father              |                               | M48, Half-Elf  | Fisherman  | Nicodranas |
+| Younger Brother     |                               | M8, Half-Elf   | N/A        | Nicodranas |
+| Teacher, Au Pair    | [Shin Cherou](shin-cherou.md) | F34, Hobgoblin | Priestess  | Nicodranas |
+| Mother’s Major-Domo | Artzai Constanz               | M52, Human     | Major Domo | Nicodranas |
 
 ## Family
 
