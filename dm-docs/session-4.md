@@ -1,7 +1,7 @@
 ---
 title: "Session 4: After the Wave"
 date created: Sunday, August 17th 2025, 8:55:05 am
-date modified: Sunday, August 17th 2025, 11:30:21 am
+date modified: Sunday, August 17th 2025, 4:12:45 pm
 aliases: []
 tags: []
 references: 
@@ -94,3 +94,53 @@ She suggested a possible course of action would be to find her old her laborator
 - Lucien owns a sword that Ada’s parents made.
 
 ## Events
+
+### 14 Dualahei 845 PD
+
+#### Income
+
+- Ada gets 30gp / month, with 2 mo. travel expenses
+- Alarise gets 30gp / month, with 2 mo. travel expenses
+- Helga has no regular income
+- Shin gets 35 gp / month (15 for her chaplain role, 20 for her work with Lucien), but gives 30gp / month to her family, netting 5gp / month, and has 2 mo. expenses saved
+- Lucien gets an allowance of 300gp / month, saves almost none of it, and is routinely just given stuff
+
+These incomes only apply when the characters are in a position to collect them. They are paid monthly on the first of the month.
+
+#### Shin Interrogates the Chaplain
+
+**Rev. Seraphine Duroy, Chaplain of the Palace**
+
+- **Race/Gender**: Human woman, late 40s
+- **Appearance**: Dark hair pulled tightly back, salt at the temples; sharp, narrow face; always immaculately dressed in black and silver vestments.
+
+Gives Shin 2 healing potions and 1 potion of truesight.
+
+#### Lucien and Helga Speak to Lucien’s Mom
+
+- She thinks that Lucien and Helga are dating or screwing.
+- Helga goes
+
+#### Ada Messages Her Mentor Onde Orsal
+
+A conversation by Sending:
+
+	"Ada here. Nicodranas tsunami stopped suddenly by unknown magic wall offshore. Very odd. Not Tidepeak. Magical wave? Otherworldly presence? Any info? How to proceed? News?"
+	
+	"Glad you're well. Very odd indeed. Will investigate potential causes. Certain it's not Erenis? He might help. Continue investigating. Renewal Festival was lovely. Won a"..."chicken."
+	
+	"Erenis not here. Spoke to Toger. Weird magic from palace? Friend passed out at same time then puked seawater. Chickens are good, have fun."
+
+### 15 Dualahei 845 PD
+
+#### Commissioned to Explore the Sluiceweave
+
+Party Order:
+
+- Helga has the light and leads. Sushi.
+- Alarise makes a 23 perception check and hears something.
+- Lucien
+- Ada
+- Shin
+
+The party heads WNW, toward the harbour.

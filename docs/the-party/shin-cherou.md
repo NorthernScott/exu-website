@@ -1,7 +1,7 @@
 ---
 title: Shin Cherou
 date created: Saturday, April 19th 2025, 5:53:54 pm
-date modified: Saturday, May 24th 2025, 3:32:12 pm
+date modified: Sunday, August 17th 2025, 2:18:30 pm
 aliases: []
 tags: [character, pc, shin]
 references: 
@@ -36,13 +36,13 @@ Shin is patient, nurturing, and pragmatic. She believes in uplifting others thro
 
 ## Relationships
 
-| Relationship | Name | Gender Age | Occupation        | Location                                    |
-| ------------ | ---- | ---------- | ----------------- | ------------------------------------------- |
-| Mother       |      |            | Fisher            | Nicodranas, Clovis Concord, Menagerie Coast |
-| Father       |      |            | Fisher            | Nicodranas, Clovis Concord, Menagerie Coast |
-| Sister       |      | F30        | Homemaker, Weaver | Nicodranas, Clovis Concord, Menagerie Coast |
-| Brother      |      | M22        | Unemployed        | Nicodranas, Clovis Concord, Menagerie Coast |
-|              |      |            |                   |                                             |
+| Relationship | Name   | Gender Age | Occupation        | Location                                    |
+| ------------ | ------ | ---------- | ----------------- | ------------------------------------------- |
+| Mother       | Alanna |            | Fisher            | Nicodranas, Clovis Concord, Menagerie Coast |
+| Father       | Marco  |            | Fisher            | Nicodranas, Clovis Concord, Menagerie Coast |
+| Sister       | Linn   | F30        | Homemaker, Weaver | Nicodranas, Clovis Concord, Menagerie Coast |
+| Brother      | Finn   | M22        | Unemployed        | Nicodranas, Clovis Concord, Menagerie Coast |
+|              |        |            |                   |                                             |
 
 ## Family
 
@@ -51,6 +51,12 @@ Shin grew up as the eldest of three children in a modest hobgoblin fishing famil
 She has a younger sister, now 30, who is level-headed and responsible, and has stayed with their parents. Shin also has a “baby” brother, now 22, who has become a shiftless punk who “doesn’t appreciate anything.”
 
 Shin also has a tiny awakened shrub that she simply calls “Shrub.” Shrub lives in a small pot that Shin carries strapped to her back and speaks Sylvan. She regularly prunes Shrub, rather like a bonsai.
+
+### Family Home
+
+A small but nicely appointed home in Seaward, with many many stuffed fish on the walls.
+
+
 
 ## Affiliation
 
