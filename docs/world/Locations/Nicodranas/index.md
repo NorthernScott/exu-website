@@ -135,6 +135,12 @@ Inside, the shop is much larger than it appears—thanks to **folded dimensional
 5. A deck of cards—each with a different minor illusion trapped inside.
 6. A mouse skeleton that dances when music is played.
 
+#### The White Pearl (Jeweller)
+
+Owner is Court Skimbleshanks; obsequious, awkward with Shin, female halfling.
+Half-giant doorman named Fog.
+
+
 ---
 
 ### 🧩 Potential Plot Hooks
