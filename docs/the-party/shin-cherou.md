@@ -1,7 +1,7 @@
 ---
 title: Shin Cherou
 date created: Saturday, April 19th 2025, 5:53:54 pm
-date modified: Sunday, August 17th 2025, 2:18:30 pm
+date modified: Saturday, February 21st 2026, 6:03:22 pm
 aliases: []
 tags: [character, pc, shin]
 references: 
@@ -55,8 +55,6 @@ Shin also has a tiny awakened shrub that she simply calls “Shrub.” Shrub liv
 ### Family Home
 
 A small but nicely appointed home in Seaward, with many many stuffed fish on the walls.
-
-
 
 ## Affiliation
 

@@ -1,7 +1,7 @@
 ---
 title: Lavish Chateau
 date created: Saturday, May 3rd 2025, 9:06:24 pm
-date modified: Sunday, May 4th 2025, 10:18:34 pm
+date modified: Saturday, February 21st 2026, 6:03:22 pm
 aliases: []
 tags: [building, inn]
 references: https://criticalrole.fandom.com/wiki/Lavish_Chateau

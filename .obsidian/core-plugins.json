@@ -11,9 +11,9 @@
   "page-preview": true,
   "daily-notes": false,
   "templates": true,
-  "note-composer": false,
+  "note-composer": true,
   "command-palette": true,
-  "slash-command": false,
+  "slash-command": true,
   "editor-status": true,
   "bookmarks": true,
   "markdown-importer": false,
@@ -28,6 +28,6 @@
   "publish": false,
   "sync": false,
   "webviewer": true,
-  "footnotes": false,
+  "footnotes": true,
   "bases": true
 }

@@ -1,7 +1,7 @@
 ---
 title: Ada Glowsword
 date created: Saturday, April 19th 2025, 5:27:45 pm
-date modified: Saturday, May 24th 2025, 3:03:51 pm
+date modified: Saturday, February 21st 2026, 6:03:22 pm
 aliases: []
 tags: [ada, character, pc]
 references: 

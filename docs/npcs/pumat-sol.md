@@ -1,7 +1,7 @@
 ---
 title: Enchanter Pumat Sol
 date created: Monday, April 21st 2025, 7:16:47 pm
-date modified: Saturday, May 3rd 2025, 8:55:47 pm
+date modified: Saturday, February 21st 2026, 6:03:22 pm
 aliases: [pumat swole]
 tags: [ada, cerberus-assembly, mage, npc]
 references: 
@@ -38,7 +38,7 @@ Pumat speaks slowly and deliberately, and is always very friendly and genial. Ho
 > ## Connections
 >
 > - Ally of the [Mighty Nein](https://criticalrole.fandom.com/wiki/Mighty_Nein)
->
+> 
 > ## Notes
 >
 > - Pumat Sol has 3 simulacra provided to him by the [Cerberus Assembly](https://criticalrole.fandom.com/wiki/Cerberus_Assembly)who assist him in running his shop.

@@ -5,13 +5,12 @@
     "min_chars": 200
   },
   "smart_sources": {
-    "single_file_data_path": ".smart-env/smart_sources.json",
     "min_chars": 200,
     "embed_model": {
       "adapter": "openai",
       "transformers": {
-        "legacy_transformers": false,
-        "model_key": "TaylorAI/bge-micro-v2"
+        "model_key": "TaylorAI/bge-micro-v2",
+        "legacy_transformers": false
       },
       "TaylorAI/bge-micro-v2": {},
       "openai": {
@@ -19,14 +18,19 @@
         "api_key": "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"
       },
       "text-embedding-ada-002": {}
-    }
+    },
+    "excluded_headings": "",
+    "file_exclusions": "Untitled",
+    "folder_exclusions": "smart-chats,templates,site,docs/assets,webclips",
+    "single_file_data_path": ".smart-env/smart_sources.json"
   },
-  "file_exclusions": "Untitled",
-  "folder_exclusions": "smart-chats,templates,site,docs/assets,webclips",
-  "smart_view_filter": {
-    "render_markdown": true,
-    "show_full_path": false,
-    "results_limit": "20"
+  "language": "en",
+  "re_import_wait_time": 13,
+  "smart_chat_threads": {
+    "chat_model": {
+      "adapter": "ollama",
+      "ollama": {}
+    }
   },
   "smart_notices": {
     "muted": {
@@ -35,7 +39,18 @@
       "done_initial_scan": true
     }
   },
-  "excluded_headings": "",
+  "smart_view_filter": {
+    "expanded_view": false,
+    "render_markdown": true,
+    "show_full_path": false,
+    "results_limit": "20"
+  },
+  "version": "",
+  "new_user": true,
+  "models": {
+    "embedding_platform": "transformers",
+    "chat_completion_platform": "open_router"
+  },
   "smart_threads": {
     "chat_model": {
       "adapter": "openai",
@@ -403,5 +418,37 @@
     "review_context": false,
     "lookup_limit": "10",
     "send_tool_output_in_user_message": false
+  },
+  "connections_lists": {
+    "results_collection_key": "smart_sources",
+    "score_algo_key": "similarity",
+    "connections_post_process": "none",
+    "results_limit": 20,
+    "exclude_frontmatter_blocks": true,
+    "connections_list_item_component_key": "connections_list_item_v3",
+    "components": {
+      "connections_list_item_v3": {
+        "render_markdown": true,
+        "show_full_path": false
+      }
+    }
+  },
+  "context_items": {
+    "template_preset": "xml_structured",
+    "template_before": "<item loc=\"{{KEY}}\" at=\"{{TIME_AGO}}\">",
+    "template_after": "</item>"
+  },
+  "smart_contexts": {
+    "template_preset": "xml_structured",
+    "template_before": "<context>\n{{FILE_TREE}}",
+    "template_after": "</context>"
+  },
+  "lookup_lists": {
+    "results_collection_key": "smart_blocks",
+    "score_algo_key": "similarity",
+    "results_limit": 20
+  },
+  "embedding_models": {
+    "default_model_key": "transformers#1771706635393"
   }
 }

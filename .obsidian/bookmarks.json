@@ -2,9 +2,13 @@
   "items": [
     {
       "type": "file",
-      "ctime": 1725598017186,
-      "path": "Home.md",
-      "subpath": "#Home"
+      "ctime": 1740182400000,
+      "path": "docs/index.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1740182400001,
+      "path": "dm-docs/sessions/session-7-prep.md"
     }
   ]
 }

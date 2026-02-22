@@ -15,13 +15,5 @@
       ],
       "key": "P"
     }
-  ],
-  "chatgpt-md:call-chatgpt-api": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "J"
-    }
   ]
 }

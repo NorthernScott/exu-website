@@ -1,7 +1,7 @@
 ---
 title: House Rules
 date created: Sunday, March 16th 2025, 5:00:55 pm
-date modified: Saturday, April 26th 2025, 9:35:22 am
+date modified: Saturday, February 21st 2026, 6:03:22 pm
 aliases: []
 tags: [rules]
 references: 

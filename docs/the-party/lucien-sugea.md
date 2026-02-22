@@ -1,7 +1,7 @@
 ---
 title: Lucien Sugea
 date created: Saturday, April 19th 2025, 5:25:14 pm
-date modified: Sunday, June 29th 2025, 2:00:16 pm
+date modified: Saturday, February 21st 2026, 6:03:22 pm
 aliases: []
 tags: [character, lucien, pc]
 references: 

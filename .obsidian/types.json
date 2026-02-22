@@ -46,6 +46,9 @@
     "TQ_show_urgency": "checkbox",
     "urls": "multitext",
     "publish": "text",
-    "references": "multitext"
+    "references": "multitext",
+    "date created": "text",
+    "date modified": "text",
+    "session date": "date"
   }
 }

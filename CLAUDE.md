@@ -1,3 +1,12 @@
+---
+title: CLAUDE.md
+date created: Saturday, November 22nd 2025, 9:16:54 pm
+date modified: Saturday, February 21st 2026, 6:03:23 pm
+aliases: []
+tags: []
+references:
+---
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
@@ -17,11 +26,9 @@ The repository has two parallel content directories:
   - `world/`: World-building content including locations, factions, and religion
   - `assets/`: Images, stylesheets (`extra.css`), and scripts (`mathjax.js`)
   - Root-level pages: `index.md`, `ground-rules.md`, `house-rules.md`
-
 - **`dm-docs/`**: Private DM notes NOT published to the website
   - Session planning notes (`session-1.md`, `session-2.md`, etc.)
   - Plot hooks, adventure outlines, and campaign planning materials
-
 - **`templates/`**: Templates for creating new content
   - `npc.md`: Template for NPC profiles
   - `session-notes.md`: Template for session recap blog posts
@@ -98,6 +105,7 @@ Use `<!-- more -->` to mark the excerpt boundary.
 ### Character/NPC Profiles
 
 Follow the template structure with sections for:
+
 - Summary table (for PCs)
 - Role (for NPCs)
 - Appearance (with image using `![Name|400](path){ width=400, align=right }`)
@@ -116,6 +124,7 @@ Follow the template structure with sections for:
 ### Theme Features
 
 The Material theme is configured with:
+
 - Dark/light mode toggle (respects system preference)
 - Teal primary color, amber accent
 - Navigation path breadcrumbs (`navigation.path`)
@@ -136,6 +145,7 @@ The Material theme is configured with:
 ### Markdown Extensions
 
 Notably configured extensions:
+
 - `pymdownx.superfences`: Supports Mermaid diagrams
 - `pymdownx.tabbed`: Tabbed content blocks
 - `pymdownx.emoji`: Material Design emoji (`:fontawesome-solid-icon:`)
@@ -144,9 +154,10 @@ Notably configured extensions:
 
 ## Architecture Notes
 
-### DM vs Public Content Separation
+### DM Vs Public Content Separation
 
-**Critical:** The `dm-docs/` directory is NOT included in `mkdocs.yml`'s `docs_dir` setting. Only content in `docs/` is built and published. When working with session notes:
+**Critical:** The `dm-docs/` directory is NOT included in `mkdocs.yml`‘s `docs_dir` setting. Only content in `docs/` is built and published. When working with session notes:
+
 - DM planning notes go in `dm-docs/session-N.md`
 - Public session recaps go in `docs/blog/posts/session-N.md`
 
@@ -157,6 +168,7 @@ Images should be placed in `docs/assets/images/` and referenced using relative p
 ### Validation Settings
 
 MkDocs is configured with validation warnings (not errors) for:
+
 - Omitted files
 - Absolute links
 - Unrecognized links
@@ -169,6 +181,7 @@ Check build output for validation warnings when adding/modifying content.
 This campaign is set in the **Exandria** setting (Critical Role universe) in **845 PD** (Post-Divergence), two years after the Apogee Solstice events. The campaign takes place primarily on the **Menagerie Coast**, starting in **Nicodranas**.
 
 When creating content:
+
 - Respect established Critical Role canon for locations, deities, and factions
 - The Critical Role wiki is referenced in world documentation: `https://criticalrole.fandom.com/wiki/`
 - Campaign uses standard D&D 5e rules with house rules documented in `docs/house-rules.md`

@@ -1,7 +1,7 @@
 ---
 title: Avandra
 date created: Friday, April 18th 2025, 7:55:28 pm
-date modified: Sunday, April 27th 2025, 11:11:15 pm
+date modified: Saturday, February 21st 2026, 6:03:21 pm
 aliases: [Lady Luck, She Who Makes the Path, The Changebringer]
 tags: [culture, deity, religion]
 references: [https://criticalrole.fandom.com/wiki/The_Changebringer]
@@ -38,7 +38,7 @@ People who are not disciples of the Changebringer nevertheless sometimes pray to
  > 1. **Luck favours the bold.** Your fate is your own to grasp, and to do so is to have the Changebringer behind you.
  > 2. **Change is inevitable.** The righteous can ensure that such change is for the better.
  > 3. **Rise up against tyranny.** Fight for the freedom of yourself and others when you can, and inspire others to fight when you cannot.
->
+> 
 > – from the Tal’Dorei Campaign Setting Reborn
 
 ## Trivia

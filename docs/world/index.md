@@ -1,7 +1,7 @@
 ---
 title: The World of Exandria
 date created: Sunday, April 13th 2025, 11:01:38 am
-date modified: Saturday, April 19th 2025, 8:10:40 pm
+date modified: Saturday, February 21st 2026, 6:03:22 pm
 aliases: [exandria primer, primer, world overview]
 tags: [culture, geography, history]
 references: [https://criticalrole.fandom.com/wiki/, https://criticalrole.fandom.com/wiki/Calendar_of_Exandria, https://criticalrole.fandom.com/wiki/Exandria#Geographic_characteristics, https://criticalrole.fandom.com/wiki/History_of_Exandria]

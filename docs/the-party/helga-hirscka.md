@@ -1,7 +1,7 @@
 ---
 title: Helga Hirscka
 date created: Saturday, April 19th 2025, 5:52:39 pm
-date modified: Thursday, April 24th 2025, 9:07:16 pm
+date modified: Saturday, February 21st 2026, 6:03:22 pm
 aliases: []
 tags: [character, helga, pc]
 references: 

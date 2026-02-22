@@ -1,7 +1,7 @@
 ---
 title: Nicodranas
 date created: Monday, April 21st 2025, 7:58:42 pm
-date modified: Sunday, May 25th 2025, 12:23:11 pm
+date modified: Saturday, February 21st 2026, 6:03:22 pm
 aliases: []
 tags: [city, CurioShop, geography, location, Tavern, Temple, Wildmother]
 references: [https://criticalrole.fandom.com/wiki/Nicodranas]
@@ -52,6 +52,14 @@ One of the larger center parts of the dock that juts out into the harbour a good
 A place someone could sell items. They tend to pay, maybe not top change, but quickly. **Deezma** is the proprietor of this shop. The store is carpeted and why would you do that?
 
 #CurioShop
+
+#### Typhoon’s Rest
+
+A two-story tavern of salt-stained planks with a slate roof, tucked among the working buildings of the Restless Wharf. A battered sign depicting a ship caught in a tempest swings on rusted chains above the door. Inside, a long oak bar runs along one wall, flanked by a mix of round and long tables that seat perhaps thirty-five. A small stage near the back hosts **Pip Silverstring**, a halfling bard who plays fiddle-led sailor’s tunes in the evenings, coaxing the crowd into off-key singalongs. The air is thick with salt, fried fish, ale, and tobacco smoke, and the atmosphere runs to raucous laughter and the clink of mugs -- sailors unwinding after a day on the water, merchants making quiet deals over pints, and locals avoiding questions they would rather not answer.
+
+The tavern is owned by **Maris Saltwind**, a sharp-eyed half-elf who has run the place for twenty years. Not much escapes her notice. A private dock at the back of the building allows for discreet boat access off the main harbour traffic.
+
+#Tavern
 
 ### Open Quay
 
@@ -138,8 +146,8 @@ Inside, the shop is much larger than it appears—thanks to **folded dimensional
 #### The White Pearl (Jeweller)
 
 Owner is Court Skimbleshanks; obsequious, awkward with Shin, female halfling.
-Half-giant doorman named Fog.
 
+Half-giant doorman named Fog.
 
 ---
 
@@ -151,8 +159,32 @@ Half-giant doorman named Fog.
 
 ### The Skew
 
-It is the cheaper, more affordable residential area of town.
+The Skew is the main residential district of Nicodranas, spread across the hills that rise behind the waterfront districts. As Marion Lavorre once put it, it is where “most of the riffraff and the common folk live.” The neighbourhood is noticeably cheaper and more modest than the Opal Archways, with tightly packed houses of sun-bleached plaster and clay tile roofs climbing the hillside in uneven rows. Streets wind uphill at odd angles -- likely the origin of the district’s name. Small market squares, communal wells, and neighbourhood shrines dot the residential blocks, and the smell of cooking fires and drying laundry replaces the salt-and-tar scent of the docks.
+
+The Skew’s elevated position proved its greatest asset during the tsunami of 845 PD: while the harbour districts flooded, the hillside streets remained safely above the waterline, and many residents of the lower city fled uphill to shelter here. The district also hosts a number of commercial warehouses along its lower edges, where the hills flatten out toward the wharf districts, serving as storage for goods that do not require immediate dockside access.
+
+#### Temple of the Matron of Ravens
+
+A modest stone temple dedicated to the Matron of Ravens (the Raven Queen) sits among the residential streets of the Skew. Unlike the grand temples found in wealthier districts of other cities, this one is austere and unadorned -- fitting for a goddess concerned with the passage between life and death rather than earthly splendour. The temple includes a subterranean ritual hall carved from natural stone, used for communion rites and funerary observances.
+
+The temple is led by **Reverend Haim Cortho**, an erudite and kind man who oversees the small congregation. He is assisted by **Sister Thana**, an elderly, one-eyed monk who is sharp-witted, skeptical, and kind beneath her gruffness. The temple serves the common folk of the Skew, offering funeral rites, spiritual counsel, and shelter to those in need. During the tsunami, the temple opened its doors to refugees from the lower city.
+
+### The Moonlit Marvels & Menagerie
+
+A travelling carnival operating under a limited engagement in Nicodranas, the Moonlit Marvels & Menagerie is pitched along the waterfront near the harbour, not strictly within any single neighbourhood. At dusk the grounds come alive with an odd blue lantern-light that gives the whole affair an otherworldly cast. Children paste posters on wooden posts and cafe walls throughout the city -- *“Moonlit Marvels & Menagerie! Limited Engagement! See the wonders from beyond the sea!”* -- and the carnival draws entertainers, performers, and curiosities from across the Menagerie Coast and beyond.
+
+Following the tsunami of 845 PD, the carnival grounds became a gathering place and impromptu shelter for refugees streaming in from the countryside -- farmers and villagers whose homes were not spared as the city was. **Brun the Behemoth MacDonald**, a gentle half-orc strongman and prominent figure among the carnival folk, has been doing his best to take in the displaced. **Madame Musk**, an elderly fortune teller, is a familiar presence among the stalls.
+
+The carnival’s role as a refuge has not been without cost. A frightened mob of city-folk, looking for someone to blame for the tsunami, attacked the grounds, throwing rocks and torches, overturning carts, and shouting that the “strangers and freaks” had brought the catastrophe upon the city. The party helped put out the fires and the mob eventually dissipated, but the incident left its mark on both the carnival and the city’s fragile post-tsunami peace.
 
 ### The Sluice Weave Labyrinth
 
-Accessed by two submerged gates in the harbour.
+An ancient underground network of sewers and waterworks running beneath the city of Nicodranas, accessed by two submerged gates in the harbour. According to Captain Marius of the Restless Wharf, the system “hasn’t been working right for at least ten years.” In 845 PD, the party was commissioned by Marius to investigate.
+
+The tunnels are carved stone, roughly eight feet high and six feet wide, with ankle-deep water flowing through them. Carved markers appear every fifty feet, bearing ancient Marquesan numerals -- a numbering system that predates the current city by centuries. The infrastructure is mechanical and ingenious: at key junctions, sets of three wheels with clock-face markings control the water’s direction, magnitude, and frequency, allowing the operators of a bygone age to manage the flow of water throughout the city with precision.
+
+Deeper in the labyrinth, the tunnels open into a tall hexagonal chamber -- a balance room where four iron catwalks meet at a central pressure gate. Beneath the catwalks lies a deep sump pool that glows faintly with bioluminescent algae, and the humid air thrums with a rhythmic metallic clanging, like a vast heartbeat. Four massive balance valves, one at the end of each catwalk, must be harmonised to unlock the central gate and proceed further.
+
+Beyond the balance chamber lies the heart of the system: a circular natural cavern, forty feet across, with a domed ceiling dripping with mineral formations. At its centre, on a raised stone platform, stands an ancient stone pillar -- a ley stone -- six feet tall and roughly two feet in diameter, covered in glowing Primordial script. The inscription reads: *“Four winds carry, four waters flow, one heart protects all.”* The pillar is pre-Divergence construction, possibly dating to the era of the Julous Dominion, and draws on the energy of a ley line confluence beneath the city to power the Sluiceweave’s mechanical systems. Three water channels converge in a central whirlpool around the platform, and the cavern is noticeably colder than the surrounding tunnels.
+
+When the party first reached the ley stone, they found four brass censers burning at the cardinal points around the pillar, actively siphoning its energy -- draining the ancient engine like straws drawing from a well. The censers were destroyed, and a Kuo-Toa nest and chapel were discovered nearby; the party fought and drove off the fish-folk who had taken up residence in the tunnels. A fire elemental called **Pyra** now stands guard over the ley stone, ensuring the heart of the Sluiceweave remains protected.

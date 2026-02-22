@@ -1,14 +1,14 @@
 ---
 title: Session 0
 date created: Sunday, April 27th 2025, 10:24:52 pm
-date modified: Sunday, April 27th 2025, 11:14:47 pm
+date modified: Saturday, February 21st 2026, 6:03:22 pm
 aliases: []
 tags: []
-references: 
+references:
 authors: [NorthernScott]
 categories: [Sessions]
 date: 2025-04-13
-draft: true
+draft: false
 links: [Ground-Rules.md, House-Rules.md]
 ---
 

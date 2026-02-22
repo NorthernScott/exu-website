@@ -1,7 +1,7 @@
 ---
 title: Onde Orsal
 date created: Monday, April 21st 2025, 7:16:47 pm
-date modified: Saturday, May 3rd 2025, 8:56:23 pm
+date modified: Saturday, February 21st 2026, 6:03:22 pm
 aliases: []
 tags: [ada, cobalt-soul, npc]
 references: 

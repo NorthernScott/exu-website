@@ -15,8 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "dm-docs",
+      "template": "templates/session-notes.md"
+    },
+    {
+      "folder": "docs/npcs",
+      "template": "templates/npc.md"
     }
   ],
   "enable_file_templates": false,

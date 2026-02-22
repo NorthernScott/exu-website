@@ -1,7 +1,7 @@
 ---
 title: Yussa Errenis
 date created: Sunday, April 20th 2025, 1:16:42 pm
-date modified: Saturday, May 3rd 2025, 8:56:04 pm
+date modified: Saturday, February 21st 2026, 6:03:22 pm
 aliases: []
 tags: [ada, arcana-pansophical, mage, npc]
 references: [https://criticalrole.fandom.com/wiki/Yussa_Errenis]

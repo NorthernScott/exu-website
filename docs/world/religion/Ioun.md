@@ -1,7 +1,7 @@
 ---
 title: Ioun
 date created: Friday, April 18th 2025, 8:38:53 pm
-date modified: Sunday, April 27th 2025, 11:10:59 pm
+date modified: Saturday, February 21st 2026, 6:03:21 pm
 aliases: [The Broken God, The Knowing Mentor, The Knowing Mistress]
 tags: [culture, deity, religion]
 references: [https://criticalrole.fandom.com/wiki/The_Knowing_Mentor]
@@ -38,7 +38,7 @@ Though the Knowing Mentor’s followers generally worship in private, as they ar
  > 1. Unmask those who would destroy the Knowing Mentor. Learn their secrets and unveil them to the world.
  > 2. Uphold and teach the importance of reason, perception, and truth in guiding one’s emotions and path.
  > 3. Condemn those who lie without moral cause, for evil folk gain power when their followers obscure the truth. Never stoop to the level of selfish liars.
- >
+ > 
 > – from the Tal’Dorei Campaign Setting Reborn
 
 ## Trivia

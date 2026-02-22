@@ -1,7 +1,7 @@
 ---
 title: Alarise Stormshore
 date created: Saturday, April 19th 2025, 5:29:33 pm
-date modified: Thursday, April 24th 2025, 6:13:27 pm
+date modified: Saturday, February 21st 2026, 6:03:22 pm
 aliases: []
 tags: [alarise, character, pc]
 references: 
