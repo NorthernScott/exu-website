@@ -1,7 +1,7 @@
 ---
 title: Fronts
 date created: Sunday, February 22nd 2026, 8:00:52 am
-date modified: Sunday, February 22nd 2026, 8:56:04 am
+date modified: Sunday, February 22nd 2026, 1:39:20 pm
 aliases: []
 tags: [active-quest, dazz, dm-only, nicodranas, planar, plot]
 references:
@@ -11,7 +11,7 @@ references:
 
 ## Uk’otoa
 
-[Uk'otoa](https://criticalrole.fandom.com/wiki/Uk'otoa) is a leviathan demigod. Uk’otoa is a creation of [Zehir, the Cloaked Serpent](https://criticalrole.fandom.com/wiki/The_Cloaked_Serpent), left to rule the entirety of the [Lucidian Ocean](https://criticalrole.fandom.com/wiki/Lucidian_Ocean) as his proxy after Zehir was banished during [the Calamity](https://criticalrole.fandom.com/wiki/The_Calamity). Unbeknownst to anyone, Uk’otoa has redoubled his efforts to escape the bindings that the Mighty Nein placed on him because even though Zehir is currently a mortal, he is no longer constrained by the Divine Gate. Zehir bears a deep grudge against his creation because of Uk’otoa’s disloyalty in trying to displace the worship of Zehir after [the Divergence](https://criticalrole.fandom.com/wiki/The_Divergence).
+[U'kotoa](https://criticalrole.fandom.com/wiki/U'kotoa) is a leviathan demigod. Uk’otoa is a creation of [Zehir, the Cloaked Serpent](https://criticalrole.fandom.com/wiki/The_Cloaked_Serpent), left to rule the entirety of the [Lucidian Ocean](https://criticalrole.fandom.com/wiki/Lucidian_Ocean) as his proxy after Zehir was banished during [the Calamity](https://criticalrole.fandom.com/wiki/The_Calamity). Unbeknownst to anyone, Uk’otoa has redoubled his efforts to escape the bindings that the Mighty Nein placed on him because even though Zehir is currently a mortal, he is no longer constrained by the Divine Gate. Zehir bears a deep grudge against his creation because of Uk’otoa’s disloyalty in trying to displace the worship of Zehir after [the Divergence](https://criticalrole.fandom.com/wiki/The_Divergence).
 
 ## Shards
 
@@ -30,3 +30,9 @@ Dazz wants him stopped because:
 1. He likes Nicodranas, likes mortals, and is trying to protect them.
 2. Caliban’s meddling with the Sluiceweave weakened the city’s ancient magical defenses, making the tsunami far worse than it should have been.
 3. Dazz also has a vested interest in opposing the Djinni as an increase in their power could threaten Efreeti, though Dazz isn’t very invested in fire genie society.
+
+Caliban is trying to exercise power through 3 nexuses in Nicodranas:
+
+1. **The Sluiceweave Nexus:** A nexus of ley lines in the Sluiceweave; it provides him with magical power.
+2. **The Myriad’s Warehouse:** A centre of smuggling in the Skew; it provides him with financial power.
+3. **The Typhoon’s Rest:** An inn and tavern in the Restless Wharf where Caliban collects stories and fosters a network of relationships; it provides him with influence.

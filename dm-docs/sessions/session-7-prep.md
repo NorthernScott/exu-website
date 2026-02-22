@@ -1,7 +1,7 @@
 ---
 title: "Session 7 Prep: The Hunt for Caliban"
 date created: Saturday, November 22nd 2025, 9:46:04 pm
-date modified: Saturday, February 21st 2026, 6:03:23 pm
+date modified: Sunday, February 22nd 2026, 1:29:48 pm
 aliases: [session 7 prep]
 tags: [dm-only, prep, session-template]
 references: [lazy-dm-prep-guide]
@@ -113,27 +113,28 @@ If party helped: Doria thanks them, mentions the guard is stretched thin. “Str
 
 ## 4. Secrets and Clues
 
-1. Caliban is a djinn who came to Nicodranas approximately 6 years ago, building influence through smuggling (warehouse), siphoning magical energy (Sluiceweave), and an information network (tavern).
-2. Caliban’s goal is to gather enough power/resources to break free of an ancient binding. He needs magical artifacts (smuggling), raw magical energy (Sluiceweave ley line), and information about planar weaknesses in the city.
-3. Caliban’s 6-year energy drain weakened the city’s ancient magical defenses, making the tsunami far worse than it should have been.
-4. U’kotoa actually stopped the tsunami by creating the offshore barrier. This gives U’kotoa credit, worship, and influence -- the Kuo-Toa priests were already worshipping it, and more people are unknowingly attributing their survival to “the sea itself.”
-5. Dazz (as a fey entity) is trying to maintain balance and prevent Caliban from causing further catastrophe. He’s also worried about U’kotoa gaining influence through “saving” the city.
-6. The ley line anchor (ancient pillar in the Sluiceweave) is pre-Divergence construction, part of the city’s original magical infrastructure. Primordial inscription: “Four winds carry, four waters flow, one heart protects all.”
-7. Renz Kallow (warehouse manager) is trapped -- never met “Mr. Telban” personally, only deals with “Mr. Stormcaller” (Caliban’s alias) and Zephyr. Payment comes in gold bars stamped with City of Brass symbols.
-8. Mara (warehouse guard) is secretly reporting to “a contact at the Palace” -- she’s being paid to keep tabs on Caliban’s operation but not interfere.
-9. Rasha al-Nadir (air genasi woman at tavern) is a Djinn Hunter sent to capture Caliban for crimes in the City of Brass. She wants to capture him, not kill him -- potential conflict with Dazz’s mission.
-10. The Marquess (Lucien’s mother) is a secret follower/warlock of U’kotoa. She WANTS U’kotoa to gain power and influence. She’s been watching Caliban’s operation through Mara. She supports stopping Caliban because his job is done, he’s a loose end, and removing him preserves U’kotoa’s credit for saving the city.
+1. Caliban is a djinni (air genie) who came to Nicodranas approximately 2 years ago, shortly after the Apogee Solstice. He’s been secretly building influence through three fronts: smuggling (warehouse), siphoning magical energy (Sluiceweave), and an information network (tavern). His goal on the prime material plane is to take advantage of the change in divine power to increase his own power and influence. His higher goal is to increase his standing in the Citadel of Ice and Steel (the capital city of the elemental plane of air) by creating an outpost of the city - a Shard - on the prime material plane.
+2. Caliban is trying to exercise power through 3 nexuses in Nicodranas:
+	1. **The Sluiceweave Nexus:** A nexus of ley lines in the Sluiceweave; it provides him with magical power.
+	2. **The Myriad’s Warehouse:** A centre of smuggling in the Skew; it provides him with financial power.
+	3. **The Typhoon’s Rest:** An inn and tavern in the Restless Wharf where Caliban collects stories and fosters a network of relationships; it provides him with influence.
+3. U’kotoa actually stopped the tsunami by creating the offshore barrier. This gives U’kotoa credit, worship, and influence -- the Kuo-Toa priests were already worshipping it, and more people are unknowingly attributing their survival to “the sea itself.”
+4. Dazz is an Efreeti (fire genie). He wants to stop Caliban because:
+	1. He likes Nicodranas, likes mortals, and is trying to protect them.
+	2. Caliban’s meddling with the Sluiceweave weakened the city’s ancient magical defenses, making the tsunami far worse than it should have been.
+	3. Dazz also has a vested interest in opposing the Djinni as an increase in their power could threaten Efreeti, though Dazz isn’t very invested in fire genie society.
+5. The ley line anchor (ancient pillar in the Sluiceweave) is pre-Divergence construction, part of the city’s original magical infrastructure.
+6. Crawley (warehouse manager) is a Myriad leader. He is paying Caliban a tithe in the form of extra-planar creatures. They send one or two to the Typhoon’s Rest, they receive gold, and that’s that. They’ve never met. If Crawley needs to interface with anyone, it’s with Zephyr.
+7. Rasha al-Nadir (air genasi woman at tavern) is a Djinn Hunter sent to capture Caliban for crimes in the City of Brass. She wants to capture him, not kill him -- potential conflict with Dazz’s mission.
+8. The Marquess (Lucien’s mother) is a secret follower/warlock of U’kotoa. She WANTS U’kotoa to gain power and influence.
 
 ---
 
 ## 5. Fantastic Locations
 
-**Warehouse in the Skew (“Telban Maritime Storage”)**
+**Warehouse in the Skew
 
-- See: Three stories of weathered teak planks gone grey from sea spray, sagging tile roof missing shingles. Faded sign: “Telban Maritime Storage - Est. 839 PD” (Telban = anagram of Caliban). No 6-year-old business would look this decrepit.
-- Hear/Smell: Creak of wood, distant gulls, muffled voices from inside. Salt, tar, old fish, and something acrid like ozone.
-- Feel: Suspicious, deliberately aged exterior concealing active operations
-- Feature: Multiple entry points (front doors with guards, locked side door, rooftop skylight, barred office window). Interior has main storage (60x40ft, high ceiling with rafters for climbing), office with ledgers and strongbox, and hidden back room behind shelf of rope coils containing bottled air elementals, brass brazier with Primordial runes, and ritual components.
+A non-descript warehouse in the skew that is a centre of Myriad smuggling.
 
 **Place of Power in the Sluiceweave (Confluence of Three Waters)**
 
@@ -141,13 +142,6 @@ If party helped: Doria thanks them, mentions the guard is stretched thin. “Str
 - Hear/Smell: Rushing water, thrumming vibration, occasional crack of displaced energy. Wet stone, incense (sandalwood and something acrid), ozone.
 - Feel: Oppressive, watching, the sense of an ancient thing being wounded. Temperature drops noticeably (10 degrees cooler than surrounding tunnels).
 - Feature: Three water channels converge in central whirlpool. Platform 5ft higher than main floor. Water channels 3ft deep, fast-flowing (Athletics DC 12 to cross). Stalactites on ceiling (AC 15, 5 HP, falls deal 2d6 in 5ft radius). Damp stone gives disadvantage on Acrobatics/Athletics. Censers actively draining energy from the ley line anchor.
-
-**The Typhoon’s Rest (Tavern in Restless Wharf)**
-
-- See: Two-story building of salt-stained planks with slate roof and shuttered windows glowing orange. Sign of a ship in a tempest swings on rusted chains. Interior: long oak bar, mix of round and long tables (~35 seating), small stage with halfling bard Pip Silverstring.
-- Hear/Smell: Salt air, fried fish, ale, tobacco smoke, wet wood. Raucous laughter, clinking mugs, off-key singing, fiddle playing sailor’s tunes.
-- Feel: Rough but not dangerous; sailors unwinding, merchants making deals, locals avoiding questions
-- Feature: Back alley with private dock (20ft) for boat deliveries. External stairs to second floor. Room 4 is Caliban’s rental. Cellar has hidden area behind false wine rack (Investigation DC 16) containing smuggled goods, inactive portal circle, and ritual notes in Primordial.
 
 ---
 
@@ -163,26 +157,18 @@ If party helped: Doria thanks them, mentions the guard is stretched thin. “Str
 | Madame Musk | Elderly fortune teller | Chirping at the mob, ineffective |
 | Watch Captain Doria Venn | Exhausted, overworked post-tsunami | Disperses mob, takes statements; mentions guard is stretched thin |
 
-### Warehouse NPCs
-
-| NPC | Trait | Want |
-|-----|-------|------|
-| Renz Kallow | Human, 30s; thinning brown hair, perpetually damp shirt, ink-stained fingers, bags under eyes. Anxious, overwhelmed. | Wants to do the right thing but is trapped. Wife and young daughter in Opal Archways. Will cooperate if threatened (Intimidation DC 12), convinced family will be protected (Persuasion DC 14), or offered a way out. |
-| Jorik | Human, 40s; scarred face (burns on left side), broad shoulders, cudgel | Gruff, pragmatic. Paid 5gp/day. Will fight but not die for it. Surrenders if <10 HP or Mara falls. |
-| Mara | Human, 30s; lean and weathered, short dark hair, leather armor, loaded crossbow. Former Zhelezo. | Sharp, calculating. Secretly reporting to someone at the Palace. Avoids Watch Captain Doria Venn. Will flee if battle turns. |
-
 ### Tavern NPCs
 
-| NPC | Trait | Want |
-|-----|-------|------|
-| Maris Saltwind | Half-elf, 50s; sharp eyes, doesn’t miss much. Owner for 20 years. | Suspicious of strangers asking too many questions. Knows Caliban as “Mr. Stormcaller.” Worried but paid 10x normal rent. |
-| “Gentleman” Jack Rainer | Human, 40s; well-dressed for the Wharf, air of authority. Former sailor turned smuggler/fixer. | Caliban’s main human contact. Protects lucrative arrangement. Will not betray Caliban unless seriously threatened. |
-| Rasha al-Nadir | Air genasi woman; Djinn Hunter | Hunting Caliban for crimes in the City of Brass. Wants to capture, not kill. Might offer temporary alliance. |
-| Sera Tidecaller | Water genasi sailor | Recently saw strange lights in the harbour |
-| Old Bram | Human veteran; drunk | Rambles about “wind devils in the Skew” |
-| Kellin & Dara | Halfling couple; merchants | Overheard Jack talking about “shipment tonight” |
-| Pip Silverstring | Halfling bard | Performs on the small stage in the evenings |
-| Ganry | Older human man; deaf in one ear | Cook, loyal to Maris |
+| NPC                     | Trait                                                                                          | Want                                                                                                                     |
+| ----------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Maris Saltwind          | Half-elf, 50s; sharp eyes, doesn’t miss much. Owner for 20 years.                              | Suspicious of strangers asking too many questions. Knows Caliban as “Mr. Stormcaller.” Worried but paid 10x normal rent. |
+| “Gentleman” Jack Rainer | Human, 40s; well-dressed for the Wharf, air of authority. Former sailor turned smuggler/fixer. | Caliban’s main human contact. Protects lucrative arrangement. Will not betray Caliban unless seriously threatened.       |
+| Rasha al-Nadir          | Air genasi woman; Djinn Hunter                                                                 | Hunting Caliban for crimes in the City of Brass. Wants to capture, not kill. Might offer temporary alliance.             |
+| Sera Tidecaller         | Water genasi sailor                                                                            | Recently saw strange lights in the harbour                                                                               |
+| Old Bram                | Human veteran; drunk                                                                           | Rambles about “wind devils in the Skew”                                                                                  |
+| Kellin & Dara           | Halfling couple; merchants                                                                     | Overheard Jack talking about “shipment tonight”                                                                          |
+| Pip Silverstring        | Halfling bard                                                                                  | Performs on the small stage in the evenings                                                                              |
+| Ganry                   | Older human man; deaf in one ear                                                               | Cook, loyal to Maris                                                                                                     |
 
 ### Key Antagonist
 
@@ -242,8 +228,6 @@ If party helped: Doria thanks them, mentions the guard is stretched thin. “Str
 - Platinum collars from Invisible Stalkers -- 50gp each, marked with Primordial rune of binding
 - Various coins/gems from encounters
 - Amber from Session 6 -- ~1000gp (still in party’s possession)
-- Strongbox in warehouse office (locked DC 15) -- contains map of Nicodranas with three locations marked
-- Room 4 at tavern: Pouch with 50gp and a sending stone under floorboard (Investigation DC 15)
 - Ritual supplies in warehouse back room: chalk, powdered silver (200gp worth), essence of air
 
 ---

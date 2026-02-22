@@ -1,7 +1,7 @@
 ---
 title: Session 8 Notes
 date created: Saturday, February 21st 2026, 4:52:15 pm
-date modified: Saturday, February 21st 2026, 5:46:25 pm
+date modified: Sunday, February 22nd 2026, 12:28:17 pm
 aliases: [session 8 notes]
 tags: [dm-only, session-notes]
 references:
@@ -68,6 +68,7 @@ prep file: "[[session-8-prep]]"
 - At the end of the session they had looted the warehouse, realized it was full of planar creatures, and knew that eventually the Myriad patrols in the area would come to check-in.
 - They found the magic mirror in a safe but DID NOT show their faces, so the Myriad does not know who they are.
 - They had not yet lit the lantern that Drazz gave them and that released the air elemental in the Sluiceweave.
+- They found 9000 gp + gems and some assorted stuff
 
 ---
 
