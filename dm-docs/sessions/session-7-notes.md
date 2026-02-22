@@ -88,12 +88,12 @@ Combat begins as Zephyr and air elementals show up.
 
 ## NPC Moments
 
-| NPC | What happened | Follow-up needed? |
-|-----|---------------|--------------------|
-| Const. Dave Davidson | Zelezho constable at the carnival riot. Seems sweet and well meaning. Tried to arrest Helga but was dissuaded by her, Shin, and Lucien. | Yes -- could be a recurring friendly NPC |
+| NPC                            | What happened                                                                                                                                                                 | Follow-up needed?                                   |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| Const. Dave Davidson           | Zelezho constable at the carnival riot. Seems sweet and well meaning. Tried to arrest Helga but was dissuaded by her, Shin, and Lucien.                                       | Yes -- could be a recurring friendly NPC            |
 | Lucien’s Mother (the Marquess) | Lucien told her about the Kuo-toa, Skrang, and complained about churches. She challenged him: “philosophers never changed the world.” He did NOT tell her about Dazz’s quest. | Yes -- she doesn’t know about the Caliban quest yet |
-| Zephyr | Caliban’s lieutenant. Showed up at the Sluiceweave with air elementals after censers were destroyed. Fled from combat. | Yes -- she escaped and will report to Caliban |
-| Pyra (Fire Elemental) | Burst forth from Shin’s Lantern. Named Pyra. Destroyed one air elemental. Remains in the chamber to guard the Ley Stone. | Yes -- Pyra is now guarding the Ley Stone |
+| Zephyr                         | Caliban’s lieutenant. Showed up at the Sluiceweave with air elementals after censers were destroyed. Fled from combat.                                                        | Yes -- she escaped and will report to Caliban       |
+| Pyra (Fire Elemental)          | Burst forth from Shin’s Lantern. Named Pyra. Destroyed one air elemental. Remains in the chamber to guard the Ley Stone.                                                      | Yes -- Pyra is now guarding the Ley Stone           |
 
 ---
 

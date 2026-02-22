@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ff2a28bce52039e",
+            "id": "eff08150a3ef776e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/blog/posts/session-8.md",
+                "file": "dm-docs/sessions/session-7-prep.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,79 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "session-8"
+              "title": "session-7-prep"
+            }
+          },
+          {
+            "id": "22f83e74fe262004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm-docs/sessions/session-7-notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "session-7-notes"
+            }
+          },
+          {
+            "id": "7f46ccf5f12b7347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm-docs/sessions/session-9-prep.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "session-9-prep"
+            }
+          },
+          {
+            "id": "5ac4d6b3b2655756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dm-docs/fronts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "fronts"
             }
           }
         ]
@@ -176,13 +248,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/blog/posts/session-8.md",
+                "file": "dm-docs/sessions/session-7-prep.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of session-8"
+              "title": "Outline of session-7-prep"
             }
           }
         ],
@@ -200,19 +272,17 @@
               "state": {
                 "calendar": "ID_d80bfb99bbd8",
                 "ephemeral": {
-                  "viewing": {
+                  "viewState": 1,
+                  "displaying": {
                     "day": 15,
                     "month": 2,
                     "year": 845
                   },
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 16,
-                    "month": 2,
-                    "year": 845
-                  },
                   "displayDayNumber": false,
-                  "displayMoons": true
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true
                 },
                 "id": "ID_ea89a9ab6bba"
               },
@@ -256,30 +326,28 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "6ff2a28bce52039e",
+  "active": "eff08150a3ef776e",
   "lastOpenFiles": [
-    "docs/blog/posts/session-7.md",
-    "docs/blog/posts/session-6.md",
-    "docs/blog/posts/session-5.md",
-    "docs/blog/posts/session-4.md",
-    "docs/blog/posts/session-3.md",
-    "docs/blog/posts/session-2.md",
-    "docs/blog/posts/session-1.md",
-    "docs/blog/posts/session-0.md",
+    "docs/index.md",
+    "dm-docs/fronts.md",
+    "docs/the-party/lucien-sugea.md",
     "dm-docs/sessions/session-9-prep.md",
+    "docs/world/religion/Avandra.md",
+    "dm-docs/sessions/session-7-prep.md",
+    "dm-docs/sessions/session-7-notes.md",
+    "docs/npcs/doria-venn.md",
+    "dm-docs/npcs/minor-npcs.md",
+    "dm-docs/npcs",
     "docs/blog/posts/session-8.md",
-    "docs/blog/posts/session-8.md.tmp.826223.1771722069993",
-    "docs/blog/posts/session-7.md.tmp.826223.1771722044817",
-    "docs/blog/posts/session-6.md.tmp.826223.1771722018713",
-    "docs/blog/posts/session-4.md.tmp.826223.1771722005255",
-    "docs/blog/posts/session-5.md.tmp.826223.1771721998062",
-    "docs/blog/posts/session-3.md.tmp.826223.1771721984695",
-    "docs/blog/posts/session-2.md.tmp.826223.1771721963587",
-    "docs/blog/posts/session-1.md.tmp.826223.1771721947392",
-    "dm-docs/sessions/session-9-prep.md.tmp.826223.1771721495583",
-    "dm-docs/sessions/session-8-notes.md",
     "site/assets/javascripts/glightbox.min.js",
-    "site/assets/images/favicon.png",
+    "site/assets/stylesheets/glightbox.min.css",
+    "site/feed_json_updated.json",
+    "site/feed_json_created.json",
+    "site/feed_rss_updated.xml",
+    "site/feed_rss_created.xml",
+    "site/search/search_index.json",
+    "site/search",
+    "site/assets/javascripts/bundle.c8b220af.min.js",
     "site/assets/maps/map-nicodranas.png",
     "site/assets/maps/map-exandria-low-res.png",
     "site/assets/images/yussa-errenis.png",
@@ -289,21 +357,23 @@
     "site/assets/images/sigil-changebringer.png",
     "site/assets/images/shin-cherou.png",
     "site/assets/images/scottyd.png",
+    "site/assets/images/reilorans.png",
+    "docs/blog/posts/session-7.md",
+    "docs/blog/posts/session-6.md",
+    "docs/blog/posts/session-5.md",
+    "docs/blog/posts/session-4.md",
+    "docs/blog/posts/session-3.md",
+    "docs/blog/posts/session-2.md",
+    "docs/blog/posts/session-1.md",
+    "docs/blog/posts/session-0.md",
+    "dm-docs/sessions/session-8-notes.md",
     "docs/npcs/nana-morri.md",
-    "docs/npcs/doria-venn.md",
     "docs/npcs/rev-seraphine-duroy.md",
     "docs/npcs/rev-haim-cortho.md",
     "docs/npcs/sister-thana.md",
     "docs/npcs/brun-macdonald.md",
     "docs/npcs/the-marquess.md",
     "docs/npcs/captain-marius.md",
-    "dm-docs/sessions/session-4-notes.md",
-    "dm-docs/sessions/session-4-prep.md",
-    "docs/the-party/ada-glowsword.md",
-    "templates/session-notes.md",
-    "dm-docs/sessions/session-8-prep.md",
-    "templates/session-prep.md",
-    "Session 8 Prep.md",
     "dm-docs/plot/Plot Hook Ideas.canvas"
   ]
 }

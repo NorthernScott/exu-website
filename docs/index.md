@@ -1,9 +1,9 @@
 ---
 title: Home
 date created: Sunday, April 13th 2025, 10:19:29 pm
-date modified: Saturday, February 21st 2026, 6:03:22 pm
+date modified: Sunday, February 22nd 2026, 8:36:55 am
 aliases: [entrypoint, homepage, overview]
-tags: []
+tags: [site-page]
 references: 
 hide: [toc]
 ---
@@ -12,14 +12,15 @@ hide: [toc]
 
 ## Sections
 
-- :fontawesome-solid-person-drowning:{ .lg .middle } [The Party](the-party/index.md)
-- :simple-planetscale:{ .lg .middle } [The World](world/index.md)
-- :material-newspaper:{ .lg .middle } [Sessions](blog/index.md)
-- :fontawesome-solid-people-roof:{ .lg .middle } [NPCs](npcs/index.md)
-- :fontawesome-solid-file-contract:{ .lg .middle } [Ground Rules](ground-rules.md)
-- :material-ruler-square-compass:{ .lg .middle } [House Rules](house-rules.md)
+- [The Party](the-party/index.md)
+- [The World](world/index.md)
+- [Sessions](blog/index.md)
+- [NPCs](npcs/index.md)
+- [Ground Rules](ground-rules.md)
+- [House Rules](house-rules.md)
 
 ## Useful Links
 
-- :simple-redragon:{ .lg .middle }[D&D Beyond](https://www.dndbeyond.com/)
-- :fontawesome-solid-paintbrush:{ .lg .middle } [Dreamstudio](https://dreamstudio.stability.ai/)
+- [Critical Role Wiki | Exandria](https://criticalrole.fandom.com/wiki/Exandria)
+- [D&D Beyond](https://www.dndbeyond.com/)
+- [Dreamstudio](https://dreamstudio.stability.ai/)
