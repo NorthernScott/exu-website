@@ -13,14 +13,10 @@
                 "id": "6653dbad61dc3631",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Meta/Characters.md",
-                    "mode": "source",
-                    "source": true
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "Characters"
+                  "title": "New tab"
                 }
               }
             ]
@@ -35,7 +31,6 @@
           {
             "id": "7a322518a0f2c430",
             "type": "tabs",
-            "dimension": 67.6056338028169,
             "children": [
               {
                 "id": "517c6468f65e4a73",
@@ -78,43 +73,31 @@
                 }
               }
             ]
-          },
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "f13de474ac26bd19",
+        "type": "split",
+        "children": [
           {
-            "id": "2db0567dc744242a",
+            "id": "34cc504e11c7d1d9",
             "type": "tabs",
-            "dimension": 32.3943661971831,
             "children": [
               {
-                "id": "3d6c367cebba4b67",
+                "id": "2520415aaeef81cd",
                 "type": "leaf",
                 "state": {
-                  "type": "backlink",
+                  "type": "outline",
                   "state": {
-                    "file": "Meta/Characters.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
+                    "followCursor": false,
                     "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
+                    "searchQuery": ""
                   },
-                  "icon": "links-coming-in",
-                  "title": "Backlinks for Characters"
-                }
-              },
-              {
-                "id": "447ebb0bfd37693b",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "Plot Hook Ideas.canvas",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-going-out",
-                  "title": "Outgoing links from Plot Hook Ideas"
+                  "icon": "lucide-list",
+                  "title": "Outline"
                 }
               },
               {
@@ -133,108 +116,34 @@
                 }
               },
               {
-                "id": "2520415aaeef81cd",
+                "id": "3d6c367cebba4b67",
                 "type": "leaf",
                 "state": {
-                  "type": "outline",
+                  "type": "backlink",
                   "state": {
-                    "file": "Plot Hook Ideas.canvas",
-                    "followCursor": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
                     "showSearch": false,
-                    "searchQuery": ""
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
                   },
-                  "icon": "lucide-list",
-                  "title": "Outline of Plot Hook Ideas"
+                  "icon": "links-coming-in",
+                  "title": "Backlinks"
                 }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 300
-      },
-      "right": {
-        "id": "f13de474ac26bd19",
-        "type": "split",
-        "children": [
-          {
-            "id": "a5e4bee8245af70d",
-            "type": "tabs",
-            "children": [
+              },
               {
-                "id": "db44d01243d843da",
+                "id": "447ebb0bfd37693b",
                 "type": "leaf",
                 "state": {
-                  "type": "CALENDARIUM",
+                  "type": "outgoing-link",
                   "state": {
-                    "calendar": "ID_d80bfb99bbd8",
-                    "ephemeral": {
-                      "viewing": null,
-                      "viewState": 1,
-                      "displaying": {
-                        "day": 24,
-                        "month": 2,
-                        "year": 845
-                      },
-                      "displayDayNumber": false,
-                      "hideEra": false,
-                      "displayAbsoluteYear": false,
-                      "displayMoons": true
-                    },
-                    "id": "ID_189b4b89cb88"
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
                   },
-                  "icon": "CALENDARIUM",
-                  "title": "Calendarium"
-                }
-              },
-              {
-                "id": "5fb6f85aa01e40f9",
-                "type": "leaf",
-                "state": {
-                  "type": "all-properties",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-archive",
-                  "title": "All properties"
-                }
-              }
-            ]
-          },
-          {
-            "id": "a4b1abab1ed37c7f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "afee92e630e67a44",
-                "type": "leaf",
-                "state": {
-                  "type": "DICE_ROLLER_VIEW",
-                  "state": {},
-                  "icon": "dices",
-                  "title": "Dice Tray"
-                }
-              },
-              {
-                "id": "622bc5f4b5e9d317",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-view",
-                  "state": {},
-                  "icon": "initiative-tracker",
-                  "title": "Initiative Tracker"
-                }
-              },
-              {
-                "id": "41f84c85cfe43ebe",
-                "type": "leaf",
-                "state": {
-                  "type": "fantasy-statblocks-creature-pane",
-                  "state": {},
-                  "icon": "skull",
-                  "title": "Combatant"
+                  "icon": "links-going-out",
+                  "title": "Outgoing links"
                 }
               }
             ],
@@ -246,6 +155,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "bases:Create new base": false,
           "switcher:Open quick switcher": false,
           "graph:Open graph view": false,
           "canvas:Create new canvas": false,
@@ -255,15 +165,12 @@
           "workspaces:Manage workspace layouts": false,
           "table-editor-obsidian:Advanced Tables Toolbar": false,
           "templater-obsidian:Templater": false,
-          "initiative-tracker:Initiative Tracker Encounter Builder": false,
           "obsidian-5e-statblocks:Open Creature pane": false,
-          "obsidian-leaflet-plugin:Open Leaflet Map": false,
-          "obsidian42-brat:BRAT": true,
           "calendarium:Open Calendarium": false
         }
       },
-      "active": "6653dbad61dc3631",
-      "mtime": "2025-04-13T22:28:24-06:00"
+      "active": "2520415aaeef81cd",
+      "mtime": "2026-02-22T16:36:15-07:00"
     },
     "Game Session": {
       "main": {
@@ -271,25 +178,155 @@
         "type": "split",
         "children": [
           {
-            "id": "ed0c912361cc192a",
+            "id": "f699e6b93d7ee320",
             "type": "tabs",
             "children": [
               {
-                "id": "6e1a5f25b78b6856",
+                "id": "5ac4d6b3b2655756",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "templates/session-notes.md",
+                    "file": "dm-docs/fronts.md",
                     "mode": "source",
-                    "source": true,
-                    "backlinks": false
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
                   "icon": "lucide-file",
-                  "title": "session-notes"
+                  "title": "fronts"
+                }
+              },
+              {
+                "id": "eff08150a3ef776e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "dm-docs/sessions/session-7-prep.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "session-7-prep"
+                }
+              },
+              {
+                "id": "7f46ccf5f12b7347",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "dm-docs/sessions/session-9-prep.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "session-9-prep"
+                }
+              },
+              {
+                "id": "64f0ffb5e67e523d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "dm-docs/sessions/session-9-notes.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "session-9-notes"
+                }
+              },
+              {
+                "id": "9faf56a802afea7a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "docs/the-party/lucien-sugea.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "lucien-sugea"
+                }
+              },
+              {
+                "id": "ce453e096267c9ee",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "docs/the-party/shin-cherou.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "shin-cherou"
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           }
         ],
         "direction": "vertical"
@@ -309,7 +346,7 @@
                   "type": "file-explorer",
                   "state": {
                     "sortOrder": "alphabetical",
-                    "autoReveal": false
+                    "autoReveal": true
                   },
                   "icon": "lucide-folder-closed",
                   "title": "Files"
@@ -355,6 +392,7 @@
           {
             "id": "720073193a8ddad9",
             "type": "tabs",
+            "dimension": 50.24875621890548,
             "children": [
               {
                 "id": "bc24b0fb93e3e9d3",
@@ -419,38 +457,47 @@
                 }
               },
               {
-                "id": "0676b41005a79522",
+                "id": "12fdae58edbc87c9",
+                "type": "leaf",
+                "state": {
+                  "type": "footnotes",
+                  "state": {},
+                  "icon": "lucide-file-signature",
+                  "title": "Footnotes"
+                }
+              },
+              {
+                "id": "08189b47584ed497",
                 "type": "leaf",
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "templates/session-notes.md",
+                    "file": "dm-docs/sessions/session-9-notes.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
                   },
                   "icon": "lucide-list",
-                  "title": "Outline of session-notes"
+                  "title": "Outline of session-9-notes"
                 }
               },
               {
-                "id": "12fdae58edbc87c9",
+                "id": "6edab25807f562fc",
                 "type": "leaf",
                 "state": {
-                  "type": "footnotes",
-                  "state": {
-                    "file": "templates/session-notes.md"
-                  },
-                  "icon": "lucide-file-signature",
-                  "title": "Footnotes"
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 5
           },
           {
             "id": "ef0cd047fbcc1c3c",
             "type": "tabs",
+            "dimension": 49.75124378109452,
             "children": [
               {
                 "id": "26f7429648c6ab58",
@@ -460,22 +507,19 @@
                   "state": {
                     "calendar": "ID_d80bfb99bbd8",
                     "ephemeral": {
-                      "viewing": {
-                        "day": 16,
-                        "month": 2,
-                        "year": 845
-                      },
                       "viewState": 1,
                       "displaying": {
-                        "day": 16,
+                        "day": 15,
                         "month": 2,
                         "year": 845
                       },
                       "displayDayNumber": false,
-                      "displayMoons": true
+                      "displaySeasonColors": true,
+                      "interpolateColors": true,
+                      "displayMoons": true,
+                      "displayWeather": true
                     },
-                    "id": "ID_ea89a9ab6bba",
-                    "child": "ID_aa689aa92a6a"
+                    "id": "ID_ea89a9ab6bba"
                   },
                   "icon": "CALENDARIUM",
                   "title": "Calendarium"
@@ -494,53 +538,12 @@
                   "icon": "CALENDARIUM_AGENDA",
                   "title": "Agenda"
                 }
-              },
-              {
-                "id": "907525de3c4b426b",
-                "type": "leaf",
-                "state": {
-                  "type": "initiative-tracker-view",
-                  "state": {},
-                  "icon": "initiative-tracker",
-                  "title": "Initiative Tracker"
-                }
-              },
-              {
-                "id": "ff0402a336d88c1d",
-                "type": "leaf",
-                "state": {
-                  "type": "DICE_ROLLER_VIEW",
-                  "state": {},
-                  "icon": "dices",
-                  "title": "Dice Tray"
-                }
-              }
-            ]
-          },
-          {
-            "id": "2cfa42ebb9ee9ad8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fd1c59dadac67985",
-                "type": "leaf",
-                "state": {
-                  "type": "CALENDARIUM_AGENDA",
-                  "state": {
-                    "calendar": "ID_d80bfb99bbd8",
-                    "id": "ID_aa689aa92a6a",
-                    "parent": "ID_ea89a9ab6bba"
-                  },
-                  "icon": "CALENDARIUM_AGENDA",
-                  "title": "Agenda"
-                }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 357.5,
-        "collapsed": true
+        "width": 438.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -552,16 +555,14 @@
           "command-palette:Open command palette": false,
           "workspaces:Manage workspace layouts": false,
           "templater-obsidian:Templater": false,
-          "initiative-tracker:Initiative Tracker Encounter Builder": false,
           "obsidian-5e-statblocks:Open Creature pane": false,
-          "obsidian-leaflet-plugin:Open Leaflet Map": false,
           "obsidian-kanban:Create new board": false,
           "table-editor-obsidian:Advanced Tables Toolbar": false,
           "calendarium:Open Calendarium": false
         }
       },
-      "active": "6e1a5f25b78b6856",
-      "mtime": "2026-02-21T14:28:25-07:00"
+      "active": "64f0ffb5e67e523d",
+      "mtime": "2026-02-22T16:35:00-07:00"
     }
   },
   "active": "Campaign Prep"
